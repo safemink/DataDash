@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Default ignored files
+/shelf/
+/workspace.xml
