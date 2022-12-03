@@ -1,0 +1,1092 @@
+,Last,First,Play Time,Minutes,Seconds,Goals,Shots,Action Goals,Action Shots,Center Goals,Center Shots,Drive Goals,Drive Shots,Extra Goals,Extra Shots,Foul Goals,Foul Shots,6MF Goals,6MF Shots,PS Goals,PS Shots,CA Goals,CA Shots,TF,ST,RB,BL,SP Won,SP Attempts,CP EX,FP EX,DS EX,M6 EX,CS EX,DE,P EX,Total EX,Team,Opponent,Outcome,stat_type,Match Number,Ref 1,Ref 2
+0,MADI,Lwazi,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+1,CARD,Devon,16:08,16.0,8.0,0.0,2.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+2,REZELMAN,Timothy,14:02,14.0,2.0,1.0,2.0,1.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+3,BADENHORST,Nardus,14:34,14.0,34.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,2.0,,1.0,,,,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+4,LAURENSON,Cameron Bain,10:59,10.0,59.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,2.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+5,STONE,Ross,24:27,24.0,27.0,1.0,4.0,0.0,2.0,,,,,0.0,1.0,,,,,,,1.0,1.0,1.0,,2.0,2.0,0.0,2.0,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+6,EVEZARD,Jason,24:30,24.0,30.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,,0.0,1.0,1.0,,,,1.0,,,2.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+7,RODDA,Nicholas,21:46,21.0,46.0,0.0,5.0,0.0,2.0,,,,,0.0,2.0,0.0,1.0,,,,,,,,,1.0,1.0,0.0,1.0,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+8,MARGRO,Yaseen,15:53,15.0,53.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,1.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+9,MAYMAN,Mogamad Farouk,12:52,12.0,52.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+10,NEILL,Liam,18:48,18.0,48.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+11,STEWART,Donn,18:01,18.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,ITA,L,Player,1,IVANOSKI,SALNICHENKO
+12,,,,,,2.0,17.0,1.0,9.0,0.0,1.0,,,0.0,5.0,0.0,1.0,,,,,1.0,1.0,10.0,3.0,4.0,3.0,0.0,4.0,4.0,1.0,,,2.0,,,7.0,RSA,ITA,L,Team,1,IVANOSKI,SALNICHENKO
+13,Del LUNGO,Marco,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+14,Di FULVIO,Francesco,21:41,21.0,41.0,5.0,10.0,0.0,2.0,,,1.0,2.0,2.0,2.0,,,,,,,2.0,4.0,,1.0,1.0,,3.0,3.0,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+15,LUONGO,Stefano,20:49,20.0,49.0,2.0,2.0,,,,,,,1.0,1.0,,,,,,,1.0,1.0,,,1.0,,1.0,1.0,1.0,,,,,,,1.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+16,PRESCIUTTI,Nicholas,19:12,19.0,12.0,2.0,2.0,,,,,,,,,,,,,,,2.0,2.0,1.0,1.0,1.0,,,,1.0,,,,,,,1.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+17,VELOTTO,Alessandro,19:10,19.0,10.0,2.0,2.0,,,,,,,1.0,1.0,,,,,,,1.0,1.0,,4.0,,,,,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+18,RENZUTO IODICE,Vincenzo,21:38,21.0,38.0,1.0,3.0,0.0,1.0,,,,,1.0,1.0,,,,,,,0.0,1.0,1.0,3.0,1.0,,,,1.0,,,,,,,1.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+19,ECHENIQUE,Gonzalo,23:41,23.0,41.0,2.0,3.0,1.0,1.0,0.0,1.0,,,,,,,,,,,1.0,1.0,,,1.0,1.0,,,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+20,FIGARI,Niccolo,16:01,16.0,1.0,2.0,3.0,1.0,2.0,,,,,,,,,,,,,1.0,1.0,,,1.0,1.0,,,,1.0,,,,,,1.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+21,BODEGAS,Michael Alexandre,16:13,16.0,13.0,2.0,7.0,0.0,1.0,2.0,4.0,,,0.0,1.0,,,,,,,0.0,1.0,2.0,2.0,,,,,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+22,AICARDI,Matteo,15:47,15.0,47.0,2.0,3.0,,,0.0,1.0,,,1.0,1.0,,,,,,,1.0,1.0,1.0,2.0,,,,,1.0,,,,,,,1.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+23,DOLCE,Vincenzo,17:48,17.0,48.0,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,,,,,1.0,,,,1.0,,,2.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+24,NICOSIA,Gianmarco,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ITA,RSA,W,Player,1,SALNICHENKO,IVANOSKI
+25,,,,,,21.0,36.0,2.0,7.0,2.0,6.0,1.0,2.0,6.0,7.0,,,,,,,10.0,14.0,6.0,18.0,6.0,2.0,4.0,4.0,5.0,1.0,,,1.0,,,7.0,ITA,RSA,W,Team,1,SALNICHENKO,IVANOSKI
+26,NAGY,Viktor,31:43,31.0,43.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+27,ANGYAL,Daniel,17:57,17.0,57.0,2.0,4.0,,,1.0,1.0,,,1.0,2.0,,,,,,,0.0,1.0,1.0,,1.0,,,,2.0,,,,,,,2.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+28,MANHERCZ,Krisztian,20:31,20.0,31.0,1.0,7.0,0.0,3.0,,,,,1.0,3.0,,,,,,,0.0,1.0,,,1.0,,,,,,,,,,,0.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+29,ZALANKI,Gergo,26:30,26.0,30.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,2.0,2.0,3.0,1.0,1.0,,,,,,2.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+30,VAMOS,Marton,25:36,25.0,36.0,0.0,3.0,0.0,1.0,,,,,0.0,1.0,0.0,1.0,,,,,,,,1.0,2.0,,,,,,,,,,,0.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+31,HOSNYANSZKY,Norbert,7:09,7.0,9.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+32,PASZTOR,Matyas,12:18,12.0,18.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,2.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+33,JANSIK,Szilard,9:29,9.0,29.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+34,ERDELYI,Balazs,16:36,16.0,36.0,3.0,7.0,1.0,3.0,,,,,1.0,3.0,,,,,,,1.0,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,,,,,,,1.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+35,VARGA,Denes,29:17,29.0,17.0,3.0,11.0,0.0,4.0,,,,,2.0,3.0,0.0,2.0,,,,,1.0,2.0,,1.0,3.0,1.0,,,,,,,,,,0.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+36,MEZEI,Tamas,14:20,14.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+37,HARAI,Balazs,12:34,12.0,34.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,,,1.0,1.0,,,3.0,HUN,GRE,L,Player,2,PUTNIKOVIC,ZWART
+38,,,,,,9.0,38.0,1.0,14.0,1.0,1.0,,,5.0,15.0,0.0,3.0,,,,,2.0,5.0,3.0,6.0,8.0,5.0,3.0,4.0,10.0,2.0,,1.0,2.0,,,15.0,HUN,GRE,L,Team,2,PUTNIKOVIC,ZWART
+39,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+40,GENIDOUNIAS,Konstantinos,30:29,30.0,29.0,2.0,4.0,1.0,2.0,,,,,1.0,2.0,,,,,,,,,,,3.0,,0.0,1.0,2.0,,,,,,,2.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+41,SKOUMPAKIS,Dimitrios,11:39,11.0,39.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,1.0,2.0,,,3.0,,,,,,,3.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+42,KAPOTSIS,Marios,16:31,16.0,31.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+43,FOUNTOULIS,Ioannis,28:45,28.0,45.0,3.0,7.0,0.0,3.0,,,,,3.0,4.0,,,,,,,,,,,,2.0,,,1.0,,,,,,,1.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+44,PAPANASTASIOU,Alexandros,20:16,20.0,16.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,,,,,1.0,2.0,1.0,,,,,,,1.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+45,DERVISIS,Georgios,3:52,3.0,52.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,3.0,,,,,,,3.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+46,ARGYROPOULOS KANAKAKIS,Stylianos,18:48,18.0,48.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,,0.0,1.0,2.0,1.0,,,,,,3.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+47,MOURIKIS,Konstantinos,11:01,11.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,0.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+48,KOLOMVOS,Christodoulos,14:28,14.0,28.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,2.0,,,,,,,2.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+49,GKIOUVETSIS,Konstantinos,4:58,4.0,58.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+50,VLACHOPOULOS,Angelos,31:13,31.0,13.0,2.0,7.0,0.0,3.0,,,,,2.0,3.0,0.0,1.0,,,,,,,,,2.0,2.0,,,,,,,,,,0.0,GRE,HUN,W,Player,2,ZWART,PUTNIKOVIC
+51,,,,,,10.0,26.0,1.0,12.0,,,,,9.0,13.0,0.0,1.0,,,,,,,1.0,,8.0,7.0,1.0,4.0,14.0,2.0,,,,,,16.0,GRE,HUN,W,Team,2,ZWART,PUTNIKOVIC
+52,WOLF,Alex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+53,HOOPER,Johnny,23:37,23.0,37.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,3.0,,4.0,4.0,,,,,,,,0.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+54,VAVIC,Marko,20:34,20.0,34.0,1.0,3.0,0.0,1.0,,,1.0,1.0,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,0.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+55,OBERT,Alex,10:01,10.0,1.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+56,DAUBE,Hannes,26:15,26.0,15.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,2.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+57,CUPIDO,Luca,24:30,24.0,30.0,2.0,6.0,1.0,4.0,0.0,1.0,,,1.0,1.0,,,,,,,,,,,4.0,2.0,,,2.0,,,,,,,2.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+58,HALLOCK,Ben,25:57,25.0,57.0,3.0,5.0,,,2.0,3.0,,,1.0,1.0,0.0,1.0,,,,,,,2.0,1.0,,1.0,,,,,,,,,1.0,1.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+59,WOODHEAD,Dylan,2:32,2.0,32.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+60,BOWEN,Alex,21:13,21.0,13.0,5.0,6.0,1.0,2.0,,,,,2.0,2.0,,,,,1.0,1.0,1.0,1.0,1.0,,2.0,1.0,,,,,,,,,1.0,1.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+61,STEVENSON,Ben,14:46,14.0,46.0,0.0,4.0,,,,,,,0.0,3.0,0.0,1.0,,,,,,,,,2.0,1.0,,,,,,,,,,0.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+62,IRVING,Max,22:35,22.0,35.0,1.0,5.0,1.0,1.0,,,,,0.0,3.0,,,,,,,0.0,1.0,,1.0,1.0,,,,,1.0,,,,,1.0,2.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+63,HOLLAND,Drew,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,USA,JPN,W,Player,3,VOEVODIN,DERVIEUX
+64,,,,,,15.0,35.0,4.0,12.0,2.0,4.0,1.0,1.0,6.0,13.0,0.0,2.0,,,1.0,1.0,1.0,2.0,4.0,3.0,13.0,6.0,4.0,4.0,7.0,1.0,,,,,4.0,12.0,USA,JPN,W,Team,3,VOEVODIN,DERVIEUX
+65,TANAMURA,Katsuyuki,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+66,ADACHI,Seiya,26:52,26.0,52.0,3.0,6.0,2.0,4.0,,,,,0.0,1.0,,,,,1.0,1.0,,,,2.0,1.0,,0.0,2.0,1.0,,,,,,,1.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+67,KOPPU,Harukiirario,27:41,27.0,41.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,1.0,,,,,,,1.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+68,SHIGA,Mitsuaki,27:00,27.0,0.0,3.0,4.0,1.0,2.0,,,,,2.0,2.0,,,,,,,,,1.0,,1.0,2.0,,,,2.0,,,,,,2.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+69,YOSHIDA,Takuma,13:19,13.0,19.0,,,,,,,,,,,,,,,,,,,,1.0,1.0,,0.0,1.0,,,,,,,,0.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+70,SUZUKI,Toi,13:36,13.0,36.0,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,1.0,,,0.0,1.0,,,,,,,,0.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+71,SHIMIZU,Yusuke,6:45,6.0,45.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+72,TAKATA,Mitsuru,7:39,7.0,39.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,1.0,,1.0,,,1.0,,1.0,,,,,2.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+73,ARAI,Atsushi,20:41,20.0,41.0,2.0,4.0,0.0,1.0,,,,,2.0,2.0,,,,,,,0.0,1.0,,,,,,,1.0,1.0,,,,,,2.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+74,INABA,Yusuke,25:59,25.0,59.0,3.0,8.0,0.0,3.0,,,,,,,0.0,2.0,,,3.0,3.0,,,1.0,2.0,1.0,,,,1.0,,,,1.0,,,2.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+75,OKAWA,Keigo,17:22,17.0,22.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,2.0,,,1.0,1.0,,,,,1.0,3.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+76,ARAKI,Kenta,5:06,5.0,6.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,USA,L,Player,3,DERVIEUX,VOEVODIN
+77,,,,,,13.0,32.0,3.0,17.0,,,,,5.0,7.0,0.0,2.0,,,4.0,4.0,1.0,2.0,5.0,8.0,5.0,5.0,0.0,4.0,6.0,4.0,1.0,,1.0,,1.0,13.0,JPN,USA,L,Team,3,DERVIEUX,VOEVODIN
+78,CAMPBELL,Richard,26:14,26.0,14.0,3.0,5.0,2.0,3.0,1.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+79,FORD,George,5:04,5.0,4.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,3.0,,,,,,,3.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+80,TOMASEVIC,Goran,8:49,8.0,49.0,1.0,2.0,,,1.0,1.0,,,0.0,1.0,,,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+81,POWER,Nathan,17:08,17.0,8.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+82,EDWARDS,Lachlan Robert,15:48,15.0,48.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+83,ROACH,Aidan,22:45,22.0,45.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+84,YOUNGER,Aaron,27:01,27.0,1.0,2.0,4.0,0.0,1.0,,,,,1.0,2.0,,,,,,,1.0,1.0,,2.0,,,,,,,,,,,,0.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+85,FORD,Andrew,13:14,13.0,14.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+86,PUTT,Timothy Francis,17:43,17.0,43.0,1.0,3.0,1.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+87,HOWDEN,Rhys,25:30,25.0,30.0,,,,,,,,,,,,,,,,,,,1.0,1.0,,1.0,4.0,4.0,,,,,,,1.0,1.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+88,EDWARDS,Blake,12:44,12.0,44.0,2.0,4.0,0.0,2.0,,,,,2.0,2.0,,,,,,,,,,,,,,,,,,1.0,1.0,,,2.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+89,DENNERLEY,Joel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,MNE,L,Player,4,SEVERO,ALEXANDRESCU
+90,,,,,,10.0,27.0,3.0,12.0,2.0,4.0,,,4.0,10.0,,,,,,,1.0,1.0,1.0,4.0,,2.0,4.0,4.0,7.0,2.0,,1.0,1.0,,1.0,12.0,AUS,MNE,L,Team,4,SEVERO,ALEXANDRESCU
+91,BRGULJAN,Drasko,25:00,25.0,0.0,1.0,4.0,0.0,3.0,,,,,1.0,1.0,,,,,,,,,,2.0,1.0,,0.0,2.0,,1.0,,1.0,,,,2.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+92,PERKOVIC,Miroslav,2:53,2.0,53.0,1.0,2.0,,,0.0,1.0,,,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,,,,0.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+93,PETKOVIC,Marko,28:04,28.0,4.0,3.0,4.0,1.0,1.0,0.0,1.0,,,1.0,1.0,,,,,,,1.0,1.0,,,1.0,1.0,,,,,,,,,,0.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+94,CUCKOVIC,Uros,17:49,17.0,49.0,2.0,3.0,2.0,3.0,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+95,POPADIC,Vlado,14:01,14.0,1.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,1.0,,,,2.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+96,VIDOVIC,Stefan,11:31,11.0,31.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,2.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+97,UKROPINA,Aleksa,18:40,18.0,40.0,4.0,4.0,2.0,2.0,,,,,2.0,2.0,,,,,,,,,1.0,,,,0.0,2.0,1.0,1.0,,,,,,2.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+98,IVOVIC,Aleksandar,28:28,28.0,28.0,1.0,2.0,,,,,,,0.0,1.0,,,,,1.0,1.0,,,1.0,2.0,,,,,1.0,,,,,,,1.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+99,SPAIC,Vladan,11:36,11.0,36.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,0.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+100,MATKOVIC,Dusan,21:07,21.0,7.0,3.0,5.0,0.0,1.0,,,,,3.0,3.0,,,,,,,0.0,1.0,,1.0,,,,,,,,,,,,0.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+101,BANICEVIC,Dusan,12:51,12.0,51.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,1.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+102,TESANOVIC,Petar,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,MNE,AUS,W,Player,4,ALEXANDRESCU,SEVERO
+103,,,,,,15.0,28.0,5.0,14.0,0.0,2.0,,,8.0,9.0,,,,,1.0,1.0,1.0,2.0,5.0,9.0,3.0,2.0,0.0,4.0,5.0,4.0,,2.0,,,,11.0,MNE,AUS,W,Team,4,ALEXANDRESCU,SEVERO
+104,MANDIC,Dusan,25:00,25.0,0.0,1.0,4.0,0.0,2.0,0.0,1.0,,,1.0,1.0,,,,,,,,,,,1.0,1.0,,,,,,,,,,0.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+105,DEDOVIC,Nikola,19:12,19.0,12.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,1.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+106,RANDELOVIC,Sava,4:43,4.0,43.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,3.0,,,,,,,3.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+107,LAZIC,Dorde,14:10,14.0,10.0,2.0,3.0,,,0.0,1.0,,,2.0,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+108,PIJETLOVIC,Dusko,16:47,16.0,47.0,2.0,2.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,,3.0,,,,,,,1.0,,,1.0,,,2.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+109,RASOVIC,Strahin a,21:50,21.0,50.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,1.0,0.0,2.0,,1.0,,,,,,1.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+110,ALEKSIC,Milan,6:50,6.0,50.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+111,JAKSIC,Nikola,17:28,17.0,28.0,2.0,3.0,0.0,1.0,,,,,2.0,2.0,,,,,,,,,,1.0,,,,,3.0,,,,,,,3.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+112,FILIPOVIC,Filip,20:44,20.0,44.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,3.0,1.0,,,,,,,,,,0.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+113,PRLAINOVIC,Andri a,29:07,29.0,7.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,1.0,,1.0,,,,1.0,,,,,,,1.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+114,MITROVIC,Stefan,16:09,16.0,9.0,1.0,3.0,0.0,2.0,1.0,1.0,,,,,,,,,,,,,,,1.0,,0.0,1.0,,,,1.0,,,,1.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+115,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,SRB,ESP,L,Player,5,GOLDENBERG,STAVRIDIS
+116,,,,,,12.0,26.0,1.0,11.0,1.0,3.0,1.0,1.0,9.0,11.0,,,,,,,,,5.0,3.0,6.0,3.0,1.0,4.0,11.0,2.0,,1.0,1.0,,,15.0,SRB,ESP,L,Team,5,GOLDENBERG,STAVRIDIS
+117,LOPEZ PINEDO,Daniel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+118,MUNARRIZ EGANA,Alberto,26:03,26.0,3.0,4.0,7.0,1.0,1.0,,,,,2.0,3.0,1.0,3.0,,,,,,,,1.0,1.0,,,,1.0,,,,,,,1.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+119,GRANADOS ORTEGA,Alvaro,23:02,23.0,2.0,2.0,7.0,0.0,3.0,,,,,2.0,4.0,,,,,,,,,,1.0,1.0,1.0,1.0,2.0,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+120,SANAHUJA,Bernat,18:19,18.0,19.0,2.0,4.0,2.0,4.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+121,de TORO DOMINGUEZ,Miguel,13:30,13.0,30.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+122,LARUMBE GONFAUS,Marc,12:25,12.0,25.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,2.0,,,,1.0,,,3.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+123,FAMERA,Martin,14:25,14.0,25.0,,,,,,,,,,,,,,,,,,,,,,,2.0,2.0,3.0,,,,,,,3.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+124,FERNANDEZ MIRANDA,Francisco,16:47,16.0,47.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,2.0,,,,,,1.0,,1.0,,,,2.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+125,TAHULL COMPTE,Roger,15:16,15.0,16.0,2.0,3.0,,,0.0,1.0,,,2.0,2.0,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+126,PERRONE ROCHA,Felipe,28:49,28.0,49.0,1.0,2.0,0.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+127,MALLARACH GUELL,Blai,11:37,11.0,37.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+128,BUSTOS SANCHEZ,Ale andro,11:47,11.0,47.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,ESP,SRB,W,Player,5,STAVRIDIS,GOLDENBERG
+129,,,,,,13.0,31.0,3.0,12.0,0.0,2.0,,,8.0,13.0,1.0,3.0,,,,,1.0,1.0,2.0,5.0,5.0,1.0,3.0,4.0,8.0,3.0,,1.0,1.0,,,13.0,ESP,SRB,W,Team,5,STAVRIDIS,GOLDENBERG
+130,BIJAC,Marko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+131,MACAN,Marko,12:38,12.0,38.0,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,2.0,1.0,,,,1.0,,,,,,,1.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+132,FATOVIC,Loren,22:28,22.0,28.0,3.0,4.0,0.0,1.0,,,,,,,,,,,1.0,1.0,2.0,2.0,,1.0,2.0,,,,,,,,,,,0.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+133,LONCAR,Luka,18:01,18.0,1.0,0.0,3.0,,,0.0,2.0,,,0.0,1.0,,,,,,,,,1.0,,,1.0,,,,,,,,,,0.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+134,JOKOVIC,Maro,21:22,21.0,22.0,5.0,7.0,3.0,5.0,,,,,1.0,1.0,,,,,1.0,1.0,,,,2.0,,,,,,,,,,,,0.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+135,BUKIC,Luka,20:54,20.0,54.0,4.0,5.0,2.0,2.0,,,,,1.0,1.0,,,,,,,1.0,2.0,,,1.0,2.0,2.0,2.0,1.0,1.0,1.0,,,,,3.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+136,VUKICEVIC,Ante,20:12,20.0,12.0,1.0,3.0,,,,,0.0,1.0,1.0,1.0,,,,,,,0.0,1.0,,1.0,1.0,1.0,,,2.0,,,,,,,2.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+137,BUSLJE,Andro,12:44,12.0,44.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+138,MILOS,Lovre,18:43,18.0,43.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,1.0,,,2.0,2.0,,1.0,1.0,,,,,2.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+139,VRLIC,Josip,13:59,13.0,59.0,3.0,3.0,,,2.0,2.0,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+140,OBRADOVIC,Paulo,15:18,15.0,18.0,3.0,4.0,2.0,3.0,,,,,,,,,,,1.0,1.0,,,1.0,,1.0,1.0,,,1.0,,,,,,1.0,2.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+141,GARCIA GADEA,Javier,15:41,15.0,41.0,2.0,3.0,,,0.0,1.0,,,,,,,,,,,2.0,2.0,,3.0,,1.0,,,,1.0,,,,,,1.0,CRO,KAZ,W,Player,6,WILLIS,OHME
+142,,,,,,23.0,36.0,7.0,12.0,2.0,5.0,0.0,1.0,4.0,6.0,,,,,3.0,3.0,7.0,9.0,3.0,11.0,6.0,6.0,4.0,4.0,7.0,3.0,2.0,,,,1.0,13.0,CRO,KAZ,W,Team,6,WILLIS,OHME
+143,MAKHMETOV,Madikhan,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+144,MEDVEDEV,Yevgeniy,13:53,13.0,53.0,0.0,4.0,0.0,1.0,,,,,0.0,2.0,0.0,1.0,,,,,,,,,,,,,,1.0,,,,,,1.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+145,AUBAKIROV,Miras,18:18,18.0,18.0,,,,,,,,,,,,,,,,,,,,,2.0,,0.0,1.0,,1.0,,,1.0,,1.0,3.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+146,MARKOVIC,Dusan,16:15,16.0,15.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,4.0,,,,,2.0,,,,,,,2.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+147,SHMIDER,Alexey,20:00,20.0,0.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+148,ARTYUKH,Danil,5:33,5.0,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+149,SHAKENOV,Murat,26:32,26.0,32.0,1.0,7.0,0.0,2.0,,,,,1.0,2.0,0.0,2.0,,,0.0,1.0,,,,,,1.0,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+150,VUKSANOVIC,Srdan,23:26,23.0,26.0,3.0,9.0,0.0,3.0,1.0,2.0,,,1.0,3.0,,,,,,,1.0,1.0,1.0,,1.0,1.0,0.0,1.0,,,,,,,1.0,1.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+151,UKUMANOV,Rustam,22:17,22.0,17.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,1.0,,,,,,,,,,,,1.0,1.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+152,RUDAY,Mikhail,18:53,18.0,53.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+153,ALTAYEV,Altay,13:07,13.0,7.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+154,SHVEDOV,Stanislav,13:46,13.0,46.0,,,,,,,,,,,,,,,,,,,,1.0,,,0.0,2.0,,,,,,,,0.0,KAZ,CRO,L,Player,6,OHME,WILLIS
+155,,,,,,7.0,28.0,1.0,10.0,1.0,2.0,,,4.0,11.0,0.0,3.0,,,0.0,1.0,1.0,1.0,4.0,6.0,4.0,2.0,0.0,4.0,2.0,2.0,,,1.0,,3.0,8.0,KAZ,CRO,L,Team,6,OHME,WILLIS
+156,KANDIC,Slaven,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+157,BRGULJAN,Drasko,26:19,26.0,19.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,1.0,2.0,1.0,,,,,,,1.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+158,PERKOVIC,Miroslav,4:57,4.0,57.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+159,PETKOVIC,Marko,25:06,25.0,6.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,3.0,,,,,1.0,,,,,,,1.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+160,CUCKOVIC,Uros,8:19,8.0,19.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+161,POPADIC,Vlado,15:53,15.0,53.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,,1.0,,,1.0,,,,,,,1.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+162,VIDOVIC,Stefan,16:06,16.0,6.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+163,UKROPINA,Aleksa,16:26,16.0,26.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,1.0,,0.0,1.0,,,,,,,1.0,1.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+164,IVOVIC,Aleksandar,27:36,27.0,36.0,2.0,5.0,0.0,2.0,,,,,1.0,1.0,0.0,1.0,,,,,1.0,1.0,,1.0,1.0,,,,2.0,,,,,,,2.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+165,SPAIC,Vladan,13:15,13.0,15.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,0.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+166,MATKOVIC,Dusan,29:41,29.0,41.0,3.0,11.0,1.0,9.0,,,,,2.0,2.0,,,,,,,,,1.0,1.0,,,0.0,1.0,,,,,,,,0.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+167,BANICEVIC,Dusan,8:22,8.0,22.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,MNE,ESP,L,Player,7,STAVRIDIS,DERVIEUX
+168,,,,,,6.0,27.0,1.0,16.0,0.0,1.0,,,4.0,8.0,0.0,1.0,,,,,1.0,1.0,2.0,7.0,4.0,3.0,1.0,4.0,8.0,,,,,,1.0,9.0,MNE,ESP,L,Team,7,STAVRIDIS,DERVIEUX
+169,LOPEZ PINEDO,Daniel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+170,MUNARRIZ EGANA,Alberto,26:33,26.0,33.0,1.0,4.0,1.0,4.0,,,,,,,,,,,,,,,,1.0,3.0,,,,1.0,,,,,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+171,GRANADOS ORTEGA,Alvaro,23:44,23.0,44.0,2.0,6.0,0.0,3.0,,,,,1.0,2.0,,,,,1.0,1.0,,,1.0,5.0,1.0,,0.0,1.0,,,,,1.0,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+172,SANAHUJA,Bernat,9:35,9.0,35.0,2.0,2.0,2.0,2.0,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+173,de TORO DOMINGUEZ,Miguel,15:22,15.0,22.0,,,,,,,,,,,,,,,,,,,2.0,,,1.0,,,1.0,,,,,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+174,LARUMBE GONFAUS,Marc,25:24,25.0,24.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,3.0,1.0,,,,,,,,,,,0.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+175,FAMERA,Martin,17:28,17.0,28.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,1.0,,1.0,2.0,2.0,1.0,,,,,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+176,FERNANDEZ MIRANDA,Francisco,14:30,14.0,30.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,0.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+177,TAHULL COMPTE,Roger,13:11,13.0,11.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+178,PERRONE ROCHA,Felipe,26:43,26.0,43.0,0.0,6.0,0.0,4.0,,,,,0.0,2.0,,,,,,,,,,1.0,1.0,,,,,,,,1.0,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+179,MALLARACH GUELL,Blai,10:23,10.0,23.0,2.0,4.0,0.0,1.0,,,,,2.0,2.0,,,,,,,0.0,1.0,,,,,,,,1.0,,,,,,1.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+180,BUSTOS SANCHEZ,Ale andro,9:07,9.0,7.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,,,,2.0,,,,,,,2.0,ESP,MNE,W,Player,7,DERVIEUX,STAVRIDIS
+181,,,,,,8.0,25.0,3.0,15.0,,,,,4.0,8.0,,,,,1.0,1.0,0.0,1.0,6.0,12.0,9.0,2.0,3.0,4.0,6.0,1.0,,,2.0,,,9.0,ESP,MNE,W,Team,7,DERVIEUX,STAVRIDIS
+182,MEDVEDEV,Yevgeniy,19:19,19.0,19.0,2.0,4.0,1.0,3.0,,,,,,,,,,,1.0,1.0,,,,,,,,,1.0,,,,,,,1.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+183,AUBAKIROV,Miras,13:13,13.0,13.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,,1.0,0.0,2.0,,,,,,,,0.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+184,MARKOVIC,Dusan,18:46,18.0,46.0,1.0,4.0,1.0,4.0,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,1.0,,,2.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+185,SHMIDER,Alexey,14:57,14.0,57.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+186,ARTYUKH,Danil,6:52,6.0,52.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+187,SHAKENOV,Murat,21:49,21.0,49.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,,1.0,,,1.0,1.0,1.0,,,1.0,,,,2.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+188,VUKSANOVIC,Srdan,27:06,27.0,6.0,2.0,7.0,0.0,2.0,,,,,2.0,3.0,,,,,,,0.0,2.0,,2.0,1.0,,,,1.0,,,,,,,1.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+189,UKUMANOV,Rustam,20:57,20.0,57.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,1.0,,,2.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+190,RUDAY,Mikhail,15:26,15.0,26.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+191,ALTAYEV,Altay,16:23,16.0,23.0,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,,0.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+192,SHVEDOV,Stanislav,17:12,17.0,12.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,2.0,1.0,,1.0,1.0,2.0,,,,,,,2.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+193,LIPILIN,Pavel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,SRB,L,Player,8,KUN,ALEXANDRESCU
+194,,,,,,5.0,23.0,2.0,13.0,0.0,1.0,,,2.0,6.0,,,,,1.0,1.0,0.0,2.0,7.0,7.0,3.0,1.0,2.0,4.0,9.0,,,1.0,2.0,,,12.0,KAZ,SRB,L,Team,8,KUN,ALEXANDRESCU
+195,MANDIC,Dusan,16:05,16.0,5.0,2.0,4.0,1.0,1.0,,,1.0,1.0,,,0.0,2.0,,,,,,,,2.0,1.0,,,,1.0,,,,,,,1.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+196,DEDOVIC,Nikola,23:09,23.0,9.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,2.0,1.0,,,0.0,1.0,2.0,,,,,,,2.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+197,RANDELOVIC,Sava,13:20,13.0,20.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+198,LAZIC,Dorde,18:36,18.0,36.0,1.0,2.0,,,0.0,1.0,,,1.0,1.0,,,,,,,,,3.0,1.0,1.0,1.0,,,,,,,,,,0.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+199,PIJETLOVIC,Dusko,12:09,12.0,9.0,4.0,4.0,,,2.0,2.0,,,2.0,2.0,,,,,,,,,2.0,,,,,,,,,1.0,,,,1.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+200,RASOVIC,Strahin a,26:32,26.0,32.0,3.0,6.0,1.0,4.0,,,,,1.0,1.0,,,,,,,1.0,1.0,,1.0,,,1.0,2.0,1.0,,,,,,,1.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+201,ALEKSIC,Milan,16:57,16.0,57.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,1.0,,,1.0,,,,2.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+202,JAKSIC,Nikola,15:07,15.0,7.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,2.0,,1.0,,,1.0,,,,,,1.0,2.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+203,FILIPOVIC,Filip,16:38,16.0,38.0,1.0,4.0,0.0,1.0,,,,,0.0,1.0,,,,,,,1.0,2.0,,2.0,,1.0,1.0,1.0,1.0,,,,,,,1.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+204,PRLAINOVIC,Andri a,12:09,12.0,9.0,2.0,3.0,0.0,1.0,,,,,2.0,2.0,,,,,,,,,,1.0,,,,,,,,,,,,0.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+205,MITROVIC,Stefan,21:18,21.0,18.0,2.0,3.0,1.0,1.0,0.0,1.0,,,1.0,1.0,,,,,,,,,,2.0,,1.0,,,,,,,,,,0.0,SRB,KAZ,W,Player,8,ALEXANDRESCU,KUN
+206,,,,,,19.0,30.0,5.0,10.0,2.0,4.0,1.0,1.0,9.0,10.0,0.0,2.0,,,,,2.0,3.0,7.0,14.0,3.0,4.0,2.0,4.0,8.0,,,2.0,,,1.0,11.0,SRB,KAZ,W,Team,8,ALEXANDRESCU,KUN
+207,HRYSANTHOS,Anthony,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,AUS,CRO,W,Player,9,ALEXANDRESCU,KUN
+208,CAMPBELL,Richard,26:22,26.0,22.0,3.0,5.0,1.0,2.0,,,,,2.0,3.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+209,FORD,George,9:45,9.0,45.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,1.0,,,2.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+210,TOMASEVIC,Goran,9:27,9.0,27.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,1.0,,,,,,,1.0,,,,,,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+211,POWER,Nathan,16:41,16.0,41.0,1.0,4.0,,,0.0,1.0,,,1.0,3.0,,,,,,,,,,1.0,1.0,,,,1.0,,,,,,,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+212,EDWARDS,Lachlan Robert,12:29,12.0,29.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,2.0,1.0,,,,,,3.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+213,ROACH,Aidan,23:57,23.0,57.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,1.0,2.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+214,YOUNGER,Aaron,28:21,28.0,21.0,1.0,6.0,1.0,2.0,,,,,0.0,3.0,0.0,1.0,,,,,,,,1.0,,1.0,,,,,,,,,1.0,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+215,FORD,Andrew,12:57,12.0,57.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+216,PUTT,Timothy Francis,13:33,13.0,33.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+217,HOWDEN,Rhys,23:53,23.0,53.0,1.0,4.0,0.0,2.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,3.0,4.0,1.0,1.0,,,,,,2.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+218,EDWARDS,Blake,14:35,14.0,35.0,2.0,2.0,,,,,,,1.0,1.0,1.0,1.0,,,,,,,,1.0,2.0,,,,,,,,,,,0.0,AUS,CRO,W,Player,9,GOLDENBERG,OHME
+219,,,,,,11.0,29.0,5.0,12.0,0.0,2.0,,,5.0,13.0,1.0,2.0,,,,,,,4.0,5.0,5.0,2.0,3.0,4.0,6.0,5.0,,,2.0,,2.0,15.0,AUS,CRO,W,Team,9,GOLDENBERG,OHME
+220,BIJAC,Marko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,CRO,AUS,L,Player,9,GOLDENBERG,OHME
+221,MACAN,Marko,8:14,8.0,14.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,2.0,,,,,,,2.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+222,FATOVIC,Loren,23:07,23.0,7.0,2.0,4.0,0.0,2.0,,,,,2.0,2.0,,,,,,,,,1.0,,1.0,,,,,1.0,,,,,,1.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+223,LONCAR,Luka,16:08,16.0,8.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,1.0,1.0,,,1.0,,,,,,,1.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+224,JOKOVIC,Maro,25:15,25.0,15.0,3.0,5.0,0.0,1.0,,,,,0.0,1.0,,,,,2.0,2.0,1.0,1.0,,1.0,1.0,,,,,,,,,,,0.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+225,BUKIC,Luka,22:53,22.0,53.0,2.0,5.0,1.0,3.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,1.0,2.0,1.0,1.0,,,,,,2.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+226,VUKICEVIC,Ante,18:48,18.0,48.0,0.0,5.0,0.0,2.0,,,,,0.0,3.0,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,1.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+227,BUSLJE,Andro,11:52,11.0,52.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,2.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+228,MILOS,Lovre,13:09,13.0,9.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,0.0,2.0,,,,,,,,0.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+229,VRLIC,Josip,15:34,15.0,34.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,1.0,,,,,,2.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+230,OBRADOVIC,Paulo,15:08,15.0,8.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,2.0,,1.0,,,,1.0,,,,,,,1.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+231,GARCIA GADEA,Javier,21:52,21.0,52.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,1.0,CRO,AUS,L,Player,9,OHME,GOLDENBERG
+232,,,,,,8.0,26.0,1.0,13.0,,,,,4.0,10.0,,,,,2.0,2.0,1.0,1.0,5.0,5.0,7.0,1.0,1.0,4.0,7.0,6.0,,,,,,13.0,CRO,AUS,L,Team,9,OHME,GOLDENBERG
+233,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,ITA,GRE,L,Player,10,OHME,GOLDENBERG
+234,Di FULVIO,Francesco,28:17,28.0,17.0,0.0,3.0,0.0,1.0,,,,,,,0.0,2.0,,,,,,,1.0,,2.0,3.0,2.0,2.0,1.0,,,,,,,1.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+235,LUONGO,Stefano,14:28,14.0,28.0,1.0,4.0,1.0,1.0,,,,,0.0,3.0,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+236,FIGLIOLI,Pietro,24:34,24.0,34.0,2.0,10.0,0.0,6.0,,,,,1.0,3.0,,,,,1.0,1.0,,,,,,1.0,2.0,2.0,,,,,,,,0.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+237,PRESCIUTTI,Nicholas,15:43,15.0,43.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+238,VELOTTO,Alessandro,10:52,10.0,52.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,1.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+239,RENZUTO IODICE,Vincenzo,14:20,14.0,20.0,0.0,3.0,,,,,,,0.0,2.0,0.0,1.0,,,,,,,,,1.0,,,,2.0,,,,,,,2.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+240,ECHENIQUE,Gonzalo,26:39,26.0,39.0,1.0,4.0,0.0,2.0,,,,,1.0,2.0,,,,,,,,,,2.0,2.0,1.0,,,,,,,,,,0.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+241,FIGARI,Niccolo,10:40,10.0,40.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,,1.0,,,,,,1.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+242,BODEGAS,Michael Alexandre,15:59,15.0,59.0,,,,,,,,,,,,,,,,,,,2.0,,,1.0,,,,,,,,,,0.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+243,AICARDI,Matteo,16:01,16.0,1.0,2.0,3.0,,,2.0,2.0,,,0.0,1.0,,,,,,,,,,,,2.0,,,,,,,,,,0.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+244,DOLCE,Vincenzo,14:27,14.0,27.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,1.0,,,,1.0,,,,,,1.0,ITA,GRE,L,Player,10,BUCH JUANOLA,IVANOSKI
+245,,,,,,6.0,31.0,1.0,12.0,2.0,2.0,,,2.0,13.0,0.0,3.0,,,1.0,1.0,,,7.0,5.0,6.0,9.0,4.0,4.0,4.0,3.0,,,,,,7.0,ITA,GRE,L,Team,10,BUCH JUANOLA,IVANOSKI
+246,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,ITA,W,Player,10,BUCH JUANOLA,IVANOSKI
+247,GENIDOUNIAS,Konstantinos,28:44,28.0,44.0,1.0,6.0,0.0,3.0,,,,,0.0,1.0,1.0,2.0,,,,,,,,,2.0,2.0,0.0,1.0,1.0,1.0,,,1.0,,,3.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+248,SKOUMPAKIS,Dimitrios,15:39,15.0,39.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,0.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+249,KAPOTSIS,Marios,17:59,17.0,59.0,1.0,3.0,1.0,3.0,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,0.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+250,FOUNTOULIS,Ioannis,24:22,24.0,22.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,,1.0,,,,2.0,,,1.0,,,,3.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+251,PAPANASTASIOU,Alexandros,24:50,24.0,50.0,1.0,3.0,1.0,2.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,0.0,2.0,,1.0,,,,,1.0,2.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+252,DERVISIS,Georgios,8:33,8.0,33.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+253,ARGYROPOULOS KANAKAKIS,Stylianos,21:48,21.0,48.0,1.0,6.0,0.0,3.0,,,,,1.0,1.0,0.0,2.0,,,,,,,,1.0,,,0.0,1.0,,1.0,,,,,,1.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+254,MOURIKIS,Konstantinos,10:26,10.0,26.0,1.0,3.0,,,0.0,1.0,,,1.0,2.0,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,2.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+255,KOLOMVOS,Christodoulos,14:16,14.0,16.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+256,GKIOUVETSIS,Konstantinos,1:35,1.0,35.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+257,VLACHOPOULOS,Angelos,23:48,23.0,48.0,1.0,1.0,,,,,,,,,1.0,1.0,,,,,,,,,1.0,,,,2.0,1.0,,,,,,3.0,GRE,ITA,W,Player,10,IVANOSKI,BUCH JUANOLA
+258,,,,,,6.0,30.0,2.0,16.0,0.0,2.0,,,2.0,7.0,2.0,5.0,,,,,,,1.0,5.0,6.0,6.0,0.0,4.0,7.0,5.0,,1.0,1.0,,1.0,15.0,GRE,ITA,W,Team,10,IVANOSKI,BUCH JUANOLA
+259,TANAMURA,Katsuyuki,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,IVANOSKI,BUCH JUANOLA
+260,ADACHI,Seiya,24:38,24.0,38.0,,,,,,,,,,,,,,,,,,,,,,,0.0,2.0,,1.0,,,,,1.0,2.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+261,KOPPU,Harukiirario,24:19,24.0,19.0,1.0,4.0,0.0,2.0,1.0,1.0,,,0.0,1.0,,,,,,,,,,,3.0,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+262,SHIGA,Mitsuaki,20:47,20.0,47.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,0.0,1.0,1.0,1.0,,1.0,,,,3.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+263,YOSHIDA,Takuma,20:11,20.0,11.0,2.0,5.0,1.0,4.0,,,,,,,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+264,SUZUKI,Toi,9:00,9.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+265,SHIMIZU,Yusuke,6:18,6.0,18.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+266,TAKATA,Mitsuru,11:01,11.0,1.0,1.0,4.0,1.0,4.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+267,ARAI,Atsushi,24:15,24.0,15.0,1.0,5.0,0.0,1.0,,,,,1.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,0.0,1.0,,1.0,,,,,1.0,2.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+268,INABA,Yusuke,24:31,24.0,31.0,3.0,10.0,1.0,6.0,,,,,2.0,4.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+269,OKAWA,Keigo,19:25,19.0,25.0,3.0,6.0,2.0,4.0,,,0.0,1.0,,,,,,,,,1.0,1.0,,,1.0,,,,,1.0,,,,,,1.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+270,ARAKI,Kenta,7:35,7.0,35.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,JPN,HUN,L,Player,11,PERIŠ,ZWART
+271,,,,,,11.0,35.0,5.0,22.0,1.0,1.0,0.0,1.0,3.0,7.0,1.0,2.0,,,,,1.0,2.0,1.0,3.0,6.0,,0.0,4.0,1.0,5.0,,1.0,,,2.0,9.0,JPN,HUN,L,Team,11,PERIŠ,ZWART
+272,NAGY,Viktor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,JPN,W,Player,11,PERIŠ,ZWART
+273,ANGYAL,Daniel,17:46,17.0,46.0,2.0,4.0,,,1.0,2.0,,,1.0,2.0,,,,,,,,,,1.0,1.0,1.0,,,1.0,,,,1.0,,,2.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+274,MANHERCZ,Krisztian,19:55,19.0,55.0,1.0,2.0,,,,,,,1.0,1.0,,,,,0.0,1.0,,,,1.0,1.0,,1.0,1.0,,,,,,,,0.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+275,ZALANKI,Gergo,25:42,25.0,42.0,4.0,4.0,2.0,2.0,,,,,1.0,1.0,,,,,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,0.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+276,VAMOS,Marton,20:58,20.0,58.0,2.0,5.0,0.0,3.0,,,,,1.0,1.0,,,,,1.0,1.0,,,,,,1.0,,,,1.0,,,1.0,,,2.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+277,HOSNYANSZKY,Norbert,15:13,15.0,13.0,0.0,2.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,1.0,,1.0,,,,,,,,,,0.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+278,PASZTOR,Matyas,19:02,19.0,2.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,1.0,2.0,,,,1.0,,,,,,1.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+279,JANSIK,Szilard,16:54,16.0,54.0,0.0,3.0,,,0.0,2.0,,,,,0.0,1.0,,,,,,,1.0,2.0,1.0,,1.0,1.0,,1.0,,,,,,1.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+280,ERDELYI,Balazs,20:32,20.0,32.0,3.0,5.0,1.0,3.0,,,1.0,1.0,1.0,1.0,,,,,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,0.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+281,VARGA,Denes,22:00,22.0,0.0,1.0,3.0,0.0,2.0,1.0,1.0,,,,,,,,,,,,,,1.0,1.0,,,,,,,,1.0,,,1.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+282,HARAI,Balazs,13:58,13.0,58.0,2.0,4.0,0.0,1.0,2.0,3.0,,,,,,,,,,,,,2.0,,1.0,,,,,,,,2.0,,,2.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+283,VOGEL,Soma,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,HUN,JPN,W,Player,11,ZWART,PERIŠ
+284,,,,,,16.0,33.0,3.0,12.0,4.0,8.0,1.0,1.0,6.0,7.0,0.0,2.0,,,1.0,2.0,1.0,1.0,5.0,9.0,8.0,6.0,4.0,4.0,1.0,3.0,,,5.0,,,9.0,HUN,JPN,W,Team,11,ZWART,PERIŠ
+285,CARD,Devon,10:27,10.0,27.0,,,,,,,,,,,,,,,,,,,2.0,,,,,,2.0,,,,1.0,,,3.0,RSA,USA,L,Player,12,ZWART,PERIŠ
+286,REZELMAN,Timothy,17:13,17.0,13.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+287,BADENHORST,Nardus,12:25,12.0,25.0,1.0,4.0,,,0.0,3.0,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+288,LAURENSON,Cameron Bain,19:08,19.0,8.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,3.0,,,,,,,3.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+289,STONE,Ross,26:39,26.0,39.0,0.0,4.0,0.0,2.0,,,,,0.0,2.0,,,,,,,,,1.0,,2.0,1.0,0.0,1.0,,,,,,,1.0,1.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+290,EVEZARD,Jason,24:19,24.0,19.0,1.0,5.0,1.0,5.0,,,,,,,,,,,,,,,,1.0,,,1.0,2.0,,,,,,,,0.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+291,RODDA,Nicholas,26:30,26.0,30.0,0.0,6.0,0.0,5.0,,,,,,,0.0,1.0,,,,,,,,1.0,1.0,1.0,0.0,1.0,,,,1.0,,,,1.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+292,MARGRO,Yaseen,15:43,15.0,43.0,1.0,2.0,,,,,,,0.0,1.0,,,,,,,1.0,1.0,,1.0,,,,,,1.0,,,1.0,,1.0,3.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+293,MAYMAN,Mogamad Farouk,15:30,15.0,30.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+294,NEILL,Liam,15:48,15.0,48.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,2.0,1.0,,,,,,,,,,,,0.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+295,STEWART,Donn,8:18,8.0,18.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,1.0,3.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+296,MAY,Gareth,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,USA,L,Player,12,PUTNIKOVIC,ZHANG
+297,,,,,,3.0,27.0,1.0,17.0,0.0,4.0,,,1.0,4.0,0.0,1.0,,,,,1.0,1.0,9.0,4.0,5.0,2.0,1.0,4.0,7.0,1.0,,1.0,3.0,,3.0,15.0,RSA,USA,L,Team,12,PUTNIKOVIC,ZHANG
+298,WOLF,Alex,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,USA,RSA,W,Player,12,PUTNIKOVIC,ZHANG
+299,HOOPER,Johnny,18:54,18.0,54.0,3.0,9.0,0.0,1.0,,,,,1.0,3.0,,,,,2.0,2.0,0.0,3.0,,,,1.0,3.0,3.0,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+300,VAVIC,Marko,18:30,18.0,30.0,1.0,2.0,1.0,1.0,,,0.0,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+301,OBERT,Alex,15:08,15.0,8.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+302,DAUBE,Hannes,22:08,22.0,8.0,2.0,3.0,,,,,,,1.0,1.0,1.0,1.0,,,0.0,1.0,,,,,2.0,,,,1.0,,,,,,,1.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+303,CUPIDO,Luca,21:25,21.0,25.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,1.0,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+304,HALLOCK,Ben,17:07,17.0,7.0,4.0,9.0,,,2.0,7.0,,,2.0,2.0,,,,,,,,,1.0,1.0,3.0,1.0,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+305,WOODHEAD,Dylan,11:23,11.0,23.0,2.0,2.0,,,,,,,1.0,1.0,,,,,,,1.0,1.0,,,,,,,2.0,,,,,,,2.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+306,BOWEN,Alex,16:54,16.0,54.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+307,STEVENSON,Ben,17:49,17.0,49.0,3.0,3.0,1.0,1.0,,,,,1.0,1.0,,,,,,,1.0,1.0,,1.0,1.0,1.0,0.0,1.0,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+308,SMITH,Jesse,10:48,10.0,48.0,0.0,2.0,0.0,1.0,,,,,,,,,,,,,0.0,1.0,,,,,,,1.0,,,,,,,1.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+309,IRVING,Max,21:54,21.0,54.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,,1.0,,,,,,,,,,0.0,USA,RSA,W,Player,12,ZHANG,PUTNIKOVIC
+310,,,,,,20.0,36.0,4.0,6.0,3.0,9.0,0.0,1.0,8.0,10.0,1.0,1.0,,,2.0,3.0,2.0,6.0,2.0,8.0,6.0,5.0,3.0,4.0,4.0,,,,,,,4.0,USA,RSA,W,Team,12,ZHANG,PUTNIKOVIC
+311,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,GRE,JPN,W,Player,13,ZHANG,PUTNIKOVIC
+312,GENIDOUNIAS,Konstantinos,29:45,29.0,45.0,3.0,11.0,2.0,7.0,,,,,1.0,2.0,,,0.0,1.0,,,0.0,1.0,,1.0,1.0,2.0,1.0,2.0,,,,,,,,0.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+313,SKOUMPAKIS,Dimitrios,9:49,9.0,49.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,,1.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+314,KAPOTSIS,Marios,28:00,28.0,0.0,3.0,3.0,,,,,,,3.0,3.0,,,,,,,,,1.0,1.0,1.0,1.0,,,,,,,1.0,,,1.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+315,FOUNTOULIS,Ioannis,11:28,11.0,28.0,0.0,1.0,,,,,,,,,,,,,,,0.0,1.0,,,1.0,,,,1.0,,,1.0,,,1.0,3.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+316,PAPANASTASIOU,Alexandros,13:34,13.0,34.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,2.0,,,,,,,2.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+317,DERVISIS,Georgios,21:16,21.0,16.0,,,,,,,,,,,,,,,,,,,1.0,1.0,,2.0,0.0,1.0,1.0,,,1.0,,,,2.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+318,ARGYROPOULOS KANAKAKIS,Stylianos,26:26,26.0,26.0,1.0,5.0,0.0,2.0,,,,,1.0,3.0,,,,,,,,,1.0,,,1.0,,,2.0,,,,,,,2.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+319,MOURIKIS,Konstantinos,8:47,8.0,47.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+320,KOLOMVOS,Christodoulos,9:28,9.0,28.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,2.0,,,,,1.0,,,,,1.0,,2.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+321,GKIOUVETSIS,Konstantinos,12:13,12.0,13.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+322,VLACHOPOULOS,Angelos,21:14,21.0,14.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,1.0,,4.0,1.0,,,2.0,1.0,,,,,,3.0,GRE,JPN,W,Player,13,PUTNIKOVIC,ALEXANDRESCU
+323,,,,,,10.0,30.0,2.0,16.0,2.0,2.0,,,6.0,9.0,,,0.0,1.0,,,0.0,2.0,8.0,7.0,9.0,8.0,2.0,4.0,10.0,1.0,,2.0,1.0,1.0,1.0,16.0,GRE,JPN,W,Team,13,PUTNIKOVIC,ALEXANDRESCU
+324,TANAMURA,Katsuyuki,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,1.0,,,,,1.0,,,,,,1.0,JPN,GRE,L,Player,13,PUTNIKOVIC,ALEXANDRESCU
+325,ADACHI,Seiya,20:57,20.0,57.0,3.0,6.0,1.0,2.0,,,,,0.0,2.0,1.0,1.0,,,,,1.0,1.0,1.0,,,,1.0,2.0,,,,,,,,0.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+326,KOPPU,Harukiirario,21:53,21.0,53.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,3.0,,,,,,,3.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+327,SHIGA,Mitsuaki,21:07,21.0,7.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+328,YOSHIDA,Takuma,22:16,22.0,16.0,1.0,5.0,0.0,2.0,,,,,0.0,2.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+329,SUZUKI,Toi,8:50,8.0,50.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,0.0,1.0,,,,,,,,0.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+330,SHIMIZU,Yusuke,6:45,6.0,45.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,,,,,,,,0.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+331,TAKATA,Mitsuru,13:33,13.0,33.0,,,,,,,,,,,,,,,,,,,1.0,,2.0,1.0,,,2.0,,,,,,,2.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+332,ARAI,Atsushi,27:18,27.0,18.0,2.0,4.0,0.0,1.0,,,,,2.0,3.0,,,,,,,,,,1.0,2.0,1.0,1.0,1.0,1.0,,,,,1.0,,2.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+333,INABA,Yusuke,23:42,23.0,42.0,2.0,7.0,1.0,3.0,,,,,0.0,2.0,,,0.0,1.0,1.0,1.0,,,1.0,,,,,,,,,,,,,0.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+334,OKAWA,Keigo,20:17,20.0,17.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+335,ARAKI,Kenta,5:22,5.0,22.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,1.0,,,,1.0,JPN,GRE,L,Player,13,ALEXANDRESCU,PUTNIKOVIC
+336,,,,,,9.0,28.0,2.0,9.0,,,,,3.0,14.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,2.0,4.0,3.0,6.0,3.0,2.0,4.0,7.0,2.0,,1.0,,1.0,,11.0,JPN,GRE,L,Team,13,ALEXANDRESCU,PUTNIKOVIC
+337,HOOPER,Johnny,21:30,21.0,30.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,2.0,,,1.0,2.0,3.0,,,,,1.0,,,1.0,USA,ITA,L,Player,14,ALEXANDRESCU,PUTNIKOVIC
+338,VAVIC,Marko,20:22,20.0,22.0,1.0,6.0,1.0,5.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,1.0,,,,,,2.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+339,OBERT,Alex,15:11,15.0,11.0,2.0,2.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,,1.0,1.0,1.0,1.0,,,1.0,,,,,,1.0,2.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+340,DAUBE,Hannes,22:52,22.0,52.0,1.0,7.0,0.0,2.0,,,,,0.0,4.0,1.0,1.0,,,,,,,1.0,,1.0,1.0,,,,,,,,,1.0,1.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+341,CUPIDO,Luca,23:07,23.0,7.0,2.0,5.0,,,0.0,1.0,,,2.0,3.0,,,,,,,0.0,1.0,1.0,,,1.0,,,,,1.0,,,,,1.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+342,HALLOCK,Ben,17:06,17.0,6.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,3.0,,,,,,,,,,,,,0.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+343,WOODHEAD,Dylan,12:14,12.0,14.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+344,BOWEN,Alex,20:34,20.0,34.0,2.0,6.0,0.0,2.0,,,,,1.0,1.0,0.0,1.0,,,1.0,2.0,,,,,2.0,,,,,1.0,,,,,,1.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+345,STEVENSON,Ben,11:57,11.0,57.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,0.0,1.0,,,,,,,,0.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+346,SMITH,Jesse,4:11,4.0,11.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+347,IRVING,Max,22:56,22.0,56.0,2.0,2.0,,,,,,,1.0,1.0,,,,,1.0,1.0,,,,,,1.0,,,1.0,,,,1.0,,,2.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+348,HOLLAND,Drew,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,USA,ITA,L,Player,14,BUCH JUANOLA,DERVIEUX
+349,,,,,,11.0,31.0,1.0,10.0,1.0,3.0,,,6.0,12.0,1.0,2.0,,,2.0,3.0,0.0,1.0,9.0,2.0,4.0,6.0,2.0,4.0,7.0,2.0,1.0,,2.0,,2.0,14.0,USA,ITA,L,Team,14,BUCH JUANOLA,DERVIEUX
+350,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,USA,W,Player,14,BUCH JUANOLA,DERVIEUX
+351,Di FULVIO,Francesco,30:30,30.0,30.0,5.0,13.0,2.0,4.0,,,,,2.0,4.0,0.0,3.0,,,1.0,1.0,0.0,1.0,1.0,,1.0,1.0,1.0,2.0,,1.0,,,,,,1.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+352,LUONGO,Stefano,22:39,22.0,39.0,3.0,6.0,0.0,1.0,,,,,3.0,5.0,,,,,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,0.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+353,FIGLIOLI,Pietro,26:06,26.0,6.0,2.0,7.0,1.0,5.0,,,,,1.0,1.0,,,,,0.0,1.0,,,,,,,0.0,1.0,,2.0,,,,,,2.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+354,PRESCIUTTI,Nicholas,24:03,24.0,3.0,2.0,4.0,0.0,2.0,,,,,1.0,1.0,,,,,,,1.0,1.0,1.0,1.0,1.0,,,,2.0,,,,,,,2.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+355,VELOTTO,Alessandro,7:38,7.0,38.0,0.0,1.0,,,,,,,,,,,,,,,0.0,1.0,,,,,,,,,,,,,,0.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+356,RENZUTO IODICE,Vincenzo,13:09,13.0,9.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,1.0,1.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+357,ECHENIQUE,Gonzalo,27:16,27.0,16.0,0.0,3.0,0.0,1.0,,,,,0.0,1.0,,,,,,,0.0,1.0,,1.0,1.0,1.0,,,,,,,,,,0.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+358,FIGARI,Niccolo,9:07,9.0,7.0,,,,,,,,,,,,,,,,,,,1.0,,1.0,1.0,,,2.0,,,,,,,2.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+359,BODEGAS,Michael Alexandre,10:05,10.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,2.0,3.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+360,AICARDI,Matteo,12:47,12.0,47.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+361,DOLCE,Vincenzo,8:40,8.0,40.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,ITA,USA,W,Player,14,DERVIEUX,BUCH JUANOLA
+362,,,,,,12.0,35.0,3.0,14.0,,,,,7.0,12.0,0.0,3.0,,,1.0,2.0,1.0,4.0,4.0,4.0,5.0,4.0,2.0,4.0,7.0,5.0,,,,,3.0,15.0,ITA,USA,W,Team,14,DERVIEUX,BUCH JUANOLA
+363,NAGY,Viktor,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DERVIEUX,BUCH JUANOLA
+364,ANGYAL,Daniel,16:38,16.0,38.0,2.0,4.0,0.0,1.0,1.0,1.0,,,,,,,,,,,1.0,2.0,,,,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+365,MANHERCZ,Krisztian,27:00,27.0,0.0,5.0,5.0,1.0,1.0,,,,,1.0,1.0,,,,,,,3.0,3.0,,,1.0,1.0,3.0,3.0,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+366,ZALANKI,Gergo,18:52,18.0,52.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,2.0,,1.0,1.0,1.0,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+367,VAMOS,Marton,22:45,22.0,45.0,4.0,6.0,2.0,4.0,,,,,2.0,2.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+368,HOSNYANSZKY,Norbert,17:40,17.0,40.0,1.0,5.0,0.0,3.0,,,,,1.0,2.0,,,,,,,,,,1.0,1.0,,,,2.0,,,,,,,2.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+369,PASZTOR,Matyas,24:10,24.0,10.0,4.0,6.0,2.0,3.0,,,,,0.0,1.0,,,,,,,2.0,2.0,1.0,,,,,,2.0,,,,,,,2.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+370,JANSIK,Szilard,15:06,15.0,6.0,2.0,3.0,0.0,1.0,,,,,1.0,1.0,,,,,1.0,1.0,,,,2.0,,,,,3.0,,,,,,,3.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+371,ERDELYI,Balazs,24:41,24.0,41.0,3.0,5.0,0.0,2.0,1.0,1.0,,,1.0,1.0,,,,,,,1.0,1.0,,4.0,,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+372,MEZEI,Tamas,15:51,15.0,51.0,1.0,2.0,,,1.0,2.0,,,,,,,,,,,,,,2.0,,1.0,,,,1.0,,,,,,1.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+373,HARAI,Balazs,9:17,9.0,17.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+374,VOGEL,Soma,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,HUN,RSA,W,Player,15,DANERS CHAO,MOLLER
+375,,,,,,23.0,38.0,5.0,16.0,3.0,4.0,,,7.0,9.0,,,,,1.0,1.0,7.0,8.0,1.0,12.0,4.0,3.0,4.0,4.0,7.0,1.0,,,,,,8.0,HUN,RSA,W,Team,15,DANERS CHAO,MOLLER
+376,MADI,Lwazi,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,RSA,HUN,L,Player,15,DANERS CHAO,MOLLER
+377,CARD,Devon,15:43,15.0,43.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+378,REZELMAN,Timothy,15:36,15.0,36.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+379,BADENHORST,Nardus,18:07,18.0,7.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,1.0,,2.0,,,,,1.0,,,,,,1.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+380,LAURENSON,Cameron Bain,7:51,7.0,51.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,1.0,3.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+381,STONE,Ross,25:36,25.0,36.0,0.0,2.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,2.0,,,1.0,0.0,1.0,,1.0,,1.0,,,,2.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+382,EVEZARD,Jason,18:22,18.0,22.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,0.0,1.0,,,,,,,,0.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+383,RODDA,Nicholas,24:06,24.0,6.0,1.0,7.0,0.0,5.0,,,,,1.0,2.0,,,,,,,,,,,,1.0,0.0,2.0,,,,,,,,0.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+384,MARGRO,Yaseen,18:03,18.0,3.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+385,MAYMAN,Mogamad Farouk,11:40,11.0,40.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+386,NEILL,Liam,16:48,16.0,48.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+387,STEWART,Donn,20:08,20.0,8.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,RSA,HUN,L,Player,15,MOLLER,DANERS CHAO
+388,,,,,,1.0,22.0,0.0,14.0,0.0,1.0,,,1.0,6.0,0.0,1.0,,,,,,,8.0,1.0,4.0,4.0,0.0,4.0,7.0,2.0,,1.0,,,1.0,11.0,RSA,HUN,L,Team,15,MOLLER,DANERS CHAO
+389,MUNARRIZ EGANA,Alberto,19:11,19.0,11.0,1.0,2.0,0.0,1.0,,,,,,,,,,,,,1.0,1.0,,1.0,1.0,1.0,,,3.0,,,,,,,3.0,ESP,KAZ,W,Player,16,MOLLER,DANERS CHAO
+390,GRANADOS ORTEGA,Alvaro,22:45,22.0,45.0,5.0,7.0,2.0,3.0,,,,,0.0,1.0,,,,,2.0,2.0,1.0,1.0,,1.0,1.0,,1.0,2.0,,,,1.0,1.0,,,2.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+391,SANAHUJA,Bernat,19:56,19.0,56.0,3.0,8.0,0.0,3.0,,,1.0,1.0,2.0,2.0,,,,,,,0.0,2.0,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,,,,,,2.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+392,de TORO DOMINGUEZ,Miguel,18:55,18.0,55.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,2.0,,1.0,,,,,,,,,,,0.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+393,LARUMBE GONFAUS,Marc,17:02,17.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+394,FAMERA,Martin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+395,FERNANDEZ MIRANDA,Francisco,25:08,25.0,8.0,2.0,2.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,,,,2.0,1.0,1.0,1.0,,1.0,,,,,,1.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+396,TAHULL COMPTE,Roger,13:05,13.0,5.0,1.0,3.0,,,1.0,1.0,,,0.0,2.0,,,,,,,,,,,,1.0,,,,,,,,,,0.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+397,PERRONE ROCHA,Felipe,18:24,18.0,24.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+398,MALLARACH GUELL,Blai,19:50,19.0,50.0,2.0,4.0,2.0,3.0,,,,,,,0.0,1.0,,,,,,,,2.0,,,,,,,,1.0,,,,1.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+399,BUSTOS SANCHEZ,Ale andro,17:44,17.0,44.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,1.0,,,,,,,1.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+400,AGUIRRE,Unai,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ESP,KAZ,W,Player,16,GOLDENBERG,WILLIS
+401,,,,,,16.0,29.0,4.0,11.0,2.0,2.0,1.0,1.0,5.0,8.0,0.0,1.0,,,2.0,2.0,2.0,4.0,4.0,7.0,8.0,5.0,3.0,4.0,6.0,2.0,,2.0,1.0,,,11.0,ESP,KAZ,W,Team,16,GOLDENBERG,WILLIS
+402,MAKHMETOV,Madikhan,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,ESP,L,Player,16,GOLDENBERG,WILLIS
+403,MEDVEDEV,Yevgeniy,18:28,18.0,28.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+404,AUBAKIROV,Miras,14:13,14.0,13.0,0.0,2.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,1.0,,1.0,,0.0,2.0,1.0,1.0,,,,,,2.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+405,MARKOVIC,Dusan,19:13,19.0,13.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,2.0,3.0,1.0,,,1.0,,,,,,,1.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+406,SHMIDER,Alexey,16:29,16.0,29.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,0.0,1.0,,1.0,,,,,1.0,2.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+407,ARTYUKH,Danil,6:03,6.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+408,SHAKENOV,Murat,24:54,24.0,54.0,0.0,8.0,0.0,7.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,,1.0,1.0,,,,,,,,0.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+409,VUKSANOVIC,Srdan,29:33,29.0,33.0,2.0,8.0,1.0,4.0,,,,,1.0,3.0,,,,,,,0.0,1.0,1.0,1.0,,1.0,,,,,,,,,,0.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+410,UKUMANOV,Rustam,16:53,16.0,53.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+411,RUDAY,Mikhail,16:24,16.0,24.0,1.0,2.0,,,1.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+412,ALTAYEV,Altay,15:36,15.0,36.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,,,,,,,,0.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+413,SHVEDOV,Stanislav,14:14,14.0,14.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,,1.0,,,,,,,,,,0.0,KAZ,ESP,L,Player,16,WILLIS,GOLDENBERG
+414,,,,,,4.0,30.0,1.0,18.0,1.0,3.0,,,2.0,8.0,,,,,,,0.0,1.0,5.0,5.0,5.0,3.0,1.0,4.0,6.0,2.0,1.0,,,,2.0,11.0,KAZ,ESP,L,Team,16,WILLIS,GOLDENBERG
+415,BIJAC,Marko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,MNE,W,Player,17,WILLIS,GOLDENBERG
+416,MACAN,Marko,5:02,5.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+417,FATOVIC,Loren,24:29,24.0,29.0,3.0,8.0,1.0,4.0,,,1.0,1.0,1.0,3.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+418,LONCAR,Luka,17:35,17.0,35.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,2.0,,,,,,,,,,,,,0.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+419,JOKOVIC,Maro,26:00,26.0,0.0,0.0,1.0,,,,,,,,,,,,,,,0.0,1.0,,1.0,1.0,1.0,,,,1.0,,,,,,1.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+420,BUKIC,Luka,26:12,26.0,12.0,2.0,6.0,0.0,3.0,,,,,2.0,3.0,,,,,,,,,1.0,1.0,1.0,,2.0,2.0,,,,,,,,0.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+421,VUKICEVIC,Ante,18:44,18.0,44.0,2.0,6.0,2.0,6.0,,,,,,,,,,,,,,,,1.0,1.0,,,,2.0,,,,,,,2.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+422,BUSLJE,Andro,15:12,15.0,12.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,1.0,3.0,,,3.0,,,,,,,3.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+423,MILOS,Lovre,13:39,13.0,39.0,1.0,3.0,,,,,,,0.0,2.0,,,,,,,1.0,1.0,,1.0,1.0,,2.0,2.0,,,,,,,,0.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+424,VRLIC,Josip,16:11,16.0,11.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,1.0,,,,,,2.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+425,OBRADOVIC,Paulo,11:05,11.0,5.0,1.0,3.0,,,0.0,1.0,,,1.0,2.0,,,,,,,,,,,1.0,1.0,,,,,,,1.0,,,1.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+426,GARCIA GADEA,Javier,17:51,17.0,51.0,2.0,4.0,1.0,2.0,,,,,1.0,2.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,CRO,MNE,W,Player,17,KUN,VOEVODIN
+427,,,,,,13.0,33.0,4.0,15.0,1.0,2.0,1.0,1.0,6.0,13.0,,,,,,,1.0,2.0,4.0,5.0,6.0,5.0,4.0,4.0,10.0,3.0,,,1.0,,,14.0,CRO,MNE,W,Team,17,KUN,VOEVODIN
+428,BRGULJAN,Drasko,25:15,25.0,15.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,2.0,0.0,2.0,,1.0,,,,,,1.0,MNE,CRO,L,Player,17,KUN,VOEVODIN
+429,PERKOVIC,Miroslav,7:26,7.0,26.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,1.0,,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+430,PETKOVIC,Marko,21:43,21.0,43.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,,0.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+431,CUCKOVIC,Uros,8:23,8.0,23.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+432,POPADIC,Vlado,20:03,20.0,3.0,0.0,4.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+433,VIDOVIC,Stefan,13:50,13.0,50.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+434,UKROPINA,Aleksa,18:42,18.0,42.0,1.0,5.0,1.0,3.0,,,,,0.0,2.0,,,,,,,,,1.0,,1.0,,0.0,1.0,,1.0,,,,,,1.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+435,IVOVIC,Aleksandar,28:24,28.0,24.0,2.0,5.0,1.0,3.0,,,,,1.0,1.0,0.0,1.0,,,,,,,1.0,1.0,2.0,,,,2.0,,,,,,,2.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+436,SPAIC,Vladan,17:06,17.0,6.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,2.0,,1.0,,,,,,,,,,,0.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+437,MATKOVIC,Dusan,23:27,23.0,27.0,2.0,3.0,,,,,,,1.0,2.0,,,,,,,1.0,1.0,1.0,,2.0,,0.0,1.0,1.0,,,,,,,1.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+438,BANICEVIC,Dusan,7:41,7.0,41.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+439,TESANOVIC,Petar,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,MNE,CRO,L,Player,17,VOEVODIN,KUN
+440,,,,,,8.0,28.0,2.0,12.0,0.0,2.0,,,5.0,11.0,0.0,2.0,,,,,1.0,1.0,7.0,5.0,6.0,2.0,0.0,4.0,9.0,2.0,,,,,,11.0,MNE,CRO,L,Team,17,VOEVODIN,KUN
+441,MANDIC,Dusan,17:58,17.0,58.0,4.0,5.0,,,,,,,3.0,3.0,0.0,1.0,,,1.0,1.0,,,,1.0,1.0,,,,,,,,2.0,,,2.0,SRB,AUS,W,Player,18,VOEVODIN,KUN
+442,DEDOVIC,Nikola,22:21,22.0,21.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,1.0,,,0.0,1.0,,,,,,,,0.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+443,RANDELOVIC,Sava,9:12,9.0,12.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,2.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+444,LAZIC,Dorde,18:44,18.0,44.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,1.0,,1.0,,,,,,,,,,0.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+445,PIJETLOVIC,Dusko,12:11,12.0,11.0,1.0,2.0,,,0.0,1.0,,,1.0,1.0,,,,,,,,,1.0,,,1.0,,,2.0,,,,,,,2.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+446,RASOVIC,Strahin a,26:06,26.0,6.0,3.0,4.0,2.0,2.0,,,,,1.0,2.0,,,,,,,,,1.0,,,1.0,1.0,2.0,,,,,,,,0.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+447,ALEKSIC,Milan,12:19,12.0,19.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,1.0,,,1.0,,,,,,,1.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+448,JAKSIC,Nikola,13:13,13.0,13.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,1.0,,,2.0,,,,,,,2.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+449,FILIPOVIC,Filip,22:50,22.0,50.0,1.0,2.0,0.0,1.0,,,,,,,,,,,1.0,1.0,,,,,,1.0,0.0,1.0,,,,,,,,0.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+450,PRLAINOVIC,Andri a,18:51,18.0,51.0,2.0,4.0,0.0,1.0,,,,,1.0,1.0,,,,,,,1.0,2.0,,,,2.0,,,,,,,,,1.0,1.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+451,MITROVIC,Stefan,18:15,18.0,15.0,1.0,2.0,0.0,1.0,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,,1.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+452,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,SRB,AUS,W,Player,18,STAVRIDIS,OHME
+453,,,,,,14.0,25.0,4.0,10.0,1.0,3.0,,,6.0,7.0,0.0,1.0,,,2.0,2.0,1.0,2.0,4.0,7.0,1.0,8.0,1.0,4.0,6.0,1.0,,,2.0,,2.0,11.0,SRB,AUS,W,Team,18,STAVRIDIS,OHME
+454,HRYSANTHOS,Anthony,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,7.0,,,,,,,,,,,,0.0,AUS,SRB,L,Player,18,STAVRIDIS,OHME
+455,CAMPBELL,Richard,21:22,21.0,22.0,1.0,4.0,1.0,3.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+456,FORD,George,4:30,4.0,30.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,1.0,3.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+457,TOMASEVIC,Goran,13:11,13.0,11.0,1.0,2.0,,,0.0,1.0,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+458,POWER,Nathan,14:23,14.0,23.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,1.0,1.0,,,,2.0,,,,,,,2.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+459,EDWARDS,Lachlan Robert,18:26,18.0,26.0,1.0,2.0,1.0,1.0,0.0,1.0,,,,,,,,,,,,,2.0,,1.0,,,,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+460,ROACH,Aidan,20:59,20.0,59.0,1.0,3.0,0.0,2.0,,,,,,,,,,,1.0,1.0,,,,,2.0,,,,2.0,,,,,,,2.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+461,YOUNGER,Aaron,24:44,24.0,44.0,1.0,4.0,0.0,3.0,,,,,1.0,1.0,,,,,,,,,,,2.0,1.0,,,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+462,FORD,Andrew,19:27,19.0,27.0,1.0,6.0,0.0,4.0,,,,,1.0,1.0,0.0,1.0,,,,,,,,,1.0,,0.0,1.0,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+463,PUTT,Timothy Francis,12:14,12.0,14.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,,,,,,1.0,2.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+464,HOWDEN,Rhys,21:43,21.0,43.0,0.0,3.0,0.0,2.0,,,,,,,,,,,0.0,1.0,,,,,2.0,,3.0,3.0,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+465,EDWARDS,Blake,21:01,21.0,1.0,2.0,5.0,1.0,2.0,,,,,1.0,3.0,,,,,,,,,,1.0,1.0,,,,,,,,,,,0.0,AUS,SRB,L,Player,18,OHME,STAVRIDIS
+466,,,,,,8.0,32.0,3.0,18.0,0.0,2.0,,,4.0,9.0,0.0,1.0,,,1.0,2.0,,,7.0,9.0,10.0,3.0,3.0,4.0,8.0,,,,,,2.0,10.0,AUS,SRB,L,Team,18,OHME,STAVRIDIS
+467,KANDIC,Slaven,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,KAZ,W,Player,19,OHME,STAVRIDIS
+468,BRGULJAN,Drasko,21:15,21.0,15.0,4.0,5.0,3.0,3.0,,,,,1.0,1.0,,,,,0.0,1.0,,,,3.0,2.0,2.0,2.0,3.0,,,,,,,,0.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+469,PERKOVIC,Miroslav,14:34,14.0,34.0,4.0,7.0,1.0,1.0,3.0,6.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,0.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+470,PETKOVIC,Marko,24:34,24.0,34.0,2.0,4.0,0.0,1.0,,,,,1.0,1.0,,,,,,,1.0,2.0,,,,,,,,,,,,,,0.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+471,CUCKOVIC,Uros,12:49,12.0,49.0,1.0,3.0,,,,,,,1.0,2.0,0.0,1.0,,,,,,,2.0,3.0,,,,,1.0,,,,,,,1.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+472,POPADIC,Vlado,17:25,17.0,25.0,1.0,2.0,1.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,2.0,1.0,,,,,,3.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+473,VIDOVIC,Stefan,20:34,20.0,34.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+474,UKROPINA,Aleksa,21:46,21.0,46.0,0.0,3.0,0.0,2.0,,,,,,,,,,,,,0.0,1.0,,2.0,,1.0,1.0,1.0,,2.0,,,,,,2.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+475,IVOVIC,Aleksandar,19:44,19.0,44.0,4.0,4.0,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,,1.0,1.0,,,,2.0,1.0,,,,1.0,,,,,,,1.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+476,MATKOVIC,Dusan,21:51,21.0,51.0,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,1.0,,,,,2.0,,,,,,,2.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+477,BANICEVIC,Dusan,17:28,17.0,28.0,1.0,2.0,,,1.0,1.0,,,0.0,1.0,,,,,,,,,2.0,,,,,,,,,,,,,0.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+478,TESANOVIC,Petar,16:00,16.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,KAZ,W,Player,19,STAVRIDIS,OHME
+479,,,,,,19.0,33.0,6.0,9.0,4.0,7.0,1.0,1.0,5.0,9.0,0.0,1.0,,,2.0,3.0,1.0,3.0,5.0,12.0,3.0,4.0,3.0,4.0,7.0,4.0,,,,,,11.0,MNE,KAZ,W,Team,19,STAVRIDIS,OHME
+480,MEDVEDEV,Yevgeniy,19:30,19.0,30.0,2.0,6.0,2.0,2.0,,,,,0.0,3.0,0.0,1.0,,,,,,,,,1.0,,,,,,,1.0,,,,1.0,KAZ,MNE,L,Player,19,STAVRIDIS,OHME
+481,AUBAKIROV,Miras,17:37,17.0,37.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,0.0,1.0,,1.0,,,,,1.0,2.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+482,MARKOVIC,Dusan,14:24,14.0,24.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,2.0,,,,,,1.0,3.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+483,SHMIDER,Alexey,19:26,19.0,26.0,2.0,3.0,1.0,2.0,,,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,0.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+484,ARTYUKH,Danil,9:28,9.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+485,SHAKENOV,Murat,21:31,21.0,31.0,2.0,4.0,1.0,2.0,,,,,1.0,2.0,,,,,,,,,,1.0,1.0,,,,1.0,,,,,,,1.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+486,VUKSANOVIC,Srdan,28:36,28.0,36.0,2.0,4.0,1.0,2.0,,,,,1.0,2.0,,,,,,,,,,2.0,1.0,,0.0,1.0,,,,,,,,0.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+487,UKUMANOV,Rustam,17:03,17.0,3.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,1.0,,,,2.0,1.0,,,,,,3.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+488,RUDAY,Mikhail,16:06,16.0,6.0,3.0,3.0,,,,,,,2.0,2.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+489,ALTAYEV,Altay,15:54,15.0,54.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+490,SHVEDOV,Stanislav,12:25,12.0,25.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,2.0,,,0.0,1.0,,,,,,,1.0,1.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+491,LIPILIN,Pavel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,KAZ,MNE,L,Player,19,OHME,STAVRIDIS
+492,,,,,,12.0,25.0,5.0,11.0,1.0,1.0,,,5.0,11.0,0.0,1.0,,,,,1.0,1.0,5.0,7.0,5.0,,1.0,4.0,6.0,2.0,,1.0,,,3.0,12.0,KAZ,MNE,L,Team,19,OHME,STAVRIDIS
+493,HRYSANTHOS,Anthony,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,ESP,L,Player,20,OHME,STAVRIDIS
+494,CAMPBELL,Richard,26:01,26.0,1.0,0.0,5.0,0.0,3.0,,,,,0.0,1.0,,,,,,,0.0,1.0,1.0,1.0,,,,,,,,,,,,0.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+495,FORD,George,7:51,7.0,51.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+496,TOMASEVIC,Goran,10:53,10.0,53.0,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+497,POWER,Nathan,18:29,18.0,29.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,1.0,,,,2.0,,,,,,,2.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+498,EDWARDS,Lachlan Robert,13:07,13.0,7.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,2.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+499,ROACH,Aidan,27:46,27.0,46.0,1.0,5.0,0.0,3.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+500,YOUNGER,Aaron,24:42,24.0,42.0,2.0,6.0,0.0,2.0,,,,,2.0,4.0,,,,,,,,,,,2.0,,,,,,,1.0,,,1.0,2.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+501,FORD,Andrew,13:57,13.0,57.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+502,PUTT,Timothy Francis,8:58,8.0,58.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,2.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+503,HOWDEN,Rhys,17:51,17.0,51.0,,,,,,,,,,,,,,,,,,,,,2.0,,0.0,4.0,2.0,1.0,,,,,,3.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+504,EDWARDS,Blake,22:25,22.0,25.0,2.0,6.0,1.0,3.0,0.0,1.0,0.0,1.0,1.0,1.0,,,,,,,,,,1.0,1.0,,,,,,,,,,,0.0,AUS,ESP,L,Player,20,ALEXANDRESCU,DERVIEUX
+505,,,,,,5.0,28.0,1.0,17.0,0.0,1.0,0.0,1.0,4.0,8.0,,,,,,,0.0,1.0,4.0,2.0,8.0,,0.0,4.0,9.0,1.0,,1.0,,,3.0,14.0,AUS,ESP,L,Team,20,ALEXANDRESCU,DERVIEUX
+506,LOPEZ PINEDO,Daniel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,AUS,W,Player,20,ALEXANDRESCU,DERVIEUX
+507,MUNARRIZ EGANA,Alberto,22:49,22.0,49.0,2.0,3.0,2.0,3.0,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,0.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+508,GRANADOS ORTEGA,Alvaro,22:09,22.0,9.0,4.0,7.0,1.0,3.0,,,,,1.0,2.0,,,,,2.0,2.0,,,,1.0,1.0,,,,,,,,,,,0.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+509,SANAHUJA,Bernat,20:21,20.0,21.0,0.0,5.0,0.0,5.0,,,,,,,,,,,,,,,,2.0,,,1.0,1.0,1.0,,,,,,,1.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+510,de TORO DOMINGUEZ,Miguel,13:58,13.0,58.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,,,1.0,,,,1.0,,,,,,1.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+511,LARUMBE GONFAUS,Marc,19:48,19.0,48.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+512,FAMERA,Martin,15:08,15.0,8.0,2.0,2.0,2.0,2.0,,,,,,,,,,,,,,,,,,,3.0,3.0,1.0,,,,,,,1.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+513,FERNANDEZ MIRANDA,Francisco,22:20,22.0,20.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,0.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+514,TAHULL COMPTE,Roger,12:25,12.0,25.0,2.0,3.0,,,1.0,1.0,,,1.0,2.0,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+515,PERRONE ROCHA,Felipe,16:40,16.0,40.0,3.0,4.0,0.0,1.0,,,,,1.0,1.0,,,,,1.0,1.0,1.0,1.0,,1.0,1.0,,,,,,,,,,,0.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+516,MALLARACH GUELL,Blai,14:11,14.0,11.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,1.0,,,1.0,,,,,,,,,,0.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+517,BUSTOS SANCHEZ,Ale andro,12:11,12.0,11.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,2.0,,,,,,,2.0,ESP,AUS,W,Player,20,DERVIEUX,ALEXANDRESCU
+518,,,,,,16.0,30.0,5.0,16.0,1.0,1.0,,,6.0,9.0,,,,,3.0,3.0,1.0,1.0,5.0,6.0,6.0,2.0,4.0,4.0,7.0,1.0,,,,,,8.0,ESP,AUS,W,Team,20,DERVIEUX,ALEXANDRESCU
+519,BIJAC,Marko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,CRO,SRB,W,Player,21,DERVIEUX,ALEXANDRESCU
+520,MACAN,Marko,6:54,6.0,54.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,3.0,,,,,,,3.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+521,FATOVIC,Loren,23:24,23.0,24.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,1.0,2.0,,,,,1.0,,,1.0,,,2.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+522,LONCAR,Luka,13:28,13.0,28.0,1.0,2.0,,,0.0,1.0,,,,,,,,,,,1.0,1.0,2.0,,,,,,,,,,,,,0.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+523,JOKOVIC,Maro,23:51,23.0,51.0,4.0,9.0,1.0,5.0,,,,,2.0,3.0,,,,,,,1.0,1.0,,,,,,,2.0,,,,1.0,,,3.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+524,BUKIC,Luka,26:18,26.0,18.0,3.0,4.0,1.0,1.0,,,,,2.0,3.0,,,,,,,,,,1.0,,2.0,2.0,3.0,2.0,,,,,,,2.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+525,VUKICEVIC,Ante,16:13,16.0,13.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,3.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+526,BUSLJE,Andro,15:32,15.0,32.0,1.0,3.0,1.0,3.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+527,MILOS,Lovre,18:57,18.0,57.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,1.0,,0.0,1.0,,,,,,,,0.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+528,VRLIC,Josip,16:29,16.0,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+529,OBRADOVIC,Paulo,11:19,11.0,19.0,4.0,4.0,3.0,3.0,,,,,1.0,1.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+530,GARCIA GADEA,Javier,19:35,19.0,35.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,CRO,SRB,W,Player,21,GOLDENBERG,ZWART
+531,,,,,,14.0,29.0,6.0,16.0,0.0,1.0,,,6.0,10.0,,,,,,,2.0,2.0,2.0,4.0,3.0,3.0,2.0,4.0,11.0,3.0,1.0,,3.0,,1.0,19.0,CRO,SRB,W,Team,21,GOLDENBERG,ZWART
+532,PIJETLOVIC,Go ko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,CRO,L,Player,21,GOLDENBERG,ZWART
+533,MANDIC,Dusan,26:10,26.0,10.0,1.0,6.0,1.0,3.0,0.0,1.0,,,0.0,2.0,,,,,,,,,,2.0,1.0,,,,,1.0,,,,,,1.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+534,DEDOVIC,Nikola,16:44,16.0,44.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,1.0,1.0,,,1.0,1.0,1.0,,,1.0,,,,2.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+535,RANDELOVIC,Sava,6:56,6.0,56.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+536,LAZIC,Dorde,11:47,11.0,47.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,,,,,,,,0.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+537,PIJETLOVIC,Dusko,14:10,14.0,10.0,1.0,3.0,,,0.0,1.0,,,1.0,2.0,,,,,,,,,2.0,,,1.0,,,,,,,,,,0.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+538,RASOVIC,Strahin a,26:59,26.0,59.0,2.0,5.0,0.0,2.0,,,,,2.0,3.0,,,,,,,,,,,1.0,,1.0,3.0,1.0,,,,,,,1.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+539,ALEKSIC,Milan,9:54,9.0,54.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,1.0,,,,2.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+540,JAKSIC,Nikola,18:10,18.0,10.0,3.0,5.0,0.0,1.0,,,,,3.0,4.0,,,,,,,,,1.0,,1.0,1.0,,,2.0,,,,,,,2.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+541,FILIPOVIC,Filip,24:09,24.0,9.0,2.0,4.0,1.0,1.0,,,1.0,1.0,0.0,2.0,,,,,,,,,,1.0,3.0,,,,,,,,,,,0.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+542,PRLAINOVIC,Andri a,26:31,26.0,31.0,1.0,3.0,0.0,1.0,,,,,0.0,1.0,,,,,1.0,1.0,,,,,1.0,,,,1.0,,,,,,,1.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+543,MITROVIC,Stefan,10:30,10.0,30.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,,,,,,1.0,2.0,,,,,,3.0,SRB,CRO,L,Player,21,ZWART,GOLDENBERG
+544,,,,,,12.0,34.0,2.0,11.0,0.0,2.0,1.0,1.0,8.0,19.0,,,,,1.0,1.0,,,4.0,4.0,7.0,3.0,2.0,4.0,9.0,3.0,,2.0,,,,14.0,SRB,CRO,L,Team,21,ZWART,GOLDENBERG
+545,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ITA,JPN,W,Player,22,ZWART,GOLDENBERG
+546,Di FULVIO,Francesco,16:59,16.0,59.0,1.0,4.0,1.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,,2.0,2.0,,1.0,,,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+547,LUONGO,Stefano,15:51,15.0,51.0,1.0,3.0,0.0,1.0,0.0,1.0,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,1.0,2.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+548,FIGLIOLI,Pietro,13:00,13.0,0.0,3.0,3.0,1.0,1.0,,,,,1.0,1.0,,,,,1.0,1.0,,,,1.0,,,1.0,1.0,,,,,,,,0.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+549,PRESCIUTTI,Nicholas,17:28,17.0,28.0,,,,,,,,,,,,,,,,,,,,1.0,2.0,,,,1.0,,,,,,2.0,3.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+550,VELOTTO,Alessandro,24:55,24.0,55.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,4.0,,1.0,,,,1.0,,,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+551,RENZUTO IODICE,Vincenzo,24:08,24.0,8.0,1.0,2.0,,,,,,,0.0,1.0,,,,,1.0,1.0,,,1.0,1.0,2.0,,,,2.0,,,,,,,2.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+552,ECHENIQUE,Gonzalo,15:44,15.0,44.0,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,1.0,1.0,2.0,,,,,1.0,,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+553,FIGARI,Niccolo,11:40,11.0,40.0,2.0,4.0,0.0,1.0,,,1.0,1.0,1.0,2.0,,,,,,,,,,1.0,,,,,1.0,,,,1.0,,,2.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+554,BODEGAS,Michael Alexandre,16:09,16.0,9.0,3.0,4.0,1.0,1.0,0.0,1.0,,,2.0,2.0,,,,,,,,,2.0,,1.0,,,,,1.0,,,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+555,AICARDI,Matteo,13:24,13.0,24.0,2.0,2.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,,1.0,,1.0,1.0,,,,,,1.0,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+556,DOLCE,Vincenzo,22:42,22.0,42.0,1.0,2.0,0.0,1.0,,,,,,,,,,,1.0,1.0,,,,1.0,,,,,1.0,,,,,,,1.0,ITA,JPN,W,Player,22,IVANOSKI,PERIŠ
+557,,,,,,16.0,26.0,3.0,7.0,1.0,3.0,1.0,2.0,7.0,9.0,0.0,1.0,,,3.0,3.0,1.0,1.0,6.0,12.0,7.0,4.0,4.0,4.0,5.0,3.0,1.0,1.0,2.0,,3.0,15.0,ITA,JPN,W,Team,22,IVANOSKI,PERIŠ
+558,TANAMURA,Katsuyuki,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,6.0,,,,,,,,,,,,0.0,JPN,ITA,L,Player,22,IVANOSKI,PERIŠ
+559,ADACHI,Seiya,23:03,23.0,3.0,1.0,4.0,,,,,,,1.0,2.0,0.0,1.0,,,,,0.0,1.0,,1.0,1.0,,0.0,1.0,,1.0,,,,,,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+560,KOPPU,Harukiirario,21:29,21.0,29.0,0.0,1.0,,,,,,,,,0.0,1.0,,,,,,,1.0,2.0,,,,,,,,,,,1.0,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+561,SHIGA,Mitsuaki,20:36,20.0,36.0,1.0,5.0,0.0,2.0,,,,,0.0,1.0,,,,,,,1.0,2.0,,4.0,,,,,,,,,,,1.0,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+562,YOSHIDA,Takuma,16:54,16.0,54.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,0.0,1.0,,,1.0,,,,,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+563,SUZUKI,Toi,13:45,13.0,45.0,1.0,2.0,,,,,1.0,1.0,,,0.0,1.0,,,,,,,1.0,1.0,,,0.0,1.0,,,,,,,,0.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+564,SHIMIZU,Yusuke,12:13,12.0,13.0,0.0,3.0,,,0.0,2.0,,,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+565,TAKATA,Mitsuru,11:14,11.0,14.0,1.0,2.0,,,,,,,1.0,1.0,,,,,,,0.0,1.0,1.0,,,,,,,2.0,,,,,,2.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+566,ARAI,Atsushi,19:45,19.0,45.0,1.0,2.0,,,,,,,1.0,1.0,,,,,0.0,1.0,,,,1.0,,,0.0,1.0,1.0,2.0,,,,,,3.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+567,INABA,Yusuke,25:37,25.0,37.0,3.0,8.0,0.0,2.0,,,,,1.0,2.0,0.0,2.0,,,2.0,2.0,,,,1.0,1.0,1.0,,,,1.0,,,,,,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+568,OKAWA,Keigo,20:31,20.0,31.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+569,ARAKI,Kenta,6:53,6.0,53.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,ITA,L,Player,22,PERIŠ,IVANOSKI
+570,,,,,,8.0,32.0,0.0,6.0,0.0,3.0,1.0,1.0,4.0,10.0,0.0,5.0,,,2.0,3.0,1.0,4.0,3.0,16.0,2.0,1.0,0.0,4.0,1.0,7.0,1.0,,,,3.0,12.0,JPN,ITA,L,Team,22,PERIŠ,IVANOSKI
+571,CARD,Devon,14:48,14.0,48.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,2.0,,,1.0,,,,,,,,,,0.0,RSA,GRE,L,Player,23,PERIŠ,IVANOSKI
+572,REZELMAN,Timothy,15:32,15.0,32.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+573,BADENHORST,Nardus,16:15,16.0,15.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+574,LAURENSON,Cameron Bain,13:07,13.0,7.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+575,STONE,Ross,23:14,23.0,14.0,2.0,6.0,1.0,3.0,,,,,1.0,3.0,,,,,,,,,,,1.0,1.0,0.0,1.0,,,,1.0,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+576,EVEZARD,Jason,24:22,24.0,22.0,1.0,6.0,1.0,3.0,0.0,1.0,,,0.0,1.0,,,0.0,1.0,,,,,1.0,,1.0,1.0,1.0,1.0,2.0,,,,,,,2.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+577,RODDA,Nicholas,24:16,24.0,16.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,,1.0,2.0,,,,,,,1.0,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+578,MARGRO,Yaseen,19:08,19.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+579,MAYMAN,Mogamad Farouk,8:15,8.0,15.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+580,NEILL,Liam,15:37,15.0,37.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+581,STEWART,Donn,17:26,17.0,26.0,0.0,4.0,0.0,4.0,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+582,MAY,Gareth,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,RSA,GRE,L,Player,23,ZHANG,WALDOW
+583,,,,,,5.0,22.0,2.0,11.0,1.0,2.0,,,2.0,8.0,,,0.0,1.0,,,,,8.0,,4.0,3.0,2.0,4.0,7.0,,,1.0,,,1.0,9.0,RSA,GRE,L,Team,23,ZHANG,WALDOW
+584,GENIDOUNIAS,Konstantinos,13:43,13.0,43.0,1.0,3.0,1.0,2.0,,,,,,,,,,,,,0.0,1.0,1.0,,,,1.0,2.0,,1.0,,,,,,1.0,GRE,RSA,W,Player,23,ZHANG,WALDOW
+585,SKOUMPAKIS,Dimitrios,16:13,16.0,13.0,3.0,3.0,3.0,3.0,,,,,,,,,,,,,,,,2.0,,,,,2.0,,,,,,,2.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+586,KAPOTSIS,Marios,20:44,20.0,44.0,3.0,4.0,1.0,1.0,,,,,1.0,1.0,,,,,,,1.0,2.0,,1.0,1.0,1.0,,,1.0,,,,,,,1.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+587,FOUNTOULIS,Ioannis,16:30,16.0,30.0,5.0,6.0,2.0,3.0,,,,,1.0,1.0,,,,,,,2.0,2.0,,1.0,1.0,,,,1.0,,,,,,,1.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+588,PAPANASTASIOU,Alexandros,20:49,20.0,49.0,3.0,6.0,2.0,2.0,,,0.0,1.0,0.0,1.0,,,,,,,1.0,2.0,,1.0,,,1.0,1.0,,,,,,,,0.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+589,DERVISIS,Georgios,16:48,16.0,48.0,2.0,2.0,,,,,,,1.0,1.0,,,,,,,1.0,1.0,,1.0,1.0,1.0,,,,1.0,,,,,,1.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+590,ARGYROPOULOS KANAKAKIS,Stylianos,18:08,18.0,8.0,4.0,6.0,1.0,3.0,,,,,2.0,2.0,,,,,,,1.0,1.0,,2.0,1.0,,,,1.0,,,,,,,1.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+591,MOURIKIS,Konstantinos,13:39,13.0,39.0,1.0,2.0,,,0.0,1.0,,,,,,,,,,,1.0,1.0,2.0,,,,,,,,,,,,,0.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+592,KOLOMVOS,Christodoulos,15:40,15.0,40.0,1.0,2.0,,,0.0,1.0,,,1.0,1.0,,,,,,,,,1.0,,,1.0,,,,,,,,,,0.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+593,GKIOUVETSIS,Konstantinos,20:49,20.0,49.0,3.0,6.0,0.0,2.0,0.0,1.0,,,1.0,1.0,1.0,1.0,,,1.0,1.0,,,,2.0,,,0.0,1.0,,1.0,,,,,,1.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+594,VLACHOPOULOS,Angelos,18:57,18.0,57.0,2.0,2.0,2.0,2.0,,,,,,,,,,,,,,,,4.0,,1.0,,,,,,,,,,0.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+595,GALANIDIS,Konstantinos,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,RSA,W,Player,23,WALDOW,ZHANG
+596,,,,,,28.0,42.0,12.0,18.0,0.0,3.0,0.0,1.0,7.0,8.0,1.0,1.0,,,1.0,1.0,7.0,10.0,4.0,14.0,4.0,4.0,2.0,4.0,5.0,3.0,,,,,,8.0,GRE,RSA,W,Team,23,WALDOW,ZHANG
+597,WOLF,Alex,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,USA,HUN,L,Player,24,WALDOW,ZHANG
+598,HOOPER,Johnny,15:25,15.0,25.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,2.0,3.0,,,,,,,,0.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+599,VAVIC,Marko,19:05,19.0,5.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,,1.0,,,1.0,,,,,,,1.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+600,OBERT,Alex,16:08,16.0,8.0,1.0,2.0,,,1.0,2.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,0.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+601,DAUBE,Hannes,21:24,21.0,24.0,1.0,5.0,0.0,1.0,,,,,1.0,4.0,,,,,,,,,1.0,,,,,,2.0,,,,1.0,,,3.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+602,CUPIDO,Luca,24:31,24.0,31.0,1.0,7.0,0.0,4.0,,,,,1.0,3.0,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+603,HALLOCK,Ben,17:55,17.0,55.0,2.0,5.0,,,1.0,3.0,,,1.0,1.0,0.0,1.0,,,,,,,2.0,1.0,,,,,,,,,,,,0.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+604,WOODHEAD,Dylan,6:53,6.0,53.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+605,BOWEN,Alex,24:26,24.0,26.0,2.0,3.0,1.0,1.0,,,,,1.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,0.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+606,STEVENSON,Ben,15:24,15.0,24.0,0.0,3.0,,,,,,,0.0,3.0,,,,,,,,,,1.0,,1.0,,,1.0,,,,,,,1.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+607,SMITH,Jesse,6:55,6.0,55.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,2.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+608,IRVING,Max,23:54,23.0,54.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,,0.0,1.0,,,,,,,1.0,1.0,USA,HUN,L,Player,24,BUCH JUANOLA,VOEVODIN
+609,,,,,,8.0,31.0,1.0,8.0,2.0,5.0,,,5.0,16.0,0.0,2.0,,,,,,,4.0,6.0,1.0,5.0,2.0,4.0,7.0,,,1.0,1.0,,1.0,10.0,USA,HUN,L,Team,24,BUCH JUANOLA,VOEVODIN
+610,NAGY,Viktor,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,USA,W,Player,24,BUCH JUANOLA,VOEVODIN
+611,ANGYAL,Daniel,14:17,14.0,17.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,1.0,,,,,,,1.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+612,MANHERCZ,Krisztian,24:12,24.0,12.0,3.0,5.0,1.0,1.0,,,,,1.0,3.0,1.0,1.0,,,,,,,,1.0,2.0,2.0,1.0,2.0,,,,,,,,0.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+613,ZALANKI,Gergo,22:56,22.0,56.0,0.0,7.0,0.0,5.0,,,,,0.0,1.0,0.0,1.0,,,,,,,,1.0,,1.0,,,1.0,1.0,,,,,,2.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+614,VAMOS,Marton,19:43,19.0,43.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,,1.0,,,,1.0,,,1.0,,,2.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+615,HOSNYANSZKY,Norbert,14:22,14.0,22.0,1.0,4.0,0.0,2.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,2.0,,,,,,,2.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+616,PASZTOR,Matyas,15:56,15.0,56.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,2.0,,1.0,,,,1.0,,,,,,,1.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+617,JANSIK,Szilard,11:51,11.0,51.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+618,ERDELYI,Balazs,12:26,12.0,26.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,1.0,2.0,1.0,2.0,,,,,,3.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+619,VARGA,Denes,29:33,29.0,33.0,2.0,5.0,1.0,4.0,,,,,,,,,,,1.0,1.0,,,,1.0,2.0,1.0,,,1.0,,,,,,,1.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+620,MEZEI,Tamas,13:28,13.0,28.0,1.0,2.0,,,1.0,1.0,,,0.0,1.0,,,,,,,,,2.0,,2.0,,,,,1.0,,,,,,1.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+621,HARAI,Balazs,13:16,13.0,16.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,3.0,,,1.0,,,,,,,1.0,,,1.0,HUN,USA,W,Player,24,VOEVODIN,BUCH JUANOLA
+622,,,,,,11.0,31.0,3.0,13.0,2.0,2.0,,,4.0,13.0,1.0,2.0,,,1.0,1.0,,,8.0,5.0,8.0,6.0,2.0,4.0,8.0,6.0,,,2.0,,,16.0,HUN,USA,W,Team,24,VOEVODIN,BUCH JUANOLA
+623,TANAMURA,Katsuyuki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,RSA,W,Player,25,VOEVODIN,BUCH JUANOLA
+624,ADACHI,Seiya,19:05,19.0,5.0,4.0,8.0,0.0,2.0,,,,,2.0,3.0,,,,,1.0,2.0,1.0,1.0,,,,,2.0,2.0,,1.0,,,1.0,,,2.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+625,KOPPU,Harukiirario,19:04,19.0,4.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,2.0,,,,,1.0,,,,,,,1.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+626,SHIGA,Mitsuaki,23:48,23.0,48.0,2.0,2.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,2.0,,,,,1.0,,,,,,,1.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+627,YOSHIDA,Takuma,17:35,17.0,35.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+628,SHIMIZU,Yusuke,13:54,13.0,54.0,3.0,7.0,,,2.0,4.0,,,0.0,2.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+629,TAKATA,Mitsuru,15:32,15.0,32.0,2.0,3.0,0.0,1.0,,,,,,,,,,,,,2.0,2.0,,1.0,1.0,,,,1.0,1.0,,,,,,2.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+630,ARAI,Atsushi,26:07,26.0,7.0,4.0,6.0,1.0,1.0,,,,,3.0,4.0,0.0,1.0,,,,,,,,,2.0,1.0,1.0,2.0,,1.0,,,,,,1.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+631,INABA,Yusuke,23:15,23.0,15.0,3.0,9.0,2.0,4.0,,,,,0.0,3.0,,,,,1.0,1.0,0.0,1.0,,4.0,1.0,,,,,,,,,,,0.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+632,OKAWA,Keigo,22:45,22.0,45.0,3.0,3.0,,,,,,,,,,,,,,,3.0,3.0,,1.0,1.0,,,,1.0,,,,,,,1.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+633,ARAKI,Kenta,10:55,10.0,55.0,3.0,3.0,,,2.0,2.0,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+634,FUKUSHIMA,Tomoyoshi,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,4.0,,,,,1.0,,,,,,1.0,2.0,JPN,RSA,W,Player,25,PUTNIKOVIC,WALDOW
+635,,,,,,24.0,43.0,4.0,10.0,4.0,6.0,1.0,1.0,6.0,14.0,0.0,1.0,,,2.0,3.0,7.0,8.0,1.0,14.0,5.0,1.0,3.0,4.0,5.0,3.0,,,1.0,,2.0,11.0,JPN,RSA,W,Team,25,PUTNIKOVIC,WALDOW
+636,MADI,Lwazi,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,RSA,JPN,L,Player,25,PUTNIKOVIC,WALDOW
+637,CARD,Devon,19:24,19.0,24.0,1.0,3.0,,,0.0,2.0,,,1.0,1.0,,,,,,,,,2.0,,,2.0,,,,,,,,,,0.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+638,REZELMAN,Timothy,8:47,8.0,47.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,,,,,2.0,,1.0,3.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+639,BADENHORST,Nardus,19:36,19.0,36.0,2.0,6.0,1.0,3.0,,,,,1.0,1.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,,,1.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+640,LAURENSON,Cameron Bain,7:35,7.0,35.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+641,STONE,Ross,15:19,15.0,19.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,1.0,,1.0,,,1.0,1.0,,1.0,,,,3.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+642,EVEZARD,Jason,18:59,18.0,59.0,,,,,,,,,,,,,,,,,,,,,,,0.0,2.0,1.0,1.0,,,,,1.0,3.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+643,RODDA,Nicholas,21:16,21.0,16.0,0.0,2.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,1.0,,,,,,,,0.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+644,MARGRO,Yaseen,22:45,22.0,45.0,,,,,,,,,,,,,,,,,,,,1.0,,1.0,0.0,1.0,,,1.0,,,,,1.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+645,MAYMAN,Mogamad Farouk,14:40,14.0,40.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,,,1.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+646,NEILL,Liam,21:37,21.0,37.0,4.0,5.0,1.0,2.0,2.0,2.0,,,1.0,1.0,,,,,,,,,1.0,,1.0,,,,1.0,,1.0,,,,,2.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+647,STEWART,Donn,22:02,22.0,2.0,1.0,5.0,0.0,2.0,,,,,1.0,2.0,,,,,0.0,1.0,,,1.0,2.0,1.0,,,,,,,,,,1.0,1.0,RSA,JPN,L,Player,25,WALDOW,PUTNIKOVIC
+648,,,,,,9.0,23.0,2.0,8.0,2.0,4.0,,,5.0,7.0,0.0,2.0,,,0.0,2.0,,,9.0,7.0,2.0,4.0,1.0,4.0,5.0,2.0,2.0,1.0,3.0,,3.0,16.0,RSA,JPN,L,Team,25,WALDOW,PUTNIKOVIC
+649,NAGY,Viktor,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,ITA,L,Player,26,WALDOW,PUTNIKOVIC
+650,ANGYAL,Daniel,14:31,14.0,31.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,1.0,,2.0,1.0,,,1.0,,1.0,,,,,2.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+651,MANHERCZ,Krisztian,25:43,25.0,43.0,0.0,7.0,0.0,4.0,,,,,0.0,2.0,,,,,,,0.0,1.0,,,1.0,1.0,0.0,1.0,,,,,,,,0.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+652,ZALANKI,Gergo,24:10,24.0,10.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,,,,2.0,0.0,1.0,,,,,,,,0.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+653,VAMOS,Marton,25:45,25.0,45.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,1.0,1.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+654,HOSNYANSZKY,Norbert,6:49,6.0,49.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,1.0,1.0,,,,,,2.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+655,PASZTOR,Matyas,13:30,13.0,30.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,,,,,,,,1.0,,,1.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+656,JANSIK,Szilard,13:16,13.0,16.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,,,,,,2.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+657,ERDELYI,Balazs,14:26,14.0,26.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,0.0,1.0,1.0,,,,,,,1.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+658,VARGA,Denes,26:11,26.0,11.0,3.0,3.0,1.0,1.0,,,,,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,0.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+659,MEZEI,Tamas,13:55,13.0,55.0,,,,,,,,,,,,,,,,,,,2.0,1.0,2.0,,,,,1.0,,,1.0,,,2.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+660,HARAI,Balazs,13:44,13.0,44.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,2.0,,,1.0,,,1.0,1.0,,,1.0,,,3.0,HUN,ITA,L,Player,26,BUCH JUANOLA,VOEVODIN
+661,,,,,,5.0,21.0,2.0,7.0,0.0,1.0,,,2.0,11.0,,,,,,,1.0,2.0,6.0,2.0,7.0,7.0,1.0,4.0,5.0,4.0,1.0,,3.0,,1.0,14.0,HUN,ITA,L,Team,26,BUCH JUANOLA,VOEVODIN
+662,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,HUN,W,Player,26,BUCH JUANOLA,VOEVODIN
+663,Di FULVIO,Francesco,25:23,25.0,23.0,1.0,9.0,0.0,5.0,,,,,1.0,4.0,,,,,,,,,1.0,,,1.0,2.0,2.0,,,,,,,,0.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+664,LUONGO,Stefano,25:36,25.0,36.0,0.0,4.0,0.0,2.0,,,,,0.0,1.0,0.0,1.0,,,,,,,,,,,0.0,1.0,,,,,,,,0.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+665,FIGLIOLI,Pietro,19:35,19.0,35.0,2.0,6.0,1.0,3.0,,,,,0.0,2.0,,,,,1.0,1.0,,,,1.0,2.0,1.0,1.0,1.0,,1.0,,,,,,1.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+666,PRESCIUTTI,Nicholas,22:26,22.0,26.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,3.0,1.0,,,,2.0,,,,,,,2.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+667,VELOTTO,Alessandro,8:43,8.0,43.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+668,RENZUTO IODICE,Vincenzo,14:20,14.0,20.0,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,1.0,,,,,,,1.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+669,ECHENIQUE,Gonzalo,28:50,28.0,50.0,1.0,4.0,0.0,3.0,,,,,1.0,1.0,,,,,,,,,,2.0,2.0,1.0,,,1.0,1.0,,,,,,2.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+670,FIGARI,Niccolo,5:31,5.0,31.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,2.0,,1.0,,,,,3.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+671,BODEGAS,Michael Alexandre,15:51,15.0,51.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,2.0,2.0,1.0,1.0,,,,,,,1.0,,,1.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+672,AICARDI,Matteo,15:42,15.0,42.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,,1.0,,,,1.0,,,,,,,1.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+673,DOLCE,Vincenzo,10:03,10.0,3.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,ITA,HUN,W,Player,26,VOEVODIN,BUCH JUANOLA
+674,,,,,,5.0,31.0,1.0,17.0,,,,,3.0,12.0,0.0,1.0,,,1.0,1.0,,,6.0,8.0,8.0,4.0,3.0,4.0,9.0,3.0,1.0,,1.0,,,14.0,ITA,HUN,W,Team,26,VOEVODIN,BUCH JUANOLA
+675,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,GRE,USA,W,Player,27,VOEVODIN,BUCH JUANOLA
+676,GENIDOUNIAS,Konstantinos,18:27,18.0,27.0,5.0,7.0,1.0,3.0,,,,,2.0,2.0,,,,,1.0,1.0,1.0,1.0,,2.0,1.0,,0.0,2.0,,,,,,,,0.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+677,SKOUMPAKIS,Dimitrios,10:19,10.0,19.0,1.0,3.0,1.0,2.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,3.0,,,,,,,3.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+678,KAPOTSIS,Marios,21:41,21.0,41.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,1.0,,,1.0,,,1.0,,,,,,,1.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+679,FOUNTOULIS,Ioannis,25:05,25.0,5.0,4.0,4.0,2.0,2.0,,,,,1.0,1.0,,,,,,,1.0,1.0,3.0,1.0,,2.0,,,,,,,1.0,,,1.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+680,PAPANASTASIOU,Alexandros,21:10,21.0,10.0,,,,,,,,,,,,,,,,,,,,2.0,1.0,,1.0,2.0,,,,,,,,0.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+681,DERVISIS,Georgios,7:51,7.0,51.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,3.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+682,ARGYROPOULOS KANAKAKIS,Stylianos,19:08,19.0,8.0,2.0,4.0,0.0,1.0,1.0,1.0,,,1.0,2.0,,,,,,,,,,,1.0,,,,3.0,,,,,,,3.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+683,MOURIKIS,Konstantinos,13:46,13.0,46.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,2.0,,,,,,,,,,0.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+684,KOLOMVOS,Christodoulos,11:22,11.0,22.0,1.0,2.0,,,1.0,2.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+685,GKIOUVETSIS,Konstantinos,17:35,17.0,35.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,2.0,,,1.0,,,,1.0,,,2.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+686,VLACHOPOULOS,Angelos,25:36,25.0,36.0,1.0,3.0,0.0,1.0,,,,,,,0.0,1.0,,,1.0,1.0,,,,,3.0,,,,,,,,,,,0.0,GRE,USA,W,Player,27,ZWART,ALEXANDRESCU
+687,,,,,,14.0,27.0,4.0,10.0,2.0,4.0,,,4.0,8.0,0.0,1.0,,,2.0,2.0,2.0,2.0,6.0,7.0,7.0,7.0,1.0,4.0,10.0,1.0,1.0,,2.0,,,14.0,GRE,USA,W,Team,27,ZWART,ALEXANDRESCU
+688,HOOPER,Johnny,19:01,19.0,1.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,3.0,4.0,,,,,,,,0.0,USA,GRE,L,Player,27,ZWART,ALEXANDRESCU
+689,VAVIC,Marko,18:50,18.0,50.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,1.0,1.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+690,OBERT,Alex,15:24,15.0,24.0,2.0,3.0,,,2.0,2.0,,,0.0,1.0,,,,,,,,,2.0,1.0,,,,,,,,,1.0,,1.0,2.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+691,DAUBE,Hannes,18:55,18.0,55.0,0.0,5.0,0.0,2.0,,,,,0.0,1.0,0.0,1.0,,,,,0.0,1.0,,,1.0,1.0,,,,,,,,,,0.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+692,CUPIDO,Luca,24:52,24.0,52.0,0.0,2.0,,,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,1.0,,,,,,,1.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+693,HALLOCK,Ben,19:16,19.0,16.0,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,,0.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+694,WOODHEAD,Dylan,9:05,9.0,5.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+695,BOWEN,Alex,21:39,21.0,39.0,1.0,10.0,0.0,4.0,0.0,1.0,,,1.0,5.0,,,,,,,,,1.0,,1.0,1.0,,,,1.0,,,1.0,,,2.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+696,STEVENSON,Ben,11:40,11.0,40.0,1.0,2.0,,,,,,,1.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,0.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+697,SMITH,Jesse,9:10,9.0,10.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,1.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+698,IRVING,Max,24:08,24.0,8.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,0.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+699,HOLLAND,Drew,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,USA,GRE,L,Player,27,ALEXANDRESCU,ZWART
+700,,,,,,5.0,29.0,1.0,11.0,2.0,3.0,,,2.0,11.0,0.0,1.0,,,,,0.0,2.0,7.0,6.0,2.0,3.0,3.0,4.0,3.0,1.0,1.0,,2.0,,2.0,9.0,USA,GRE,L,Team,27,ALEXANDRESCU,ZWART
+701,MANDIC,Dusan,15:15,15.0,15.0,1.0,3.0,0.0,2.0,,,,,,,,,,,1.0,1.0,,,,2.0,1.0,,,,,1.0,,,,,1.0,2.0,SRB,MNE,W,Player,28,ALEXANDRESCU,ZWART
+702,DEDOVIC,Nikola,25:56,25.0,56.0,2.0,5.0,1.0,4.0,,,,,,,,,,,,,1.0,1.0,,,1.0,1.0,0.0,2.0,,,,,,,1.0,1.0,SRB,MNE,W,Player,28,SEVERO,OHME
+703,RANDELOVIC,Sava,10:11,10.0,11.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,2.0,,,1.0,,,2.0,,,,,,,2.0,SRB,MNE,W,Player,28,SEVERO,OHME
+704,LAZIC,Dorde,16:09,16.0,9.0,1.0,4.0,0.0,1.0,1.0,2.0,,,,,,,,,,,0.0,1.0,1.0,3.0,,1.0,,,,,,,1.0,,,1.0,SRB,MNE,W,Player,28,SEVERO,OHME
+705,PIJETLOVIC,Dusko,18:06,18.0,6.0,2.0,5.0,,,1.0,3.0,,,1.0,2.0,,,,,,,,,1.0,1.0,2.0,,,,,,,,,,,0.0,SRB,MNE,W,Player,28,SEVERO,OHME
+706,RASOVIC,Strahin a,21:15,21.0,15.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,1.0,2.0,2.0,,,,,,,,0.0,SRB,MNE,W,Player,28,SEVERO,OHME
+707,ALEKSIC,Milan,15:08,15.0,8.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,SRB,MNE,W,Player,28,SEVERO,OHME
+708,JAKSIC,Nikola,16:09,16.0,9.0,1.0,3.0,0.0,2.0,,,,,1.0,1.0,,,,,,,,,,2.0,,,,,2.0,,,,,,,2.0,SRB,MNE,W,Player,28,SEVERO,OHME
+709,FILIPOVIC,Filip,17:31,17.0,31.0,3.0,5.0,0.0,2.0,,,,,,,,,,,3.0,3.0,,,,,1.0,1.0,,,1.0,,,,,,,1.0,SRB,MNE,W,Player,28,SEVERO,OHME
+710,PRLAINOVIC,Andri a,18:54,18.0,54.0,1.0,5.0,0.0,2.0,,,,,0.0,1.0,0.0,1.0,,,1.0,1.0,,,,,,1.0,,,,1.0,,,,,1.0,2.0,SRB,MNE,W,Player,28,SEVERO,OHME
+711,MITROVIC,Stefan,17:26,17.0,26.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,0.0,SRB,MNE,W,Player,28,SEVERO,OHME
+712,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,MNE,W,Player,28,SEVERO,OHME
+713,,,,,,13.0,35.0,1.0,14.0,2.0,5.0,1.0,1.0,3.0,7.0,0.0,1.0,,,5.0,5.0,1.0,2.0,4.0,8.0,5.0,7.0,2.0,4.0,6.0,2.0,,,1.0,,3.0,12.0,SRB,MNE,W,Team,28,SEVERO,OHME
+714,KANDIC,Slaven,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,MNE,SRB,L,Player,28,SEVERO,OHME
+715,BRGULJAN,Drasko,16:05,16.0,5.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,,,,1.0,3.0,,,,,,,2.0,2.0,MNE,SRB,L,Player,28,OHME,SEVERO
+716,PERKOVIC,Miroslav,12:56,12.0,56.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,3.0,,1.0,,,,,,1.0,,,,1.0,2.0,MNE,SRB,L,Player,28,OHME,SEVERO
+717,PETKOVIC,Marko,23:13,23.0,13.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,SRB,L,Player,28,OHME,SEVERO
+718,CUCKOVIC,Uros,12:29,12.0,29.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,MNE,SRB,L,Player,28,OHME,SEVERO
+719,POPADIC,Vlado,21:31,21.0,31.0,0.0,1.0,,,,,,,,,,,,,,,0.0,1.0,1.0,2.0,1.0,1.0,,,,,,,,,1.0,1.0,MNE,SRB,L,Player,28,OHME,SEVERO
+720,VIDOVIC,Stefan,17:07,17.0,7.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,2.0,,,1.0,,,,,,1.0,2.0,MNE,SRB,L,Player,28,OHME,SEVERO
+721,UKROPINA,Aleksa,22:07,22.0,7.0,1.0,6.0,1.0,4.0,,,,,0.0,2.0,,,,,,,,,,,,1.0,1.0,1.0,1.0,,,,,,,1.0,MNE,SRB,L,Player,28,OHME,SEVERO
+722,IVOVIC,Aleksandar,24:58,24.0,58.0,3.0,6.0,1.0,2.0,,,,,0.0,2.0,,,,,2.0,2.0,,,,,1.0,1.0,,,,,,,,,,0.0,MNE,SRB,L,Player,28,OHME,SEVERO
+723,MATKOVIC,Dusan,25:47,25.0,47.0,2.0,5.0,0.0,3.0,,,,,1.0,1.0,,,,,1.0,1.0,,,,1.0,1.0,,,,1.0,,,1.0,,,,2.0,MNE,SRB,L,Player,28,OHME,SEVERO
+724,BANICEVIC,Dusan,15:47,15.0,47.0,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,,1.0,MNE,SRB,L,Player,28,OHME,SEVERO
+725,TESANOVIC,Petar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,SRB,L,Player,28,OHME,SEVERO
+726,,,,,,6.0,31.0,2.0,17.0,0.0,1.0,,,1.0,9.0,,,,,3.0,3.0,0.0,1.0,7.0,5.0,5.0,5.0,2.0,4.0,5.0,,1.0,1.0,,,5.0,12.0,MNE,SRB,L,Team,28,OHME,SEVERO
+727,MUNARRIZ EGANA,Alberto,23:05,23.0,5.0,1.0,7.0,1.0,7.0,,,,,,,,,,,,,,,,,2.0,1.0,,,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,OHME,SEVERO
+728,GRANADOS ORTEGA,Alvaro,20:25,20.0,25.0,2.0,7.0,1.0,4.0,,,,,0.0,1.0,,,,,1.0,2.0,,,,,2.0,,,,,,,,,,,0.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+729,SANAHUJA,Bernat,13:23,13.0,23.0,1.0,4.0,0.0,3.0,,,,,1.0,1.0,,,,,,,,,,,,,0.0,1.0,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+730,de TORO DOMINGUEZ,Miguel,12:52,12.0,52.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+731,LARUMBE GONFAUS,Marc,19:09,19.0,9.0,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+732,FAMERA,Martin,19:44,19.0,44.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,1.0,1.0,3.0,3.0,,1.0,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+733,FERNANDEZ MIRANDA,Francisco,17:27,17.0,27.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+734,TAHULL COMPTE,Roger,13:49,13.0,49.0,1.0,3.0,,,1.0,2.0,,,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,0.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+735,PERRONE ROCHA,Felipe,22:15,22.0,15.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,1.0,,1.0,,,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+736,MALLARACH GUELL,Blai,12:50,12.0,50.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+737,BUSTOS SANCHEZ,Ale andro,17:01,17.0,1.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,1.0,3.0,1.0,,,1.0,,,,,,,1.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+738,AGUIRRE,Unai,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,CRO,W,Player,29,KUN,STAVRIDIS
+739,,,,,,8.0,32.0,2.0,20.0,1.0,2.0,,,4.0,8.0,,,,,1.0,2.0,,,5.0,4.0,11.0,6.0,3.0,4.0,6.0,1.0,,,,,,7.0,ESP,CRO,W,Team,29,KUN,STAVRIDIS
+740,BIJAC,Marko,24:00,24.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,ESP,L,Player,29,KUN,STAVRIDIS
+741,MACAN,Marko,7:55,7.0,55.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,2.0,,,,,,1.0,3.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+742,FATOVIC,Loren,19:36,19.0,36.0,1.0,6.0,0.0,4.0,,,1.0,1.0,0.0,1.0,,,,,,,,,1.0,,1.0,,,,1.0,,,,,,,1.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+743,LONCAR,Luka,18:35,18.0,35.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+744,JOKOVIC,Maro,25:04,25.0,4.0,0.0,3.0,0.0,2.0,,,,,,,0.0,1.0,,,,,,,,,2.0,1.0,,,1.0,,,,,,,1.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+745,BUKIC,Luka,26:51,26.0,51.0,2.0,6.0,1.0,4.0,,,,,1.0,2.0,,,,,,,,,,2.0,,,1.0,2.0,,,,,,,,0.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+746,VUKICEVIC,Ante,24:11,24.0,11.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,,2.0,1.0,,,,,,,,,,0.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+747,BUSLJE,Andro,14:55,14.0,55.0,0.0,4.0,0.0,3.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,,1.0,,,1.0,,,2.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+748,MILOS,Lovre,21:04,21.0,4.0,,,,,,,,,,,,,,,,,,,,1.0,,,0.0,2.0,,,,,,,1.0,1.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+749,VRLIC,Josip,14:36,14.0,36.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,1.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+750,GARCIA GADEA,Javier,19:13,19.0,13.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,,1.0,,,,,,1.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+751,MARCELIC,Ivan,8:00,8.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,ESP,L,Player,29,STAVRIDIS,KUN
+752,,,,,,4.0,28.0,1.0,17.0,0.0,1.0,1.0,1.0,2.0,8.0,0.0,1.0,,,,,,,2.0,5.0,6.0,5.0,1.0,4.0,5.0,2.0,,,1.0,,2.0,10.0,CRO,ESP,L,Team,29,STAVRIDIS,KUN
+753,CAMPBELL,Richard,23:11,23.0,11.0,2.0,5.0,0.0,1.0,,,,,2.0,4.0,,,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,AUS,KAZ,W,Player,30,STAVRIDIS,KUN
+754,FORD,George,12:10,12.0,10.0,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,1.0,,,1.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+755,TOMASEVIC,Goran,12:53,12.0,53.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,2.0,1.0,,,,,2.0,,,,,,,2.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+756,POWER,Nathan,10:41,10.0,41.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,1.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+757,EDWARDS,Lachlan Robert,19:52,19.0,52.0,1.0,3.0,,,1.0,3.0,,,,,,,,,,,,,2.0,,1.0,,,,1.0,,,,,,,1.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+758,ROACH,Aidan,11:04,11.0,4.0,,,,,,,,,,,,,,,,,,,1.0,1.0,2.0,,,,,2.0,,,,,,2.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+759,YOUNGER,Aaron,20:43,20.0,43.0,2.0,5.0,1.0,3.0,,,,,1.0,1.0,,,,,,,0.0,1.0,,2.0,1.0,,,,1.0,,,,,,,1.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+760,FORD,Andrew,19:37,19.0,37.0,1.0,4.0,1.0,3.0,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+761,PUTT,Timothy Francis,14:49,14.0,49.0,1.0,2.0,1.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,0.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+762,HOWDEN,Rhys,19:02,19.0,2.0,5.0,7.0,1.0,2.0,,,1.0,1.0,3.0,4.0,,,,,,,,,,1.0,1.0,,4.0,4.0,,,,,,,,0.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+763,EDWARDS,Blake,27:58,27.0,58.0,3.0,4.0,1.0,2.0,,,,,,,,,,,,,2.0,2.0,,2.0,,,,,1.0,,,,,,,1.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+764,DENNERLEY,Joel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,AUS,KAZ,W,Player,30,GOLDENBERG,MOLLER
+765,,,,,,15.0,33.0,5.0,12.0,1.0,5.0,1.0,1.0,6.0,12.0,,,,,,,2.0,3.0,5.0,8.0,8.0,,4.0,4.0,9.0,3.0,,,1.0,,,13.0,AUS,KAZ,W,Team,30,GOLDENBERG,MOLLER
+766,MAKHMETOV,Madikhan,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,AUS,L,Player,30,GOLDENBERG,MOLLER
+767,MEDVEDEV,Yevgeniy,22:20,22.0,20.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,1.0,1.0,,,2.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+768,AUBAKIROV,Miras,22:13,22.0,13.0,,,,,,,,,,,,,,,,,,,1.0,,2.0,,0.0,1.0,,1.0,,,,,,1.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+769,MARKOVIC,Dusan,20:12,20.0,12.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,3.0,,,1.0,,,,,,,1.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+770,SHMIDER,Alexey,21:17,21.0,17.0,1.0,4.0,0.0,2.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+771,ARTYUKH,Danil,5:24,5.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+772,SHAKENOV,Murat,24:48,24.0,48.0,2.0,5.0,2.0,5.0,,,,,,,,,,,,,,,,1.0,,1.0,,,,1.0,,,1.0,,,2.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+773,VUKSANOVIC,Srdan,2:10,2.0,10.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,0.0,1.0,,,,,,,,0.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+774,UKUMANOV,Rustam,21:31,21.0,31.0,2.0,4.0,,,1.0,1.0,,,1.0,3.0,,,,,,,,,,,,1.0,,,,1.0,,,,,,1.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+775,RUDAY,Mikhail,16:29,16.0,29.0,1.0,3.0,1.0,1.0,0.0,2.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+776,ALTAYEV,Altay,15:12,15.0,12.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+777,SHVEDOV,Stanislav,20:24,20.0,24.0,1.0,3.0,1.0,1.0,,,,,0.0,2.0,,,,,,,,,,,,,0.0,2.0,,,,,,,,0.0,KAZ,AUS,L,Player,30,MOLLER,GOLDENBERG
+778,,,,,,7.0,27.0,4.0,12.0,1.0,4.0,,,2.0,11.0,,,,,,,,,3.0,3.0,5.0,6.0,0.0,4.0,6.0,3.0,,1.0,2.0,,,12.0,KAZ,AUS,L,Team,30,MOLLER,GOLDENBERG
+779,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,GRE,MNE,W,Player,31,MOLLER,GOLDENBERG
+780,GENIDOUNIAS,Konstantinos,25:08,25.0,8.0,5.0,10.0,3.0,7.0,,,,,0.0,1.0,,,,,2.0,2.0,,,,1.0,,,0.0,1.0,,,,,,,,0.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+781,SKOUMPAKIS,Dimitrios,6:18,6.0,18.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,1.0,,,,,,3.0,,,,,,,3.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+782,KAPOTSIS,Marios,17:22,17.0,22.0,1.0,3.0,1.0,2.0,,,,,,,,,,,,,0.0,1.0,,,1.0,1.0,,,2.0,,,,,,,2.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+783,FOUNTOULIS,Ioannis,25:23,25.0,23.0,1.0,6.0,1.0,6.0,,,,,,,,,,,,,,,,,2.0,1.0,,,,,,,,,,0.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+784,PAPANASTASIOU,Alexandros,21:09,21.0,9.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,2.0,3.0,1.0,,,,,,,1.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+785,DERVISIS,Georgios,19:35,19.0,35.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,3.0,,,1.0,,,,,,,1.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+786,ARGYROPOULOS KANAKAKIS,Stylianos,22:33,22.0,33.0,1.0,3.0,1.0,1.0,,,,,0.0,2.0,,,,,,,,,1.0,,2.0,,,,1.0,,,,,,,1.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+787,MOURIKIS,Konstantinos,11:18,11.0,18.0,0.0,2.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+788,KOLOMVOS,Christodoulos,8:33,8.0,33.0,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,0.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+789,GKIOUVETSIS,Konstantinos,9:59,9.0,59.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+790,VLACHOPOULOS,Angelos,24:42,24.0,42.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,2.0,,,,,1.0,,,,1.0,,,2.0,GRE,MNE,W,Player,31,SEVERO,ALEXANDRESCU
+791,,,,,,10.0,32.0,6.0,21.0,0.0,1.0,,,2.0,7.0,,,,,2.0,2.0,0.0,1.0,5.0,6.0,7.0,5.0,2.0,4.0,10.0,,,,1.0,,,11.0,GRE,MNE,W,Team,31,SEVERO,ALEXANDRESCU
+792,KANDIC,Slaven,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,MNE,GRE,L,Player,31,SEVERO,ALEXANDRESCU
+793,BRGULJAN,Drasko,12:05,12.0,5.0,1.0,3.0,1.0,3.0,,,,,,,,,,,,,,,,1.0,2.0,,2.0,3.0,,,,,,,1.0,1.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+794,PERKOVIC,Miroslav,13:34,13.0,34.0,0.0,3.0,,,0.0,2.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+795,PETKOVIC,Marko,12:16,12.0,16.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,1.0,3.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+796,CUCKOVIC,Uros,13:58,13.0,58.0,1.0,3.0,,,1.0,1.0,,,0.0,2.0,,,,,,,,,,,,1.0,,,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+797,POPADIC,Vlado,23:51,23.0,51.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,0.0,1.0,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+798,VIDOVIC,Stefan,12:53,12.0,53.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+799,UKROPINA,Aleksa,26:50,26.0,50.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,,2.0,1.0,,,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+800,IVOVIC,Aleksandar,30:23,30.0,23.0,2.0,4.0,1.0,1.0,,,,,0.0,2.0,,,,,,,1.0,1.0,1.0,,1.0,1.0,,,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+801,SPAIC,Vladan,8:40,8.0,40.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,0.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+802,MATKOVIC,Dusan,26:47,26.0,47.0,0.0,6.0,0.0,5.0,,,,,0.0,1.0,,,,,,,,,,,1.0,,,,,,,,1.0,,,1.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+803,BANICEVIC,Dusan,10:43,10.0,43.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,MNE,GRE,L,Player,31,ALEXANDRESCU,SEVERO
+804,,,,,,4.0,26.0,2.0,13.0,1.0,4.0,,,0.0,8.0,,,,,,,1.0,1.0,5.0,4.0,6.0,4.0,2.0,4.0,5.0,,,,1.0,,2.0,8.0,MNE,GRE,L,Team,31,ALEXANDRESCU,SEVERO
+805,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,SRB,L,Player,32,ALEXANDRESCU,SEVERO
+806,Di FULVIO,Francesco,25:29,25.0,29.0,1.0,5.0,1.0,2.0,,,,,0.0,2.0,,,,,,,0.0,1.0,,2.0,,,1.0,2.0,,1.0,,,,,,1.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+807,LUONGO,Stefano,26:29,26.0,29.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,0.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+808,FIGLIOLI,Pietro,20:46,20.0,46.0,0.0,9.0,0.0,6.0,,,,,0.0,3.0,,,,,,,,,,,2.0,,1.0,1.0,,,,,,,,0.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+809,PRESCIUTTI,Nicholas,15:06,15.0,6.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+810,VELOTTO,Alessandro,22:49,22.0,49.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,0.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+811,RENZUTO IODICE,Vincenzo,8:14,8.0,14.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,2.0,,,,,,1.0,3.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+812,ECHENIQUE,Gonzalo,28:08,28.0,8.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+813,FIGARI,Niccolo,3:46,3.0,46.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+814,BODEGAS,Michael Alexandre,18:18,18.0,18.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,2.0,,,,,,2.0,,,,,,,2.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+815,AICARDI,Matteo,13:42,13.0,42.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,2.0,,,,,,,,,,,,,0.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+816,DOLCE,Vincenzo,9:13,9.0,13.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,ITA,SRB,L,Player,32,STAVRIDIS,VOEVODIN
+817,,,,,,6.0,33.0,1.0,16.0,,,,,5.0,16.0,,,,,,,0.0,1.0,5.0,4.0,4.0,,3.0,4.0,9.0,1.0,,,,,1.0,11.0,ITA,SRB,L,Team,32,STAVRIDIS,VOEVODIN
+818,MANDIC,Dusan,19:49,19.0,49.0,2.0,5.0,1.0,2.0,,,,,1.0,2.0,,,,,,,0.0,1.0,,,,2.0,,,1.0,,,,,,,1.0,SRB,ITA,W,Player,32,STAVRIDIS,VOEVODIN
+819,DEDOVIC,Nikola,19:30,19.0,30.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,2.0,,0.0,2.0,1.0,1.0,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+820,RANDELOVIC,Sava,5:38,5.0,38.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,2.0,,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+821,LAZIC,Dorde,16:10,16.0,10.0,,,,,,,,,,,,,,,,,,,2.0,,,2.0,,,,,,1.0,,,,1.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+822,PIJETLOVIC,Dusko,15:50,15.0,50.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+823,RASOVIC,Strahin a,24:14,24.0,14.0,2.0,5.0,1.0,1.0,0.0,1.0,1.0,2.0,,,,,,,,,0.0,1.0,2.0,1.0,3.0,,1.0,2.0,,,,,,,,0.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+824,ALEKSIC,Milan,10:00,10.0,0.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,,1.0,,,2.0,,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+825,JAKSIC,Nikola,17:06,17.0,6.0,0.0,2.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,1.0,,1.0,,,,1.0,1.0,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+826,FILIPOVIC,Filip,23:36,23.0,36.0,3.0,4.0,3.0,3.0,,,,,,,,,,,0.0,1.0,,,,,2.0,2.0,,,1.0,,,,,,,1.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+827,PRLAINOVIC,Andri a,27:26,27.0,26.0,2.0,6.0,1.0,2.0,,,0.0,1.0,1.0,2.0,0.0,1.0,,,,,,,,2.0,1.0,,,,,2.0,,,,,,2.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+828,MITROVIC,Stefan,12:41,12.0,41.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,,,1.0,,,,2.0,,,3.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+829,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,ITA,W,Player,32,VOEVODIN,STAVRIDIS
+830,,,,,,10.0,30.0,6.0,12.0,0.0,3.0,1.0,3.0,3.0,7.0,0.0,2.0,,,0.0,1.0,0.0,2.0,6.0,4.0,10.0,7.0,1.0,4.0,11.0,4.0,,1.0,2.0,,,18.0,SRB,ITA,W,Team,32,VOEVODIN,STAVRIDIS
+831,NAGY,Viktor,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,CRO,W,Player,33,VOEVODIN,STAVRIDIS
+832,ANGYAL,Daniel,9:33,9.0,33.0,1.0,2.0,0.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,2.0,,,,1.0,,,3.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+833,MANHERCZ,Krisztian,28:09,28.0,9.0,7.0,8.0,,,1.0,1.0,,,5.0,5.0,1.0,1.0,,,,,0.0,1.0,,2.0,,1.0,0.0,1.0,,,,,,,,0.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+834,ZALANKI,Gergo,26:19,26.0,19.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,3.0,,,,,1.0,,,,,,1.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+835,VAMOS,Marton,19:06,19.0,6.0,2.0,6.0,1.0,2.0,,,,,1.0,4.0,,,,,,,,,,,3.0,1.0,,,1.0,1.0,,,,,,2.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+836,HOSNYANSZKY,Norbert,4:47,4.0,47.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+837,PASZTOR,Matyas,8:03,8.0,3.0,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,1.0,1.0,,,,,,2.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+838,JANSIK,Szilard,14:29,14.0,29.0,1.0,3.0,,,,,,,0.0,1.0,,,,,1.0,1.0,0.0,1.0,1.0,,2.0,2.0,,,2.0,,,,,,,2.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+839,ERDELYI,Balazs,24:38,24.0,38.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,,1.0,,1.0,3.0,2.0,,,,1.0,,,3.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+840,VARGA,Denes,27:48,27.0,48.0,2.0,7.0,2.0,6.0,,,,,0.0,1.0,,,,,,,,,1.0,,,2.0,,,1.0,,,,,,,1.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+841,MEZEI,Tamas,13:40,13.0,40.0,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,,0.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+842,HARAI,Balazs,15:28,15.0,28.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,1.0,1.0,,1.0,,,,,,,,,,0.0,HUN,CRO,W,Player,33,DERVIEUX,OHME
+843,,,,,,15.0,30.0,4.0,10.0,2.0,3.0,,,7.0,13.0,1.0,1.0,,,1.0,1.0,0.0,2.0,9.0,4.0,10.0,7.0,1.0,4.0,12.0,3.0,,,2.0,,,17.0,HUN,CRO,W,Team,33,DERVIEUX,OHME
+844,BIJAC,Marko,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,CRO,HUN,L,Player,33,DERVIEUX,OHME
+845,MACAN,Marko,4:58,4.0,58.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+846,FATOVIC,Loren,22:30,22.0,30.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+847,LONCAR,Luka,14:32,14.0,32.0,1.0,5.0,0.0,1.0,0.0,1.0,,,1.0,3.0,,,,,,,,,3.0,,,,,,,1.0,,,,,,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+848,JOKOVIC,Maro,27:52,27.0,52.0,1.0,3.0,0.0,1.0,,,1.0,1.0,0.0,1.0,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+849,BUKIC,Luka,24:44,24.0,44.0,4.0,5.0,0.0,1.0,,,,,4.0,4.0,,,,,,,,,3.0,1.0,1.0,1.0,3.0,3.0,1.0,,,,,,,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+850,VUKICEVIC,Ante,16:52,16.0,52.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+851,BUSLJE,Andro,21:50,21.0,50.0,0.0,5.0,0.0,3.0,,,,,0.0,2.0,,,,,,,,,,2.0,,,,,1.0,,,,1.0,,,2.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+852,MILOS,Lovre,13:19,13.0,19.0,1.0,2.0,1.0,2.0,,,,,,,,,,,,,,,,,,,0.0,1.0,,1.0,,,,,,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+853,VRLIC,Josip,16:31,16.0,31.0,0.0,4.0,0.0,1.0,,,,,0.0,3.0,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+854,OBRADOVIC,Paulo,16:42,16.0,42.0,2.0,5.0,0.0,2.0,,,,,2.0,2.0,0.0,1.0,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+855,GARCIA GADEA,Javier,12:10,12.0,10.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,2.0,CRO,HUN,L,Player,33,OHME,DERVIEUX
+856,,,,,,11.0,34.0,1.0,13.0,0.0,1.0,1.0,1.0,9.0,18.0,0.0,1.0,,,,,,,8.0,5.0,3.0,1.0,3.0,4.0,8.0,3.0,,,1.0,,1.0,13.0,CRO,HUN,L,Team,33,OHME,DERVIEUX
+857,WOLF,Alex,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,USA,ESP,L,Player,34,OHME,DERVIEUX
+858,HOOPER,Johnny,22:52,22.0,52.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,1.0,,2.0,,3.0,4.0,1.0,,,,,,1.0,2.0,USA,ESP,L,Player,34,KUN,ZWART
+859,VAVIC,Marko,15:29,15.0,29.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,USA,ESP,L,Player,34,KUN,ZWART
+860,OBERT,Alex,17:37,17.0,37.0,2.0,6.0,,,1.0,2.0,,,1.0,4.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,USA,ESP,L,Player,34,KUN,ZWART
+861,DAUBE,Hannes,24:51,24.0,51.0,3.0,8.0,1.0,3.0,,,,,2.0,5.0,,,,,,,,,,,1.0,1.0,,,1.0,,,,,,,1.0,USA,ESP,L,Player,34,KUN,ZWART
+862,CUPIDO,Luca,24:34,24.0,34.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,1.0,2.0,1.0,,,1.0,,,,,,1.0,2.0,USA,ESP,L,Player,34,KUN,ZWART
+863,HALLOCK,Ben,16:32,16.0,32.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,2.0,,,1.0,,,,3.0,USA,ESP,L,Player,34,KUN,ZWART
+864,WOODHEAD,Dylan,12:26,12.0,26.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,1.0,1.0,,,2.0,,,,,,,2.0,USA,ESP,L,Player,34,KUN,ZWART
+865,BOWEN,Alex,25:02,25.0,2.0,1.0,5.0,1.0,2.0,,,,,0.0,2.0,0.0,1.0,,,,,,,,1.0,1.0,,,,,,,,,,,0.0,USA,ESP,L,Player,34,KUN,ZWART
+866,STEVENSON,Ben,7:24,7.0,24.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,0.0,USA,ESP,L,Player,34,KUN,ZWART
+867,SMITH,Jesse,3:00,3.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,2.0,USA,ESP,L,Player,34,KUN,ZWART
+868,IRVING,Max,22:13,22.0,13.0,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,1.0,,,,,,1.0,USA,ESP,L,Player,34,KUN,ZWART
+869,,,,,,8.0,27.0,2.0,9.0,1.0,2.0,,,5.0,15.0,0.0,1.0,,,,,,,5.0,5.0,10.0,3.0,3.0,4.0,8.0,1.0,,1.0,1.0,,2.0,13.0,USA,ESP,L,Team,34,KUN,ZWART
+870,LOPEZ PINEDO,Daniel,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ESP,USA,W,Player,34,KUN,ZWART
+871,MUNARRIZ EGANA,Alberto,28:41,28.0,41.0,2.0,4.0,0.0,2.0,,,,,,,,,,,2.0,2.0,,,,2.0,1.0,,,,2.0,,,,,,,2.0,ESP,USA,W,Player,34,ZWART,KUN
+872,GRANADOS ORTEGA,Alvaro,25:20,25.0,20.0,2.0,8.0,1.0,3.0,,,,,0.0,3.0,1.0,1.0,,,,,0.0,1.0,1.0,1.0,1.0,,0.0,1.0,,1.0,,,,,,1.0,ESP,USA,W,Player,34,ZWART,KUN
+873,SANAHUJA,Bernat,13:32,13.0,32.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,3.0,,,0.0,1.0,1.0,,,,,,,1.0,ESP,USA,W,Player,34,ZWART,KUN
+874,de TORO DOMINGUEZ,Miguel,14:07,14.0,7.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,1.0,,,,,,,,,,0.0,ESP,USA,W,Player,34,ZWART,KUN
+875,LARUMBE GONFAUS,Marc,20:04,20.0,4.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,1.0,,,,,,2.0,ESP,USA,W,Player,34,ZWART,KUN
+876,FAMERA,Martin,9:44,9.0,44.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,,1.0,2.0,3.0,,,,,,,3.0,ESP,USA,W,Player,34,ZWART,KUN
+877,FERNANDEZ MIRANDA,Francisco,15:46,15.0,46.0,2.0,3.0,1.0,2.0,,,,,,,,,,,,,1.0,1.0,,,1.0,1.0,,,,,,1.0,,,,1.0,ESP,USA,W,Player,34,ZWART,KUN
+878,TAHULL COMPTE,Roger,14:09,14.0,9.0,1.0,3.0,,,1.0,2.0,,,0.0,1.0,,,,,,,,,,,,1.0,,,,,,,,,,0.0,ESP,USA,W,Player,34,ZWART,KUN
+879,PERRONE ROCHA,Felipe,25:48,25.0,48.0,1.0,3.0,0.0,1.0,,,,,1.0,1.0,,,,,,,0.0,1.0,,1.0,1.0,,,,2.0,,,,,,,2.0,ESP,USA,W,Player,34,ZWART,KUN
+880,MALLARACH GUELL,Blai,15:21,15.0,21.0,1.0,3.0,1.0,1.0,,,,,0.0,2.0,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,0.0,ESP,USA,W,Player,34,ZWART,KUN
+881,BUSTOS SANCHEZ,Ale andro,9:28,9.0,28.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,1.0,,,,,,3.0,ESP,USA,W,Player,34,ZWART,KUN
+882,,,,,,12.0,29.0,4.0,12.0,1.0,2.0,,,3.0,9.0,1.0,1.0,,,2.0,2.0,1.0,3.0,2.0,9.0,5.0,4.0,1.0,4.0,11.0,3.0,,1.0,,,,15.0,ESP,USA,W,Team,34,ZWART,KUN
+883,BRGULJAN,Drasko,22:15,22.0,15.0,1.0,6.0,0.0,3.0,,,,,1.0,3.0,,,,,,,,,,1.0,2.0,2.0,0.0,2.0,,,,,,,,0.0,MNE,CRO,L,Player,35,ZWART,KUN
+884,PERKOVIC,Miroslav,9:45,9.0,45.0,2.0,3.0,,,2.0,3.0,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+885,PETKOVIC,Marko,25:06,25.0,6.0,0.0,7.0,0.0,5.0,,,,,0.0,1.0,0.0,1.0,,,,,,,,2.0,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+886,CUCKOVIC,Uros,6:25,6.0,25.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,2.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+887,POPADIC,Vlado,21:57,21.0,57.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,1.0,2.0,,,1.0,2.0,1.0,,,,1.0,,,2.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+888,VIDOVIC,Stefan,16:31,16.0,31.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,1.0,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+889,UKROPINA,Aleksa,20:52,20.0,52.0,1.0,5.0,0.0,2.0,0.0,1.0,,,1.0,1.0,,,,,,,0.0,1.0,,2.0,3.0,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+890,IVOVIC,Aleksandar,30:49,30.0,49.0,3.0,4.0,2.0,2.0,,,,,,,0.0,1.0,,,,,1.0,1.0,,,1.0,,,,,,,,,,,0.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+891,SPAIC,Vladan,9:29,9.0,29.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,2.0,,,,,,,,,,,,,0.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+892,MATKOVIC,Dusan,23:29,23.0,29.0,2.0,4.0,0.0,1.0,,,,,0.0,1.0,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,0.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+893,BANICEVIC,Dusan,5:22,5.0,22.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+894,TESANOVIC,Petar,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,MNE,CRO,L,Player,35,KUN,SALNICHENKO
+895,,,,,,10.0,36.0,2.0,14.0,2.0,6.0,,,3.0,10.0,0.0,2.0,,,1.0,1.0,2.0,3.0,4.0,10.0,6.0,2.0,1.0,4.0,8.0,,,,1.0,,,9.0,MNE,CRO,L,Team,35,KUN,SALNICHENKO
+896,MACAN,Marko,10:52,10.0,52.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,CRO,MNE,W,Player,35,KUN,SALNICHENKO
+897,FATOVIC,Loren,17:38,17.0,38.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,,1.0,1.0,,,,,1.0,,,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+898,LONCAR,Luka,17:43,17.0,43.0,2.0,2.0,,,1.0,1.0,,,1.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+899,JOKOVIC,Maro,24:53,24.0,53.0,1.0,2.0,0.0,1.0,,,1.0,1.0,,,,,,,,,,,,,,3.0,,,,,,,,,1.0,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+900,BUKIC,Luka,26:30,26.0,30.0,0.0,4.0,,,,,,,0.0,4.0,,,,,,,,,,,1.0,,1.0,1.0,1.0,,,,,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+901,VUKICEVIC,Ante,21:06,21.0,6.0,3.0,7.0,2.0,5.0,,,,,0.0,1.0,,,,,,,1.0,1.0,,1.0,1.0,,,,1.0,,,,,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+902,BUSLJE,Andro,15:20,15.0,20.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,2.0,,,,,,,2.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+903,MILOS,Lovre,22:05,22.0,5.0,1.0,4.0,1.0,3.0,,,,,,,,,,,,,0.0,1.0,,,1.0,,2.0,3.0,,,,,,,,0.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+904,VRLIC,Josip,14:17,14.0,17.0,2.0,2.0,,,2.0,2.0,,,,,,,,,,,,,,1.0,,1.0,,,,1.0,,,,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+905,OBRADOVIC,Paulo,8:06,8.0,6.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,1.0,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+906,GARCIA GADEA,Javier,13:30,13.0,30.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,,1.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+907,MARCELIC,Ivan,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,CRO,MNE,W,Player,35,SALNICHENKO,KUN
+908,,,,,,12.0,24.0,4.0,10.0,3.0,3.0,1.0,1.0,3.0,8.0,,,,,,,1.0,2.0,4.0,3.0,6.0,5.0,3.0,4.0,7.0,2.0,1.0,,1.0,,1.0,12.0,CRO,MNE,W,Team,35,SALNICHENKO,KUN
+909,Del LUNGO,Marco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,USA,L,Player,36,SALNICHENKO,KUN
+910,Di FULVIO,Francesco,22:55,22.0,55.0,0.0,3.0,0.0,1.0,,,,,0.0,1.0,,,,,0.0,1.0,,,1.0,,,,0.0,2.0,,2.0,,,,,,2.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+911,LUONGO,Stefano,14:12,14.0,12.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,1.0,,1.0,1.0,,,,,,,,,,0.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+912,FIGLIOLI,Pietro,20:37,20.0,37.0,2.0,7.0,1.0,3.0,,,,,1.0,3.0,,,,,,,0.0,1.0,,,,,2.0,2.0,,,,,,,,0.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+913,PRESCIUTTI,Nicholas,22:49,22.0,49.0,1.0,2.0,,,,,,,1.0,1.0,0.0,1.0,,,,,,,,,2.0,1.0,,,2.0,,,,,,,2.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+914,VELOTTO,Alessandro,20:05,20.0,5.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+915,RENZUTO IODICE,Vincenzo,25:06,25.0,6.0,2.0,4.0,1.0,2.0,,,,,1.0,2.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,1.0,,1.0,2.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+916,ECHENIQUE,Gonzalo,16:48,16.0,48.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+917,FIGARI,Niccolo,10:18,10.0,18.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,1.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+918,BODEGAS,Michael Alexandre,12:37,12.0,37.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,3.0,1.0,,,,,,,,,1.0,,,1.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+919,AICARDI,Matteo,19:23,19.0,23.0,,,,,,,,,,,,,,,,,,,1.0,1.0,,1.0,,,,,,,,,,0.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+920,DOLCE,Vincenzo,7:10,7.0,10.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,1.0,,,,,,2.0,ITA,USA,L,Player,36,BUCH JUANOLA,DERVIEUX
+921,,,,,,6.0,24.0,2.0,10.0,1.0,1.0,,,3.0,10.0,0.0,1.0,,,0.0,1.0,0.0,1.0,7.0,4.0,5.0,4.0,2.0,4.0,3.0,3.0,,1.0,2.0,,1.0,10.0,ITA,USA,L,Team,36,BUCH JUANOLA,DERVIEUX
+922,HOOPER,Johnny,17:37,17.0,37.0,2.0,4.0,0.0,2.0,,,,,1.0,1.0,,,,,,,1.0,1.0,1.0,,,,2.0,4.0,,,,,,,1.0,1.0,USA,ITA,W,Player,36,BUCH JUANOLA,DERVIEUX
+923,VAVIC,Marko,16:21,16.0,21.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,2.0,1.0,,,,,,,1.0,,,1.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+924,OBERT,Alex,14:49,14.0,49.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,,,,1.0,,,2.0,,,,,,,2.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+925,DAUBE,Hannes,24:56,24.0,56.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,1.0,1.0,,,,1.0,,,1.0,,,2.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+926,CUPIDO,Luca,28:35,28.0,35.0,0.0,6.0,0.0,2.0,,,,,0.0,2.0,0.0,1.0,,,,,0.0,1.0,2.0,2.0,,,,,2.0,,,,,,,2.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+927,HALLOCK,Ben,20:43,20.0,43.0,0.0,2.0,,,0.0,1.0,,,0.0,1.0,,,,,,,,,3.0,1.0,,,,,,,,,,,,0.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+928,WOODHEAD,Dylan,9:47,9.0,47.0,1.0,2.0,,,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,2.0,1.0,,,,,,3.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+929,BOWEN,Alex,17:54,17.0,54.0,3.0,5.0,1.0,2.0,,,,,1.0,2.0,,,,,1.0,1.0,,,,1.0,,,,,1.0,1.0,,,1.0,,,3.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+930,STEVENSON,Ben,12:31,12.0,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+931,SMITH,Jesse,9:37,9.0,37.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+932,IRVING,Max,19:10,19.0,10.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,2.0,2.0,,,1.0,,,,2.0,,,3.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+933,HOLLAND,Drew,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,USA,ITA,W,Player,36,DERVIEUX,BUCH JUANOLA
+934,,,,,,7.0,27.0,1.0,10.0,1.0,2.0,,,3.0,11.0,0.0,1.0,,,1.0,1.0,1.0,2.0,8.0,8.0,6.0,5.0,2.0,4.0,9.0,3.0,,,5.0,,1.0,18.0,USA,ITA,W,Team,36,DERVIEUX,BUCH JUANOLA
+935,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,HUN,W,Player,37,DERVIEUX,BUCH JUANOLA
+936,GENIDOUNIAS,Konstantinos,30:37,30.0,37.0,0.0,6.0,0.0,4.0,,,,,0.0,2.0,,,,,,,,,,,,2.0,0.0,1.0,1.0,,,1.0,,,,2.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+937,SKOUMPAKIS,Dimitrios,9:57,9.0,57.0,1.0,2.0,1.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,3.0,,,,,1.0,,4.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+938,KAPOTSIS,Marios,18:14,18.0,14.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,1.0,,,1.0,1.0,,,,,,2.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+939,FOUNTOULIS,Ioannis,25:46,25.0,46.0,1.0,7.0,1.0,4.0,,,,,0.0,3.0,,,,,,,,,,,4.0,1.0,,,1.0,1.0,,,,,,2.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+940,PAPANASTASIOU,Alexandros,15:24,15.0,24.0,,,,,,,,,,,,,,,,,,,,,,,2.0,3.0,2.0,1.0,,,,1.0,,4.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+941,DERVISIS,Georgios,8:18,8.0,18.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+942,ARGYROPOULOS KANAKAKIS,Stylianos,12:29,12.0,29.0,4.0,6.0,0.0,1.0,,,,,4.0,5.0,,,,,,,,,,,,,,,2.0,,,,,,,2.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+943,MOURIKIS,Konstantinos,12:28,12.0,28.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,2.0,,,,,,,,,,,,,0.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+944,KOLOMVOS,Christodoulos,15:09,15.0,9.0,,,,,,,,,,,,,,,,,,,,,1.0,2.0,,,2.0,,,,,,,2.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+945,GKIOUVETSIS,Konstantinos,11:38,11.0,38.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,,2.0,1.0,,,,,,,,,,,0.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+946,VLACHOPOULOS,Angelos,32:00,32.0,0.0,1.0,3.0,0.0,2.0,,,,,1.0,1.0,,,,,,,,,,1.0,,2.0,,,,,,,,,,0.0,GRE,HUN,W,Player,37,GOLDENBERG,VOEVODIN
+947,,,,,,9.0,29.0,2.0,14.0,0.0,1.0,,,7.0,14.0,,,,,,,,,6.0,3.0,6.0,8.0,2.0,4.0,15.0,3.0,,1.0,,2.0,,21.0,GRE,HUN,W,Team,37,GOLDENBERG,VOEVODIN
+948,NAGY,Viktor,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,HUN,GRE,L,Player,37,GOLDENBERG,VOEVODIN
+949,ANGYAL,Daniel,17:14,17.0,14.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,1.0,,,,,,1.0,,,,1.0,,,2.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+950,MANHERCZ,Krisztian,28:36,28.0,36.0,2.0,5.0,0.0,1.0,,,,,2.0,3.0,0.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,0.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+951,ZALANKI,Gergo,27:01,27.0,1.0,1.0,7.0,1.0,4.0,,,,,0.0,3.0,,,,,,,,,,1.0,2.0,,1.0,1.0,,,,,,,,0.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+952,VAMOS,Marton,17:17,17.0,17.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,,,,1.0,,,1.0,1.0,,3.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+953,HOSNYANSZKY,Norbert,5:19,5.0,19.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,3.0,,,,,,,3.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+954,PASZTOR,Matyas,10:38,10.0,38.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+955,JANSIK,Szilard,7:48,7.0,48.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,,1.0,,,3.0,,,,,,,3.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+956,ERDELYI,Balazs,21:41,21.0,41.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,2.0,3.0,0.0,2.0,1.0,,,,,,,1.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+957,VARGA,Denes,29:14,29.0,14.0,1.0,4.0,1.0,2.0,,,,,0.0,2.0,,,,,,,,,,,2.0,,,,,,,,1.0,,,1.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+958,MEZEI,Tamas,12:53,12.0,53.0,,,,,,,,,,,,,,,,,,,2.0,,1.0,,,,,,1.0,,,,,1.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+959,HARAI,Balazs,14:19,14.0,19.0,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,1.0,,2.0,HUN,GRE,L,Player,37,VOEVODIN,GOLDENBERG
+960,,,,,,6.0,27.0,2.0,13.0,,,,,4.0,13.0,0.0,1.0,,,,,,,4.0,2.0,9.0,6.0,2.0,4.0,10.0,1.0,1.0,,3.0,2.0,,17.0,HUN,GRE,L,Team,37,VOEVODIN,GOLDENBERG
+961,MANDIC,Dusan,17:35,17.0,35.0,3.0,3.0,,,,,,,3.0,3.0,,,,,,,,,1.0,,1.0,1.0,,,1.0,1.0,,,,,,2.0,SRB,ESP,W,Player,38,VOEVODIN,GOLDENBERG
+962,DEDOVIC,Nikola,24:06,24.0,6.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,,0.0,1.0,2.0,,,,,,,2.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+963,RANDELOVIC,Sava,3:46,3.0,46.0,,,,,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+964,LAZIC,Dorde,13:55,13.0,55.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+965,PIJETLOVIC,Dusko,11:48,11.0,48.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,1.0,,,3.0,,,,,,,3.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+966,RASOVIC,Strahin a,24:14,24.0,14.0,2.0,6.0,0.0,3.0,,,,,2.0,3.0,,,,,,,,,,,2.0,1.0,1.0,3.0,,,,,,,,0.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+967,ALEKSIC,Milan,11:45,11.0,45.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,1.0,2.0,,,,2.0,,,,,,,2.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+968,JAKSIC,Nikola,18:34,18.0,34.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,1.0,1.0,,,,,,2.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+969,FILIPOVIC,Filip,26:18,26.0,18.0,2.0,3.0,,,,,,,1.0,1.0,1.0,2.0,,,,,,,2.0,2.0,,3.0,,,,1.0,,,,,,1.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+970,PRLAINOVIC,Andri a,19:01,19.0,1.0,1.0,7.0,0.0,4.0,,,,,1.0,3.0,,,,,,,,,1.0,,1.0,1.0,,,1.0,1.0,,,1.0,,,3.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+971,MITROVIC,Stefan,20:58,20.0,58.0,1.0,3.0,1.0,1.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,,,,,,1.0,1.0,,,2.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+972,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,SRB,ESP,W,Player,38,ZWART,ALEXANDRESCU
+973,,,,,,10.0,28.0,1.0,10.0,0.0,1.0,,,8.0,15.0,1.0,2.0,,,,,,,4.0,4.0,8.0,7.0,1.0,4.0,13.0,4.0,,1.0,2.0,,,20.0,SRB,ESP,W,Team,38,ZWART,ALEXANDRESCU
+974,LOPEZ PINEDO,Daniel,31:35,31.0,35.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,SRB,L,Player,38,ZWART,ALEXANDRESCU
+975,MUNARRIZ EGANA,Alberto,25:27,25.0,27.0,2.0,4.0,0.0,2.0,,,,,1.0,1.0,,,,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,1.0,,,,1.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+976,GRANADOS ORTEGA,Alvaro,24:34,24.0,34.0,1.0,7.0,0.0,3.0,,,,,1.0,4.0,,,,,,,,,,2.0,3.0,,,,1.0,1.0,,,,,,2.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+977,SANAHUJA,Bernat,16:37,16.0,37.0,0.0,4.0,0.0,1.0,,,,,0.0,3.0,,,,,,,,,,,,,1.0,1.0,1.0,,,1.0,,,,2.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+978,de TORO DOMINGUEZ,Miguel,10:21,10.0,21.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,,1.0,,,3.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+979,LARUMBE GONFAUS,Marc,21:45,21.0,45.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,1.0,,,2.0,,,1.0,,,,,,,1.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+980,FAMERA,Martin,18:43,18.0,43.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,2.0,,2.0,3.0,2.0,,,,,,,2.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+981,FERNANDEZ MIRANDA,Francisco,14:48,14.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+982,TAHULL COMPTE,Roger,15:30,15.0,30.0,2.0,5.0,0.0,1.0,0.0,1.0,,,2.0,3.0,,,,,,,,,,,1.0,,,,2.0,,,,,,,2.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+983,PERRONE ROCHA,Felipe,23:43,23.0,43.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,1.0,,,,2.0,1.0,,,,,,3.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+984,MALLARACH GUELL,Blai,14:20,14.0,20.0,2.0,5.0,0.0,1.0,,,,,2.0,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+985,BUSTOS SANCHEZ,Ale andro,6:37,6.0,37.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,,,3.0,,,,,,,3.0,ESP,SRB,L,Player,38,ALEXANDRESCU,ZWART
+986,,,,,,9.0,33.0,0.0,13.0,0.0,1.0,1.0,1.0,7.0,17.0,,,,,,,1.0,1.0,4.0,4.0,8.0,3.0,3.0,4.0,15.0,2.0,,2.0,1.0,,,20.0,ESP,SRB,L,Team,38,ALEXANDRESCU,ZWART
+987,KANDIC,Slaven,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,MNE,ITA,L,Player,39,ALEXANDRESCU,ZWART
+988,BRGULJAN,Drasko,26:12,26.0,12.0,2.0,3.0,2.0,3.0,,,,,,,,,,,,,,,,2.0,1.0,,1.0,3.0,,,1.0,,,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+989,PERKOVIC,Miroslav,10:42,10.0,42.0,1.0,3.0,,,0.0,2.0,,,1.0,1.0,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+990,PETKOVIC,Marko,20:33,20.0,33.0,1.0,3.0,0.0,2.0,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,,,,,1.0,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+991,CUCKOVIC,Uros,16:24,16.0,24.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+992,POPADIC,Vlado,20:03,20.0,3.0,1.0,4.0,,,,,1.0,1.0,0.0,1.0,0.0,1.0,,,,,0.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,0.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+993,VIDOVIC,Stefan,9:47,9.0,47.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,1.0,,,,,,,,,,,,,0.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+994,UKROPINA,Aleksa,22:19,22.0,19.0,2.0,5.0,1.0,4.0,,,,,1.0,1.0,,,,,,,,,,3.0,1.0,,0.0,1.0,,,,,,,,0.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+995,IVOVIC,Aleksandar,31:06,31.0,6.0,6.0,13.0,1.0,5.0,,,,,1.0,2.0,0.0,1.0,,,4.0,4.0,0.0,1.0,,4.0,1.0,,,,,,,,,,,0.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+996,SPAIC,Vladan,8:50,8.0,50.0,1.0,2.0,,,1.0,2.0,,,,,,,,,,,,,1.0,,,,,,,1.0,,,,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+997,MATKOVIC,Dusan,21:06,21.0,6.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,1.0,1.0,2.0,,,,1.0,,,,,,1.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+998,BANICEVIC,Dusan,4:58,4.0,58.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,MNE,ITA,L,Player,39,SALNICHENKO,DERVIEUX
+999,,,,,,14.0,38.0,4.0,16.0,1.0,4.0,1.0,1.0,4.0,9.0,0.0,2.0,,,4.0,4.0,0.0,2.0,3.0,12.0,7.0,3.0,1.0,4.0,2.0,2.0,1.0,,1.0,,,6.0,MNE,ITA,L,Team,39,SALNICHENKO,DERVIEUX
+1000,Di FULVIO,Francesco,30:20,30.0,20.0,4.0,8.0,3.0,5.0,,,,,0.0,2.0,1.0,1.0,,,,,,,2.0,1.0,,2.0,2.0,3.0,,,,1.0,1.0,,,2.0,ITA,MNE,W,Player,39,SALNICHENKO,DERVIEUX
+1001,LUONGO,Stefano,14:58,14.0,58.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1002,FIGLIOLI,Pietro,16:03,16.0,3.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,,,,,,,,2.0,,,2.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1003,PRESCIUTTI,Nicholas,23:30,23.0,30.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,3.0,1.0,,,,,,,,,,1.0,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1004,VELOTTO,Alessandro,23:54,23.0,54.0,5.0,7.0,4.0,5.0,,,0.0,1.0,1.0,1.0,,,,,,,,,,3.0,1.0,,1.0,1.0,,,1.0,,,,,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1005,RENZUTO IODICE,Vincenzo,21:35,21.0,35.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1006,ECHENIQUE,Gonzalo,7:48,7.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1007,FIGARI,Niccolo,15:40,15.0,40.0,0.0,2.0,0.0,2.0,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1008,BODEGAS,Michael Alexandre,10:08,10.0,8.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,2.0,,,1.0,,,,1.0,,,,,,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1009,AICARDI,Matteo,19:27,19.0,27.0,1.0,1.0,,,1.0,1.0,,,,,,,,,,,,,,1.0,,,,,,1.0,,1.0,,,,2.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1010,DOLCE,Vincenzo,8:37,8.0,37.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,,,,,,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1011,NICOSIA,Gianmarco,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,1.0,ITA,MNE,W,Player,39,DERVIEUX,SALNICHENKO
+1012,,,,,,14.0,26.0,9.0,17.0,1.0,1.0,0.0,1.0,3.0,6.0,1.0,1.0,,,,,,,5.0,10.0,3.0,4.0,3.0,4.0,,3.0,2.0,2.0,3.0,,4.0,14.0,ITA,MNE,W,Team,39,DERVIEUX,SALNICHENKO
+1013,MACAN,Marko,15:24,15.0,24.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,2.0,,,,2.0,1.0,,,,1.0,,4.0,CRO,USA,W,Player,40,DERVIEUX,SALNICHENKO
+1014,FATOVIC,Loren,18:34,18.0,34.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,1.0,2.0,1.0,,,,,,,,,,,0.0,CRO,USA,W,Player,40,KUN,SEVERO
+1015,LONCAR,Luka,15:30,15.0,30.0,2.0,3.0,,,,,,,2.0,3.0,,,,,,,,,,1.0,2.0,,,,,,,,,,,0.0,CRO,USA,W,Player,40,KUN,SEVERO
+1016,JOKOVIC,Maro,25:21,25.0,21.0,2.0,7.0,1.0,4.0,,,0.0,1.0,,,0.0,1.0,,,1.0,1.0,,,,1.0,,1.0,,,1.0,,,,,,,1.0,CRO,USA,W,Player,40,KUN,SEVERO
+1017,BUKIC,Luka,26:19,26.0,19.0,3.0,6.0,1.0,3.0,,,,,1.0,2.0,,,,,1.0,1.0,,,,,,,1.0,3.0,,1.0,,,,,,1.0,CRO,USA,W,Player,40,KUN,SEVERO
+1018,VUKICEVIC,Ante,22:35,22.0,35.0,2.0,4.0,1.0,3.0,,,1.0,1.0,,,,,,,,,,,,2.0,,,,,,,,,,,,0.0,CRO,USA,W,Player,40,KUN,SEVERO
+1019,BUSLJE,Andro,12:10,12.0,10.0,,,,,,,,,,,,,,,,,,,,,,,,,2.0,,,1.0,,,,3.0,CRO,USA,W,Player,40,KUN,SEVERO
+1020,MILOS,Lovre,13:34,13.0,34.0,1.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,0.0,1.0,,,,,,,,0.0,CRO,USA,W,Player,40,KUN,SEVERO
+1021,VRLIC,Josip,16:30,16.0,30.0,0.0,5.0,0.0,1.0,0.0,2.0,,,0.0,2.0,,,,,,,,,1.0,1.0,2.0,1.0,,,,,,,,,1.0,1.0,CRO,USA,W,Player,40,KUN,SEVERO
+1022,OBRADOVIC,Paulo,7:13,7.0,13.0,1.0,3.0,0.0,1.0,,,,,1.0,2.0,,,,,,,,,,,,,,,1.0,,1.0,,1.0,,,3.0,CRO,USA,W,Player,40,KUN,SEVERO
+1023,GARCIA GADEA,Javier,18:50,18.0,50.0,2.0,3.0,2.0,3.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,CRO,USA,W,Player,40,KUN,SEVERO
+1024,MARCELIC,Ivan,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,CRO,USA,W,Player,40,KUN,SEVERO
+1025,,,,,,14.0,35.0,5.0,16.0,0.0,2.0,1.0,2.0,5.0,11.0,0.0,1.0,,,2.0,2.0,1.0,1.0,3.0,8.0,7.0,2.0,1.0,4.0,6.0,2.0,2.0,1.0,1.0,1.0,1.0,14.0,CRO,USA,W,Team,40,KUN,SEVERO
+1026,HOOPER,Johnny,19:32,19.0,32.0,2.0,4.0,0.0,1.0,,,,,1.0,1.0,,,,,,,1.0,2.0,1.0,,,1.0,3.0,4.0,,,,,,,1.0,1.0,USA,CRO,L,Player,40,KUN,SEVERO
+1027,VAVIC,Marko,21:05,21.0,5.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,3.0,2.0,,,,,,,,,,0.0,USA,CRO,L,Player,40,SEVERO,KUN
+1028,OBERT,Alex,13:12,13.0,12.0,2.0,2.0,1.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,,2.0,,,,2.0,,,,,,,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1029,DAUBE,Hannes,20:29,20.0,29.0,0.0,2.0,0.0,1.0,,,,,0.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,1.0,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1030,CUPIDO,Luca,22:31,22.0,31.0,0.0,3.0,0.0,2.0,,,,,,,0.0,1.0,,,,,,,,,,,,,1.0,,,,,,,1.0,USA,CRO,L,Player,40,SEVERO,KUN
+1031,HALLOCK,Ben,22:17,22.0,17.0,2.0,4.0,,,,,,,2.0,4.0,,,,,,,,,1.0,,,,,,,1.0,,,,1.0,,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1032,WOODHEAD,Dylan,10:08,10.0,8.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,2.0,,,,,,,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1033,BOWEN,Alex,24:43,24.0,43.0,2.0,7.0,0.0,4.0,,,,,2.0,2.0,0.0,1.0,,,,,,,,2.0,1.0,,,,1.0,,,,,,,1.0,USA,CRO,L,Player,40,SEVERO,KUN
+1034,STEVENSON,Ben,12:55,12.0,55.0,1.0,3.0,0.0,1.0,,,,,0.0,1.0,,,,,1.0,1.0,,,,,,,,,1.0,,,1.0,,,,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1035,SMITH,Jesse,7:45,7.0,45.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,USA,CRO,L,Player,40,SEVERO,KUN
+1036,IRVING,Max,17:23,17.0,23.0,2.0,2.0,,,,,,,1.0,1.0,,,,,,,1.0,1.0,,1.0,,,,,,,,1.0,1.0,,,2.0,USA,CRO,L,Player,40,SEVERO,KUN
+1037,HOLLAND,Drew,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,,,,,,0.0,USA,CRO,L,Player,40,SEVERO,KUN
+1038,,,,,,11.0,28.0,1.0,11.0,,,,,7.0,11.0,0.0,2.0,,,1.0,1.0,2.0,3.0,9.0,6.0,6.0,3.0,3.0,4.0,9.0,1.0,,2.0,1.0,1.0,2.0,16.0,USA,CRO,L,Team,40,SEVERO,KUN
+1039,NAGY,Viktor,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,HUN,ESP,W,Player,41,SEVERO,KUN
+1040,ANGYAL,Daniel,17:57,17.0,57.0,1.0,3.0,1.0,3.0,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,1.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1041,MANHERCZ,Krisztian,26:31,26.0,31.0,1.0,5.0,0.0,4.0,,,,,1.0,1.0,,,,,,,,,,3.0,2.0,4.0,0.0,2.0,,,,,,,,0.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1042,ZALANKI,Gergo,17:33,17.0,33.0,1.0,3.0,0.0,2.0,,,,,1.0,1.0,,,,,,,,,,1.0,1.0,,,,2.0,,,,1.0,,,3.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1043,VAMOS,Marton,27:28,27.0,28.0,2.0,3.0,0.0,1.0,,,,,2.0,2.0,,,,,,,,,,1.0,,,,,,,,,,,,0.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1044,HOSNYANSZKY,Norbert,10:50,10.0,50.0,1.0,2.0,0.0,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,3.0,,,,,,,3.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1045,PASZTOR,Matyas,13:12,13.0,12.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,,,,,,2.0,,,1.0,,,,3.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1046,JANSIK,Szilard,12:50,12.0,50.0,1.0,2.0,0.0,1.0,,,,,,,,,,,,,1.0,1.0,1.0,,1.0,,,,2.0,,,,,,,2.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1047,ERDELYI,Balazs,20:34,20.0,34.0,0.0,3.0,0.0,2.0,,,0.0,1.0,,,,,,,,,,,,2.0,,,0.0,2.0,1.0,,,,,,,1.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1048,VARGA,Denes,17:44,17.0,44.0,1.0,3.0,1.0,3.0,,,,,,,,,,,,,,,,,,,,,3.0,,,,,,,3.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1049,MEZEI,Tamas,14:04,14.0,4.0,0.0,1.0,,,0.0,1.0,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1050,HARAI,Balazs,13:17,13.0,17.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,3.0,,,1.0,,,1.0,,1.0,,,,,2.0,HUN,ESP,W,Player,41,STAVRIDIS,VOEVODIN
+1051,,,,,,9.0,29.0,2.0,20.0,0.0,1.0,0.0,1.0,6.0,6.0,,,,,,,1.0,1.0,5.0,8.0,5.0,6.0,0.0,4.0,14.0,,2.0,1.0,1.0,,,18.0,HUN,ESP,W,Team,41,STAVRIDIS,VOEVODIN
+1052,LOPEZ PINEDO,Daniel,31:48,31.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,STAVRIDIS,VOEVODIN
+1053,MUNARRIZ EGANA,Alberto,28:39,28.0,39.0,2.0,7.0,0.0,5.0,,,,,2.0,2.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1054,GRANADOS ORTEGA,Alvaro,21:02,21.0,2.0,0.0,3.0,0.0,1.0,,,,,0.0,2.0,,,,,,,,,,,2.0,,,,,1.0,,,,,,1.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1055,SANAHUJA,Bernat,21:38,21.0,38.0,0.0,3.0,0.0,3.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1056,de TORO DOMINGUEZ,Miguel,8:53,8.0,53.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,2.0,,,,,,1.0,,1.0,,,,,2.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1057,LARUMBE GONFAUS,Marc,13:48,13.0,48.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1058,FAMERA,Martin,18:02,18.0,2.0,0.0,2.0,,,,,,,0.0,2.0,,,,,,,,,,,,1.0,4.0,4.0,1.0,1.0,,,,,,2.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1059,FERNANDEZ MIRANDA,Francisco,9:18,9.0,18.0,0.0,2.0,,,,,,,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1060,TAHULL COMPTE,Roger,17:55,17.0,55.0,1.0,3.0,,,,,,,1.0,3.0,,,,,,,,,,,,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1061,PERRONE ROCHA,Felipe,26:23,26.0,23.0,1.0,5.0,0.0,1.0,,,,,1.0,3.0,0.0,1.0,,,,,,,,,2.0,,,,,,,,,,,0.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1062,MALLARACH GUELL,Blai,14:57,14.0,57.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,1.0,1.0,,,1.0,,,,,,,1.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1063,BUSTOS SANCHEZ,Ale andro,11:37,11.0,37.0,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,2.0,,,,,,,2.0,ESP,HUN,L,Player,41,VOEVODIN,STAVRIDIS
+1064,,,,,,5.0,29.0,0.0,12.0,,,,,5.0,15.0,0.0,1.0,,,,,0.0,1.0,2.0,2.0,7.0,3.0,4.0,4.0,5.0,2.0,1.0,,,,,8.0,ESP,HUN,L,Team,41,VOEVODIN,STAVRIDIS
+1065,ZERDEVAS,Emmanouil,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,SRB,L,Player,42,VOEVODIN,STAVRIDIS
+1066,GENIDOUNIAS,Konstantinos,20:51,20.0,51.0,0.0,7.0,0.0,5.0,,,,,0.0,2.0,,,,,,,,,,,1.0,,0.0,1.0,1.0,,,,,,,1.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1067,SKOUMPAKIS,Dimitrios,10:38,10.0,38.0,2.0,2.0,,,,,,,2.0,2.0,,,,,,,,,,1.0,1.0,,,,1.0,,,,,,1.0,2.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1068,KAPOTSIS,Marios,15:11,15.0,11.0,0.0,3.0,0.0,2.0,,,,,0.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,0.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1069,FOUNTOULIS,Ioannis,24:35,24.0,35.0,2.0,6.0,1.0,3.0,,,,,1.0,3.0,,,,,,,,,1.0,1.0,,,,,,1.0,,,1.0,,,2.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1070,PAPANASTASIOU,Alexandros,22:23,22.0,23.0,1.0,3.0,1.0,2.0,,,,,0.0,1.0,,,,,,,,,,,,,3.0,3.0,,,,,1.0,,,1.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1071,DERVISIS,Georgios,9:48,9.0,48.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1072,ARGYROPOULOS KANAKAKIS,Stylianos,19:45,19.0,45.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,1.0,,,,,2.0,,,,,,,2.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1073,MOURIKIS,Konstantinos,13:31,13.0,31.0,1.0,2.0,,,1.0,1.0,,,0.0,1.0,,,,,,,,,3.0,,,,,,,,,,,,1.0,1.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1074,KOLOMVOS,Christodoulos,12:52,12.0,52.0,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1075,GKIOUVETSIS,Konstantinos,11:27,11.0,27.0,1.0,3.0,,,,,,,1.0,3.0,,,,,,,,,,,1.0,1.0,,,,,,,,,,0.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1076,VLACHOPOULOS,Angelos,30:59,30.0,59.0,2.0,3.0,1.0,2.0,,,,,1.0,1.0,,,,,,,,,1.0,,2.0,,,,1.0,,,,,,,1.0,GRE,SRB,L,Player,42,BUCH JUANOLA,GOLDENBERG
+1077,,,,,,10.0,31.0,3.0,15.0,1.0,1.0,,,6.0,15.0,,,,,,,,,6.0,3.0,6.0,1.0,3.0,4.0,6.0,1.0,,,2.0,,2.0,11.0,GRE,SRB,L,Team,42,BUCH JUANOLA,GOLDENBERG
+1078,MANDIC,Dusan,24:34,24.0,34.0,3.0,6.0,1.0,3.0,,,,,2.0,2.0,0.0,1.0,,,,,,,1.0,,1.0,,,,2.0,,,,,,,2.0,SRB,GRE,W,Player,42,BUCH JUANOLA,GOLDENBERG
+1079,DEDOVIC,Nikola,16:42,16.0,42.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,,,1.0,0.0,1.0,2.0,1.0,,,,,,3.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1080,RANDELOVIC,Sava,11:51,11.0,51.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,3.0,,,,,,,3.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1081,LAZIC,Dorde,10:06,10.0,6.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1082,PIJETLOVIC,Dusko,17:44,17.0,44.0,2.0,5.0,,,1.0,3.0,,,1.0,2.0,,,,,,,,,1.0,,1.0,,,,,,,,,,,0.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1083,RASOVIC,Strahin a,23:31,23.0,31.0,0.0,4.0,0.0,3.0,,,,,0.0,1.0,,,,,,,,,,1.0,,,1.0,3.0,,,,,,,,0.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1084,ALEKSIC,Milan,12:39,12.0,39.0,0.0,1.0,0.0,1.0,,,,,,,,,,,,,,,1.0,,1.0,2.0,,,3.0,,,,,,,3.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1085,JAKSIC,Nikola,12:20,12.0,20.0,3.0,3.0,1.0,1.0,,,,,2.0,2.0,,,,,,,,,,,,1.0,,,1.0,1.0,,,,,,2.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1086,FILIPOVIC,Filip,21:45,21.0,45.0,2.0,3.0,1.0,2.0,,,,,,,,,,,1.0,1.0,,,,,1.0,1.0,,,1.0,,,,,,,1.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1087,PRLAINOVIC,Andri a,23:06,23.0,6.0,3.0,4.0,0.0,1.0,1.0,1.0,,,1.0,1.0,,,,,1.0,1.0,,,1.0,1.0,2.0,,,,1.0,1.0,,,,,,2.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1088,MITROVIC,Stefan,17:42,17.0,42.0,0.0,1.0,,,,,,,0.0,1.0,,,,,,,,,,,1.0,1.0,,,,,,,,,,0.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1089,MITROVIC,Branislav,32:00,32.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,SRB,GRE,W,Player,42,GOLDENBERG,BUCH JUANOLA
+1090,,,,,,13.0,29.0,3.0,13.0,2.0,4.0,,,6.0,9.0,0.0,1.0,,,2.0,2.0,,,6.0,3.0,8.0,6.0,1.0,4.0,14.0,3.0,,,,,,17.0,SRB,GRE,W,Team,42,GOLDENBERG,BUCH JUANOLA
