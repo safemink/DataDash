@@ -26,8 +26,7 @@ app.layout = html.Div(
     [
         # main app framework
         dcc.Location(id='url'),
-        html.Div([dbc.NavbarSimple([nav_drop], brand='DataDash', brand_href='/', links_left=True)]),
-        html.P(['Tokyo 2020 men’s water polo · Historical data · ', html.A('Source PDF', href='/assets/tokyo-2020-match-reports.pdf', target='_blank', rel='noopener noreferrer')], className='dataset-banner'),
+        html.Div([dbc.NavbarSimple([nav_drop], links_left=True, color="light", dark=False)]),
 
         # content of each page
         dash.page_container
