@@ -72,7 +72,7 @@ layout = html.Div(
                     html.A('View the original match reports (PDF)',
                            href='/assets/tokyo-2020-match-reports.pdf#page=5',
                            target='_blank', rel='noopener noreferrer'),
-                    '. Original homepage descriptions retained; no live data feed.'
+                    '.'
                 ], style={'margin': '20px', 'font-size': '14px'})
             ]
         )
