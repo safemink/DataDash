@@ -50,9 +50,9 @@ for opponent in ['All','TOP 8','Knockout Rounds']:
     check(f'ref table {opponent}', lambda opponent=opponent:r.update_table('All',opponent,'Ref'))
     for ref in r.reflist:
         check(f'ref chart {ref}/{opponent}', lambda ref=ref,opponent=opponent:r.update_charts('All',opponent,ref))
-for stat in ['Goals','Shots']:
-    for mode in ['Total','Average']:
-        for games in ['All','TOP 8','Knockout Rounds']:
+for stat in ['Goals','Shots','Total EX','Minutes','Action Goals','Action Shots','Extra Goals','Extra Shots','Center Goals','Center Shots','Foul Goals','Foul Shots','6MF Goals','6MF Shots','PS Goals','PS Shots','CA Goals','CA Shots','TF','ST','RB','BL','SP Won','SP Attempts','CP EX','FP EX','DS EX','M6 EX','CS EX','DE','P EX','Shooting %','Extra Shooting %','Center Shooting %','Action Shooting %','Foul Shooting %','6MF Shooting %','PS Shooting %','CA Shooting %']:
+    for mode in ['Total','Per Game','Per Minute']:
+        for games in ['All','Top 8','Knockout Round']:
             check(f'rank {stat}/{mode}/{games}', lambda stat=stat,mode=mode,games=games:mods['rank'].update_tables(stat,'All',games,mode))
 data = pd.read_csv('data/master_data_refs.csv')
 check('42 matches and 12 teams', lambda:require(data['Match Number'].nunique()==42 and data.Team.nunique()==12))
@@ -61,5 +61,10 @@ check('PDF example fields', lambda:require((bowen.Goals,bowen.Shots,bowen.Minute
 players=data[data.stat_type=='Player'].groupby(['Match Number','Team']).Goals.sum().sort_index()
 teams=data[data.stat_type=='Team'].set_index(['Match Number','Team']).Goals.sort_index()
 check('player goals reconcile to all 84 team totals', lambda:require(players.equals(teams)))
+woodhead = p.total_df[(p.total_df.Team == 'USA') & (p.total_df.Name == 'WOODHEAD')].iloc[0]
+check('Woodhead totals: 3 of 6 shots is 50 percent and 74:28 played', lambda: require(woodhead['Shooting %'] == 50 and woodhead['Play Time'] == '74:28'))
+rank_data = mods['rank'].players_master
+top8 = mods['rank'].filterplayerdf('All', 'Top 8', rank_data)
+check('Top 8 includes qualifying group games', lambda: require(top8['Match Number'].min() < min(mods['rank'].KNOCK_GAMES) and top8['Opponent'].isin(mods['rank'].TOP_8).all()))
 print(json.dumps({'passed':checks,'failed':len(failures),'failures':failures},indent=2))
 raise SystemExit(bool(failures))
