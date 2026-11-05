@@ -160,6 +160,7 @@ def mergeteamdf(data):
 
     return master
 def filterteamdf(team, tournament, result, opponent, data):
+    tournament, result, opponent = tournament or "All", result or "All", opponent or "All"
     dff = data
     if tournament != "All":
         dff = dff.drop(dff[dff.Tournament != tournament].index)
@@ -175,6 +176,7 @@ def filterteamdf(team, tournament, result, opponent, data):
             dff = dff[~(dff['Opponent'] != opponent)]
     return dff
 def filterplayerdf(team, tournament, result, opponent, df2):
+    tournament, result, opponent = tournament or "All", result or "All", opponent or "All"
     dff = df2
     dff = dff.drop(dff[dff.Team != team].index)
     if tournament != "All":
@@ -388,29 +390,29 @@ layout = dbc.Container([
         dbc.Col([
             "Select a Team",
             dcc.Dropdown(
-                id='team_dropdown_tpg',
+                id='team_dropdown_tpg', clearable=False,
                 options=[{'label': t, 'value': t} for t in teamlist],
                 value='USA',
             )], width={'size': 2, 'offset': 2}, id='team_output_tpg', className='mb-4'),
         dbc.Col([
             "Tournament Filter",
             dcc.Dropdown(
-                id='tournament_dropdown_tpg',
+                id='tournament_dropdown_tpg', clearable=False,
                 options=['All', 'OLY2020'],
                 value='All',
             )], width={'size': 2}, id='tournament_output_tpg', className='mb-4'),
         dbc.Col([
             "Result Filter",
             dcc.Dropdown(
-                id='result_dropdown_tpg',
+                id='result_dropdown_tpg', clearable=False,
                 options=['All', 'W', 'L'],
                 value='All',
             )], width={'size': 2}, id='result_output_tpg', className='mb-4'),
         dbc.Col([
             "Opponent Filter",
             dcc.Dropdown(
-                id='opponent_dropdown_tpg',
-                options=[],
+                id='opponent_dropdown_tpg', clearable=False,
+                options=["All"],
                 value='All',
             )], width={'size': 2}, id='opponent_output_tpg', className='mb-4')
     ]),     # Dropdowns
@@ -437,7 +439,7 @@ layout = dbc.Container([
                                  ), className='mb-4')
     ]),     # Opponent Table
     dbc.Row([
-        dbc.Col(html.H4("Team Scoring Statisitcs", className='text-center, mb-4'),
+        dbc.Col(html.H4("Team Scoring Statistics", className='text-center, mb-4'),
                 width=12),
 
         dbc.Col([
@@ -455,7 +457,7 @@ layout = dbc.Container([
         ], width=12, className='mb-4')
     ]),     # Shooting Percentage Charts
     dbc.Row([
-        dbc.Col(html.H4("Team Exclusion Statisitcs", className='text-center, mb-4'),
+        dbc.Col(html.H4("Team Exclusion Statistics", className='text-center, mb-4'),
                 width=12),
 
         dbc.Col([
@@ -471,13 +473,13 @@ layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             "Result Filter",
-            dcc.Dropdown(id='result_dropdown_copy_tpg',
+            dcc.Dropdown(id='result_dropdown_copy_tpg', clearable=False,
                          options=['All', 'W', 'L'],
                          value='All')], width={'size': 2, 'offset': 1}, className='mb-4'),
         dbc.Col([
             "Opponent Filter",
-            dcc.Dropdown(id='opponent_dropdown_copy_tpg',
-                         options=[],
+            dcc.Dropdown(id='opponent_dropdown_copy_tpg', clearable=False,
+                         options=["All"],
                          value='All')], width={'size': 2}, className='mb-4'),
         dbc.Col([
             "Custom Stat",
@@ -568,6 +570,13 @@ def update_charts(team, tournament, result, opponent):
     teamstats = teams_master
     teamstats = filterteamdf(team, tournament, result, opponent, teamstats)
 
+    if teamstats[teamstats['Team'] == team].empty:
+        empty = go.Figure()
+        empty.add_annotation(text='No games match these filters.', showarrow=False,
+                             x=0.5, y=0.5, xref='paper', yref='paper')
+        empty.update_xaxes(visible=False)
+        empty.update_yaxes(visible=False)
+        return tuple(go.Figure(empty) for _ in range(7))
     teamComp, teamAvg = teamcompile(teamstats)
     teamAvg = addaverages(teamAvg)
 
@@ -609,7 +618,7 @@ def updatedropdowns(team, tournament, result):
 def linkdropdowns(result, result_copy, opponent, opponent_copy):
     ctx = callback_context
     trigger_id = ctx.triggered[0]["prop_id"].split(".")[0]
-    result_value = result if trigger_id == 'result_dropdown_tpg' else result_copy
-    opponent_value = opponent if trigger_id == 'opponent_dropdown_tpg' else opponent_copy
+    result_value = (result if trigger_id == 'result_dropdown_tpg' else result_copy) or 'All'
+    opponent_value = (opponent if trigger_id == 'opponent_dropdown_tpg' else opponent_copy) or 'All'
 
     return result_value, result_value, opponent_value, opponent_value

@@ -213,14 +213,14 @@ teams_master = mergeteamdf(df).reset_index()
 
 layout = dbc.Container([
     dbc.Row([
-        dbc.Col(html.H1("Team Analysis",
+        dbc.Col(html.H1("Player Rankings",
                         className='text-center, mb-4'),
                 width=12)
     ]),     # Title
     dbc.Row([
         dbc.Col([
             "Select a Stat",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='stat_dropdown_rpg',
                 options=['Goals', 'Shots', 'Total EX', 'Minutes',
                          'Action Goals', 'Action Shots', 'Extra Goals', 'Extra Shots',
@@ -234,21 +234,21 @@ layout = dbc.Container([
             )], width={'size': 2, 'offset': 1}, id='stat_output_rpg', className='mb-4'),
         dbc.Col([
             "Tournament Filter",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='tournament_dropdown_rpg',
                 options=['All', 'OLY2020'],
                 value='All',
             )], width={'size': 2}, id='tournament_output_rpg', className='mb-4'),
         dbc.Col([
             "Game Type Filter",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='gamet_dropdown_rpg',
                 options=['All', 'Top 8', 'Knockout Round'],
                 value='All'
             )], width={'size': 2}, id='gamet_output_rpg', className='mb-4'),
         dbc.Col([
             "Sort by",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='sort_dropdown_rpg',
                 options=['Total', 'Per Game', 'Per Minute'],
                 value='Total'

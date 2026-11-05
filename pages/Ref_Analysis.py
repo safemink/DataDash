@@ -136,21 +136,21 @@ layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             "Tournament Filter",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='tournament_dropdown_ref',
                 options=['All', 'OLY2020', 'WC2022', 'EURO2022'],
                 value='All',
             )], width={'size': 2, 'offset': 3}, id='tournament_output_ref', className='mb-4'),
         dbc.Col([
             "Game Type Filter",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='opponent_dropdown_ref',
                 options=['All', 'TOP 8', 'Knockout Rounds'],
                 value='All',
             )], width={'size': 2}, id='opponent_output_ref', className='mb-4'),
         dbc.Col([
             "Sort by",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='rank_dropdown_ref',
                 options=['Ref', 'Total Goals pg', 'Avg Goal Diff', 'Total EX pg', 'Total TF pg', 'Games'],
                 value='Ref',
@@ -175,14 +175,14 @@ layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             "Select a Referee",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='ref_dropdown',
                 options=[{'label': r, 'value': r} for r in reflist],
                 value='ALEXANDRESCU',
             )], width={'size': 2, 'offset': 2}, id='ref_output', className='mb-4'),
         dbc.Col([
             "Game Type Filter",
-            dcc.Dropdown(
+            dcc.Dropdown(clearable=False, 
                 id='opponent_dropdown_copy_ref',
                 options=[],
                 value='All'
@@ -259,6 +259,13 @@ def update_charts(tournament, opponent, ref):
         if opponent == "Knockout Rounds":
             dff = dff[dff['Match Number'].isin(KNOCK_GAMES)]
 
+    if dff[dff['Ref'] == ref].empty:
+        empty = go.Figure()
+        empty.add_annotation(text='No games match these filters.', showarrow=False,
+                             x=0.5, y=0.5, xref='paper', yref='paper')
+        empty.update_xaxes(visible=False)
+        empty.update_yaxes(visible=False)
+        return go.Figure(empty), go.Figure(empty)
     refAvg = refavgdf(dff)
     dfff = refAvg.drop(refAvg[(refAvg['Ref'] != ref) & (refAvg['Ref'] != 'Avg Ref')].index)
 
