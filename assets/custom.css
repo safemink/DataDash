@@ -60,3 +60,5 @@ a:focus-visible, button:focus-visible { outline:3px solid var(--accent); outline
  .row > .col-2 { width:100%; margin-left:0; }
  .project-home { padding-top:1.4rem; }
 }
+
+.navbar-toggler { background-color: #243547 !important; border: 1px solid #72879a !important; }
