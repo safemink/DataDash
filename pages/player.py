@@ -27,7 +27,10 @@ def create_total_df(df):
     d.update({'Outcome': 'count', 'Opponent': 'count'})
     df = df.fillna(0)  # may not need this
     total_df = df.groupby(['Team', 'Name']).agg(d)
-    total_df = playtime_flt(total_df)[FULL_COLS]
+    total_df['Shooting %'] = (100 * total_df['Goals'] / total_df['Shots'].where(total_df['Shots'] != 0)).round(2)
+    seconds = (total_df['Minutes'] * 60 + total_df['Seconds']).round().astype(int)
+    total_df['Play Time'] = seconds.map(lambda value: f'{value // 60}:{value % 60:02d}')
+    total_df = total_df[FULL_COLS]
     total_df['Opponent'] = 'TOTALS'
     return total_df.reset_index()
 

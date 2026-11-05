@@ -156,9 +156,9 @@ def filterplayerdf(tournament, gamet, df):
     if tournament != "All":
         dff = dff.drop(dff[dff.Tournament != tournament].index)
     if gamet != "All":
-        if gamet == "TOP 8":
+        if gamet in ("TOP 8", "Top 8"):
             dff = dff[dff['Opponent'].isin(TOP_8)]
-        if gamet != "TOP 8":
+        if gamet not in ("TOP 8", "Top 8"):
             dff = dff[dff['Match Number'].isin(KNOCK_GAMES)]
     return dff
 def playercompile(df2):
@@ -197,6 +197,9 @@ def gettable(playerComp, playerAvg, stat, sort):
 
     table1['Games'] = playerAvg['Games']
     table1['Minutes pg'] = playerAvg['Minutes pg']
+
+    if stat.endswith('%'):
+        return table1.sort_values(by=[stat], ascending=False).round(2)
 
     if sort == 'Total':
         table1 = table1.sort_values(by=[stat], ascending=False)
