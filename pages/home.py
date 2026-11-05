@@ -1,78 +1,82 @@
 import dash
-from dash import html
+from dash import html, dcc
 
-dash.register_page(__name__, path='/', name='Home', order=0)
-PDF = '/assets/tokyo-2020-match-reports.pdf'
+dash.register_page(__name__, path='/', order=0)
 
-def link(label, href, button=False):
-    return html.A(label, href=href, className='project-button' if button else None,
-                  target='_blank' if href.startswith('https:') or '.pdf' in href else None,
-                  rel='noopener noreferrer')
+layout = html.Div(
+    className='original-home',
+    children=[
+        html.Div(
+            children=[
+                html.Div(
+                    children=[
+                        html.Strong(
+                            'Welcome to Andrew and Dylan\'s Water Polo Dashboard! ',
+                            style={'font-size': '20px', 'font-weight': 'bold'}
+                        ),
+                        'This site, hosted by ',
+                        html.A('Render,', href='https://render.com/'),
+                        '''
+                        is meant to aid in viewing and analyzing Water Polo statistics, specifically in international play. 
+                        This site in its current form is more of a proof of concept and only includes data from the 
+                        2020 Tokyo Olympics, but as more and better data is added to the database, and more features are incorporated, 
+                        it will hopefully serve some use in the future. Generally speaking, the pages of the site are the following: 
+                        '''
+                    ],
+                    style={'margin': '20px'}
+                ),
+                html.Div(
+                    children=[
+                        html.Div(children=[
+                            html.Div([html.Strong('Home:'),
+                                      ' A comprehensive hub for water polo enthusiasts providing up-to-the-minute water polo statistics, game analysis, and player information. A home for the community to engage, learn, and discuss all things water polo.'],
+                                     style={'margin': '20px'}),
+                            html.Div([html.Strong('Player:'),
+                                      ' A detailed exploration of individual player statistics, performance, and history. Compare stats, track progress, and analyze performance trends of your favorite water polo players over the course of their careers.'],
+                                     style={'margin': '20px'}),
+                            html.Div([html.Strong('Team Analysis:'),
+                                      ' Delve into in-depth statistics and data-driven insights of various water polo teams. This page features team performance analysis, strategic evaluations, and data visualization of team patterns over time.'],
+                                     style={'margin': '20px'}),
+                        ], style={'width': '50%', 'display': 'inline-block'}),
 
-layout = html.Main([
-    html.P('PERSONAL PROJECT · 2022–2023 · RESTORED NOVEMBER 2026', className='project-eyebrow'),
-    html.H1("Andrew and Dylan’s Water Polo Dashboard"),
-    html.P('Turning tournament PDF reports into interactive player and team comparisons.', className='project-lead'),
-    html.P('Co-built by Andrew Chun and U.S. Olympian Dylan Woodhead. This Python project brings together '
-           'data extraction, cleaning and visualization for the Tokyo 2020 men’s water polo tournament, played in 2021.'),
-    html.Div([
-        link('Explore team statistics', '/team-analysis', True),
-        link('View source PDF · 84 pages', PDF, True),
-        link('View project code', 'https://github.com/safemink/DataDash/tree/master'),
-    ], className='project-actions'),
-    html.P('42 matches · 12 national teams · Historical dataset', className='project-meta'),
-    html.Section([
-        html.H2('From a PDF report to usable data'),
-        html.P('The starting point was a set of dense match-report tables, with match details in page headers '
-               'and several statistics packed into single cells. Andrew worked on Python extraction and cleaning '
-               'scripts to turn these reports into structured records for the shared dashboard.'),
-        html.Ol([
-            html.Li([html.Strong('Extract: '), 'Tabula reads table regions using page and column coordinates; '
-                     'PyPDF2 and regular expressions recover match, team, score and referee details.']),
-            html.Li([html.Strong('Normalize: '), 'pandas and NumPy separate combined fields, distinguish player '
-                     'rows from team totals, and attach opponent and result information.']),
-            html.Li([html.Strong('Explore: '), 'Cleaned CSV records feed Dash and Plotly filters, tables and charts.']),
-        ]),
-        html.H3('One example: USA vs Japan, July 25, 2021'),
-        html.P(['USA won 15–13. ', link('Open the original match report on PDF page 5', PDF + '#page=5'),
-                ' and look for Alex Bowen’s row.']),
-        html.Div(html.Table([
-            html.Thead(html.Tr([html.Th('In the report'), html.Th('Structured fields'), html.Th('What this enables')])),
-            html.Tbody([
-                html.Tr([html.Td('BOWEN Alex'), html.Td('Last: BOWEN · First: Alex'), html.Td('Filter by player')]),
-                html.Tr([html.Td('Goals / shots: 5/6'), html.Td('Goals: 5 · Shots: 6'), html.Td('Aggregate attempts and scoring')]),
-                html.Tr([html.Td('Playing time: 21:13'), html.Td('Minutes: 21 · Seconds: 13'), html.Td('Calculate time-based measures')]),
-                html.Tr([html.Td('Header: USA 15–13 JPN · Match 3'), html.Td('USA · JPN · Win · Match 3'), html.Td('Join game context to each player row')]),
-            ]),
-        ]), className='project-table-wrap'),
-        html.P('The linked PDF is the saved 84-page collection used by the project, containing official Tokyo 2020 '
-               'match reports. It is a prepared collection, not the complete Olympic results book. Report content '
-               'is credited to the Tokyo 2020 Organising Committee. This selected-field example was checked against '
-               'the saved PDF and CSV records during the 2026 restoration.', className='project-note'),
-    ], id='source-data'),
-    html.Section([
-        html.H2('Explore the dashboard'),
-        html.Div([
-            html.Div([html.H3(link(title, href)), html.P(description)], className='project-card')
-            for title, href, description in [
-                ('Player', '/player', 'Choose a team and player to explore game-by-game statistics.'),
-                ('Team Analysis', '/team-analysis', 'Filter results and opponents, then compare team and player measures.'),
-                ('Team Comparison', '/team-comparison', 'Compare national teams using totals or per-game averages.'),
-                ('Referee Analysis', '/ref-analysis', 'Explore statistics from games associated with each referee.'),
-                ('Player Rankings', '/rank', 'Sort players by a selected statistic within this historical dataset.'),
+                        html.Div(children=[
+                            html.Div([html.Strong('Team Comparison:'),
+                                      ' A head-to-head comparison of different water polo teams. This interactive tool allows you to juxtapose team stats, compare their strengths and weaknesses, and predict potential outcomes based on historical data.'],
+                                     style={'margin': '20px'}),
+                            html.Div([html.Strong('Ref Analysis:'),
+                                      ' An objective analysis of referees and their impact on the game. This page provides insight into ref performance, controversial calls, and their influence on the game outcomes. A unique perspective to understand the game beyond just the players and teams.'],
+                                     style={'margin': '20px'}),
+                            html.Div([html.Strong('Rank:'),
+                                      ' A live ranking of water polo teams and players based on their performances. This page continuously updates to reflect the current standings, offering a clear picture of who leads the sport at any given time.'],
+                                     style={'margin': '20px'}),
+                        ], style={'width': '50%', 'display': 'inline-block'}),
+                    ], style={'display': 'flex', 'margin': '40px'}),
+                html.Div(
+                    children=[
+                        html.Strong(
+                            'Important Limitations:',
+                            style={'font-size': '20px', 'font-weight': 'bold'}
+                        ),
+                        '''Great effort was invested in ensuring the acquisition of high-quality and consistent data. 
+                        However, a significant portion of the data was obtained through the challenging task of 
+                        scraping PDF game logs, which presented various difficulties. It is conceivable that certain 
+                        letters or numbers may have been illegible or misinterpreted during the data compilation 
+                        process, potentially resulting in inaccuracies or errors. Nonetheless, we have diligently 
+                        conducted thorough testing and retesting to address these issues. Therefore, 
+                        we are optimistic that the majority of them have already been identified and rectified. '''
+                    ],
+                    style={'margin': '20px'}
+                ),
+                html.P([
+                    'Archived Tokyo 2020 dataset · ',
+                    html.A('View the original match reports (PDF)',
+                           href='/assets/tokyo-2020-match-reports.pdf#page=5',
+                           target='_blank', rel='noopener noreferrer'),
+                    '. Original homepage descriptions retained; no live data feed.'
+                ], style={'margin': '20px', 'font-size': '14px'})
             ]
-        ], className='project-grid'),
-    ]),
-    html.Section([
-        html.H2('Scope and limitations'),
-        html.P('This is an independent personal-project prototype. It uses saved Tokyo 2020 data and does not '
-               'update with live results. PDF extraction and historical calculations can contain errors; use the '
-               'source reports to check a statistic before relying on it. Referee comparisons describe games '
-               'they officiated and do not establish referee quality, bias or causal impact.'),
-        html.P('Separate historical scripts also handled World Championship, European Championship and World League '
-               'report layouts. Those tournament outputs are not included in this dashboard. The original pipeline '
-               'used manual stages and cached intermediates; this restoration runs the saved dashboard CSVs.'),
-        html.P('The project was built in 2022–2023. The November 2026 restoration updates presentation, compatibility '
-               'and selected interaction bugs while preserving the historical dataset.'),
-    ]),
-], className='project-home')
+        )
+    ]
+)
+
+
