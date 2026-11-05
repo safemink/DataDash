@@ -5,3 +5,58 @@
     max-width: 1800px;
   }
 }
+:root { color-scheme: light dark; --page:#f7f9fb; --panel:#fff; --ink:#243547; --muted:#526477; --line:#cbd5df; --accent:#086c84; --header:#e8eff4; }
+@media (prefers-color-scheme: dark) {
+ :root { --page:#111a23; --panel:#192633; --ink:#e3edf5; --muted:#acbecd; --line:#415262; --accent:#7ad6e9; --header:#253747; }
+}
+body { background:var(--page); color:var(--ink); }
+a { color:var(--accent); }
+a:hover { color:var(--accent); text-decoration:underline; }
+a:focus-visible, button:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+.navbar { background:var(--header)!important; }
+.navbar-brand { color:var(--ink)!important; }
+.dataset-banner { margin:0; padding:.7rem 1.2rem; color:var(--muted); border-bottom:1px solid var(--line); font-size:.9rem; }
+.project-home { max-width:1100px; padding:2rem 1.25rem 4rem; margin:auto; line-height:1.65; }
+.project-home h1 { font-size:clamp(2rem,4vw,3rem); line-height:1.15; max-width:900px; margin-bottom:1rem; }
+.project-home h2 { font-size:1.65rem; margin-bottom:1rem; }
+.project-home h3 { font-size:1.15rem; margin-top:1.3rem; }
+.project-eyebrow { font-size:.76rem; letter-spacing:.08em; color:var(--muted); font-weight:700; }
+.project-lead { font-size:1.25rem; }
+.project-actions { display:flex; flex-wrap:wrap; align-items:center; gap:.8rem; margin:1.5rem 0 1rem; }
+.project-button { display:inline-block; border:1px solid var(--accent); border-radius:6px; padding:.65rem 1rem; color:var(--accent); font-weight:700; text-decoration:none; }
+.project-meta,.project-note { color:var(--muted); }
+.project-note { font-size:.9rem; margin-top:1rem; }
+.project-home section { margin-top:2rem; padding-top:2rem; border-top:1px solid var(--line); }
+.project-home li { padding:.35rem 0; }
+.project-table-wrap { overflow-x:auto; }
+.project-home table { width:100%; min-width:560px; background:var(--panel); }
+.project-home th,.project-home td { padding:.8rem; border:1px solid var(--line); vertical-align:top; }
+.project-home th { background:var(--header); }
+.project-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:1rem; }
+.project-card { padding:1rem; border:1px solid var(--line); border-radius:7px; background:var(--panel); }
+.project-card h3 { margin-top:0; }
+.project-card p { margin:0; }
+.Select-control,.Select-menu-outer,.Select-menu,.Select-option { background:var(--panel)!important; color:var(--ink)!important; border-color:var(--line)!important; }
+.Select-value-label,.Select-placeholder,.Select-input > input { color:var(--ink)!important; }
+.Select-option.is-focused,.Select-option.is-selected { background:var(--header)!important; }
+.dash-table-container { overflow-x:auto; max-width:100%; }
+.dash-table-container .dash-spreadsheet-container { max-width:100%; }
+.dash-spreadsheet td,.dash-spreadsheet th,.dash-spreadsheet input { background:var(--panel)!important; color:var(--ink)!important; border-color:var(--line)!important; }
+.dash-spreadsheet th { background:var(--header)!important; }
+.dash-spreadsheet td:first-child { min-width:125px!important; }
+@media (prefers-color-scheme: dark) {
+ .js-plotly-plot .plotly .main-svg { background:var(--panel)!important; }
+ .js-plotly-plot .plotly .bg,.js-plotly-plot .plotly .legend .bg { fill:var(--panel)!important; }
+ .js-plotly-plot .plotly text { fill:var(--ink)!important; }
+ .js-plotly-plot .plotly .modebar { background:var(--panel)!important; }
+ .js-plotly-plot .plotly .modebar-btn path { fill:var(--muted)!important; }
+ .js-plotly-plot .plotly .gridlayer path { stroke:var(--line)!important; }
+}
+@media (max-width:700px) {
+ .container,.container-fluid { padding-left:12px; padding-right:12px; }
+ .container-fluid > div[style*="width: 15%"],.container-fluid > div[style*="width: 25%"] { width:100%!important; margin-bottom:.75rem; }
+ .container-fluid > div[style*="margin: 100px"] { margin:1rem 0!important; }
+ .dash-graph { width:100%!important; display:block!important; }
+ .row > .col-2 { width:100%; margin-left:0; }
+ .project-home { padding-top:1.4rem; }
+}

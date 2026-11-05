@@ -1,3 +1,4 @@
+import ast
 import dash
 from dash import html, dash_table, Input, Output, dcc, callback
 from dash.exceptions import PreventUpdate
@@ -185,7 +186,7 @@ def create_chart(df1, df2, func_name, grid, v_space, sort):
 
 # Reads in dictionary saved in text file
 with open('data/legend.txt') as f:
-    legend_dic = eval(f.read())
+    legend_dic = ast.literal_eval(f.read())
 
 # Hard Code Columns for each of the 4 tables
 GEN_COLS = ['Goals', 'Shots', 'Shooting %', 'Total EX']
@@ -232,7 +233,7 @@ layout = dbc.Container([
     dcc.Store(id='table-mem'),
     html.Div([
         html.Label('Stats to Display'),
-        dcc.Dropdown(
+        dcc.Dropdown(clearable=False, 
             id='filter_dropdown',
             options=[
                 {'label': 'General Stats', 'value': 'gen'},
@@ -245,7 +246,7 @@ layout = dbc.Container([
 
     html.Div([
         html.Label('Per Game or Total Stats'),
-        dcc.Dropdown(
+        dcc.Dropdown(clearable=False, 
             id='function_dropdown',
             options=[
                 {'label': 'Per Games Stats', 'value': 'Average'},

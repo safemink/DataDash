@@ -1,3 +1,4 @@
+import ast
 import dash
 from dash import html, dash_table, Input, Output, dcc, callback
 import dash_bootstrap_components as dbc
@@ -192,7 +193,7 @@ filter_cols = ['Play Time'] + filter_cols
 # Hard coded tooltip header/legend
 # Reads in dictionary saved in text file
 with open('data/legend.txt') as f:
-    legend_dic = eval(f.read())
+    legend_dic = ast.literal_eval(f.read())
 
 # sort the teams in alphabetical order
 teams = sorted(df.Team.unique().tolist())
