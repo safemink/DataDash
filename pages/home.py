@@ -54,7 +54,7 @@ layout = html.Div(
                 html.Div(
                     children=[
                         html.Strong(
-                            'Important Limitations:',
+                            'Important Limitations: ',
                             style={'font-size': '20px', 'font-weight': 'bold'}
                         ),
                         '''Great effort was invested in ensuring the acquisition of high-quality and consistent data. 
